@@ -1,3 +1,6 @@
+---
+category: 'WEIGHT LOSS SURGERY'
+---
 # 10 Things Every Weight Loss Surgery Loan Lover Should Know
 Embarking on a weight loss surgery journey can be a life-changing decision, both emotionally and physically. If you’re considering taking out a “Weight Loss Surgery Loan,” you’re not alone. Many people find themselves in the same boat, seeking a financial helping hand to achieve their health goals. In this guide, we’ll not only explore the ten things you should know as a weight loss surgery loan enthusiast but also answer some common questions to ensure you’re fully informed and ready for this transformative journey.
 

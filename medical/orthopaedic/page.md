@@ -1,0 +1,9 @@
+# Orthopaedic
+
+Orthopaedics, or orthopaedic surgery, is a medical speciality that is concerned with the injuries and diseases relating to your body’s musculoskeletal system. This system is a complex network that includes your bones, ligaments, tendons, joints, nerves and muscles which are responsible for helping you move and be active.
+
+Orthopaedic surgeons are concerned with diagnosing, treating and rehabilitating any injuries done to your musculoskeletal system and preventing injury and slowing down the progression of a disease.
+
+Some orthopaedic surgeons can be even more specialised in this field, for example doctors may choose to focus specifically on sports medicine or paediatrics (doctors specialising in the care of infants, children and adolescents).
+
+Since our musculoskeletal system is quite important to our daily lives, financial stresses should be the last thing on your mind. Contact TLC today to discuss the various types of finance we have so you can focus on healing.
