@@ -1,0 +1,15 @@
+# Welcome to TLC Medical!
+
+We know that sometimes applying for finance such as cosmetic surgery loan, bariatric surgery loan or even getting funded might be difficult, but with TLC is doesn’t need to be, and it won’t be. We endeavour to provide a stress-free application process so that you can focus on recovery rather than worrying about the financing you need to cover your medical costs.
+
+At Total Lifestyle Credit, we believe that providing competitive payment plans will lead to a better experience and ultimately a stress-free outcome for you.
+
+If you require a medical loan to improve your health like vascular surgery, bariatric surgery or eye surgery, TLC can help you acquire flexible loan solutions. Alternatively, if you want to take the next step with growing your family with IVF and need to cover the associated medical costs, TLC have a payment plan solution to cover your medical needs.
+
+With our flexible medical loans, we can also help you get funding for cosmetic procedures including breast lifts and augmentations, plastic surgery procedures like breast reconstructions and burn repair surgery, and non-surgical procedures like injectable fillers.
+
+Our prompt services are personalised to suit your medical needs. We endeavour to understand your unique circumstances to provide you a personalised experience and have you well-informed of all your financial options.
+
+TLC can help provide you with payment solutions from $2,001 to $50,000 to cover your medical costs so that it’s one less worry for you to stress about.
+
+TLC are here to help you take care of yourself. Call us today on 1300 045 047 !
