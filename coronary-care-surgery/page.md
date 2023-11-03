@@ -1,0 +1,28 @@
+---
+category: "MEDICAL LOAN"
+---
+
+# Coronary Care Surgery – Make Plans For Recovery After Your Surgery
+
+If your doctor tells you that you need a coronary artery bypass operation on your heart, you’ve probably got a lot of questions.
+
+Your coronary arteries supply your heart muscle with blood. If they have too much plaque built up in them, it can narrow or even block your blood from passing through. If your heart can’t get enough blood or oxygen, you can have a heart attack.
+
+Coronary care surgery redirects blood around a section of a blocked or partially blocked artery in your heart to improve blood flow to your heart muscle. The procedure involves taking a healthy blood vessel from your leg, arm or chest and connecting it beyond the blocked arteries in your heart.
+
+Although Coronary care surgery doesn’t cure the heart disease that caused the blockages (atherosclerosis or coronary artery disease), it can ease symptoms, such as chest pain and shortness of breath. For some people, this procedure can improve heart function and reduce the risk of dying of heart disease.
+
+### Why it’s done
+
+Coronary care surgery is one option if you have a blocked artery to your heart. Your doctor might consider it if:
+
+- You have severe chest pain caused by narrowing of several of the arteries that supply your heart muscle, leaving the muscle short of blood during even light exercise or at rest.
+- You have more than one diseased coronary artery, and the heart’s main pumping chamber — the left ventricle — isn’t functioning well.
+- Your left main coronary care surgery is severely narrowed or blocked. This artery supplies most of the blood to the left ventricle.
+- You have an artery blockage for which temporarily inserting and inflating a tiny balloon to widen the artery (angioplasty) isn’t appropriate, you’ve had a previous angioplasty or placement of a small wire mesh tube (stent) to hold the artery open that hasn’t been successful, or you’ve had stent placement, but the artery has narrowed again (restenosis).
+- Coronary care surgery might also be performed in emergency situations, such as a heart attack, if you’re not responding to other treatments.
+- Even with coronary bypass surgery, you’ll need to make lifestyle changes after surgery. Medications are prescribed routinely after coronary care surgery to lower your blood cholesterol, reduce the risk of developing a blood clot and help your heart function as well as possible.
+
+Before your [surgery](https://tlc.com.au/coronary-surgery/), you’ll get blood tests, chest X-rays, and an electrocardiogram (EKG). Your doctor may also do an X-ray procedure called a coronary angiogram. It uses a special dye to show how the blood moves through your arteries.
+
+Your doctor will also let you know if you need to make any changes to your diet or lifestyle before the surgery and make any changes to medicines you take. Also tell your doctor about any vitamins and supplements you take, even if they are natural, in case they could affect your risk of bleeding.

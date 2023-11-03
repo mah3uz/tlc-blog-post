@@ -1,0 +1,32 @@
+---
+category: "WEDDING LOAN"
+---
+
+# What Type Of Engagement Ring Should I Buy To Impress My Bride?
+
+Imagine you and your girlfriend are on the way to a party and both are indulged in a serious conversation. All of a sudden some freak is happening and your girlfriend is absolutely mad without knowing what is going on and at an unexpectedly you’re on your knees asking “will you marry me!” with an exciting engagement ring.
+
+Congratulations..! She will be astonished by the way you express with a beautiful engagement ring. The ring matters more it should eye catch at first sight. This is why you have to choose wisely. Do you feel choosing a wedding ring would be daunting? Don’t worry here are a few tips to buy a magical engagement ring.
+
+**Decide on a budget:**
+While buying an amazing ring it is always necessary to decide on a budget. Wrapping up the budget foremost will make you find the best ring accordingly. You can explore types of engagement ring at your affordability along with great design and a center gem.
+
+Some would feel uncomfortable setting up a budget as they’re going to spend it for their loved ones. If you’re one among them you can have a wedding loan to afford it.
+
+**Research her style:**
+Probably, you have to research her style of the jewel before choosing a ring. It has a high chance to hasten the romance during the proposal. Sure you would be quite familiar with what she likes or what kind of ring she wears, so on.
+
+If not make a note on the type she wears, whether platinum or gold or silver what she prefers. She might love to be in absolute simplicity or would love to wear an understated piece. So, all this will make your spotting much easier. Therefore, make research on her style.
+
+**Spot a Ring style:**
+To spot an impeccable ring you have to go through the following considerations:
+
+- Popular ring style
+- Gemstone selection
+- Gemstone shape
+- Choose a precious metal
+- The ring size that suits your partner
+
+These are the factors that have to be followed to buy a perfect engagement ring. You can take your bride to choose clothes and accessories for the big wedding event. Just think about choosing an engagement ring will you take her with you?
+
+Nope, it would be hard and confusing to decide yourself. For guidance here are some tips for choosing – a ring must be elate, glamorous, inspiring, modern, classic and the best part is it should anticipate your partner. For more follow [TLC](https://tlc.com.au/) on [Facebook](https://www.facebook.com/totallifestylecredit/) or [Linkedin](https://www.linkedin.com/company/tlc-total-lifestyle-credit/).

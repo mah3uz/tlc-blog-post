@@ -1,0 +1,36 @@
+---
+category: "MEDICAL LOAN"
+---
+
+# Why are customers reviews important
+
+Why Are Customer Reviews Important? Approximately 90% of people check out a business, product or service online before choosing to buy. Research suggests that 88% of these people trust online reviews. Websites such as Plastic Surgery Hub allow you to independently research practitioners and surgeons in order to hear what other patients have to say, get a feel for the surgeon’s popularity and make sure you’re making the right choice for you and your procedure. Every now and then we notice that one of the surgeons, clinics or practitioners we have listed on the Hub have more reviews than most. One of these is NorthEast Plastic Surgery with locations in Melbourne and Brisbane. Their patients are real advocates of the services and here are a few snippets from some.
+
+### Nicole, April 2017
+
+‘The surgery has been life-changing for me, I am amazed and blown away by the result. NorthEast plastic surgery have been fantastic, all the staff are lovely and should be proud of the professional service they provide, nothing is a problem and they are always smiling and polite. I can’t thank Dr Tansley and Dr Seneviratne enough for what they have done for me. I have my confidence back and feel fantastic. Of course, I would highly recommend them to anyone’.
+
+Recommendations such as these are powerful. For a patient to be so happy with their results that they take the time to tell others about it means the surgeon must have really made an impression and done everything right. Of course, to have weight, and to really pack a punch, there have to be a few reviews on the same surgeon or clinic. NorthEast Plastic Surgery delivers on this front too.
+
+### Dale, April 2017
+
+‘From my first contact with the Brisbane surgery, I knew I’d made the right choice. One of my implants had ruptured and I needed them removed and replaced. My procedure was explained thoroughly and all the dangers were pointed out. The different sizes and shapes were also discussed in detail and most important whether I wanted saline or silicone implants. Because I don’t live in Brisbane I had to travel down for the consultation and then for the Operation. My operation was on Friday and again I couldn’t fault Doctor Patrick Tansley and his operating staff. The hospital staff were also fantastic. My sister & I stayed in Brisbane for the 6 days, which gave us a reason to shop (of course) and my checkups on Saturday morning, Monday and finally on Wednesday. I’ve just had my 6 week check up and of course, I’m very happy with my new additions. Everything went great. I would definitely recommend the Doctors and staff, Amanda and Michelle at North East Plastic Surgery’.
+
+**And another one:**
+
+# Maree, January 2017
+
+‘My desire to have “something done” with my saggy eyelids and under eye troughs had plagued me for years. Once I decided to finally investigate, I researched fillers at numerous skin clinics, laser, and referrals with two other surgeons. It was an exhausting and slightly expensive process, however, I figured it was my FACE, so I had to be as informed as possible before making my final decision’.
+
+‘Upon visiting NorthEast Plastic Surgery, although the cost was similar to other surgeons, I was impressed with Sugitha’s warm approach and her clear explanation of the procedure to me. She also works with another prominent surgeon so I also thought (funny as it sounds) that two surgeons was a bonus!’
+
+‘I am delighted to say that the end result was fantastic and the aftercare exemplary! Don’t bother with research…I’ve done it already! Caring, proactive and highly skilled professionals in their craft. I couldn’t be happier’.
+
+There are several more reviews on NorthEast Plastic Surgery’s listing – you can check them out here. But the reason why we’re pointing this out is that it’s an important part of your research when you’re trying to decide what surgeon is right for you. There is a reviews tab on each of the surgeon’s listed on our website – see image below.
+
+asdf Why are customers reviews important - TLC - 1
+Closed support forums and reviews are a great way to research any surgeons you might be considering. Whether it’s on the Hub or elsewhere, patient reviews and real stories are important. As long as you keep in mind on occasion a clinic or surgeon may tamper with their reviews on a website (read more about that here), but a way around this is to cross reference on different websites, social media including FB etc. If one surgeon in particular on one particular website or social media forum seems to have a raving fans overload, be aware that some may be fabricated.
+
+\*This blog is written by Trish Hammond, founder of Plastic Surgery Hub with the help of information from NorthEast Plastic Surgery. We have very gratefully reposted her work to inform and educate our customers. You can find more of Trish’s wonderful articles at [www.plasticsurgeryhub.com.au](http://www.plasticsurgeryhub.com.au)
+
+Trish is a plastic surgery blogger. She is passionate about wellbeing, health and beauty, and doesn’t mind a little bit of ‘help’ from the amazing cosmetic and beauty procedures that are available today. Trish spends her days talking to women and men who are looking for suggestions and advice on procedures that are available to them. Cutting through the sales pitch and hype, a down-to-earth response on general information is what you will get.

@@ -1,0 +1,39 @@
+---
+category: "MEDICAL LOAN
+"
+---
+
+# Liposuction in Sydney – an A-Z guide on liposuction with Dr Jeremy Hunt
+
+If you’ve got some stubborn fat, one of the best ways to get rid of it is liposuction. There are some great non-surgical devices on the market now, but they can only do so much, and they also require several treatments, more depending on how much fat you want to get rid of. [Dr Jeremy Hunt](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-jeremy-hunt/), Plastic Surgeon from Edgecliff in Sydney has performed hundreds of [liposuction](https://www.plasticsurgeryhub.com.au/procedure/liposuction-lipoplasty/) procedures and says it is one of his most popular surgeries so with his help we put together an A-Z on liposuction.
+
+**A – Anaesthesia** – whether you have general or local anaesthetic will depend on how large an area or how many areas you are having liposuctioned, and may also depend on your surgeon or practitioner and what they prefer.  
+**B – Buttocks**, back, breasts – three common areas of the body able to be liposuctioned.  
+**C – Cannula** – the suction tool used to vacuum your fat out of your body.  
+**D – Demographic** – liposuction is suitable for anyone with stubborn pockets of fat  
+**E – Expectations** – Remember, liposuction is not to be used as a form of weight loss – it is only for stubborn pockets of fat that won’t budge.  
+**F – Fat cells** – these are what will be destroyed and suctioned out of your body to reduce your fat and create more contour.  
+**G – Garments** – you may be required to wear a compression garment after liposuction.  
+**H – Hospital fees** – you may need to factor these in depending on your surgeon and where you will be having your liposuction surgery performed.  
+**I – Incisions** – you will have dozens of incisions where the cannula is inserted to move back and forth to suction your fat cells out. These will fade with time and generally do not leave scars.  
+**J – Jelly belly no longer**! Liposuction is great for getting rid of those unwanted pockets of fat.  
+**K – Knees** – did you know you can even liposuction your knees?!! Book me in!!  
+**L – Liposculpture, lipectomy, lipoplasty** – these are all additional names for liposuction.  
+**M – Men** – liposuction is also extremely popular with men.  
+**N – Numbness** – you will have a numb abdomen so you can’t feel the procedure!!  
+**O – Overweight** – Keep in mind that liposuction should not to be used as a weight loss tool for largely overweight or obese patients, more as a body sculpting tool when you are close to your goal weight – refer to “E” above.  
+**P – Pubis** – did you know you can liposuction your pubic area?!!  
+**Q – Questions** – if you have any questions about liposuction Dr Jeremy Hunt will be only too happy to answer them. Just email his clinic on (02) 9327 1733 or email him via [admin@drjeremyhunt.com.au.](admin@drjeremyhunt.com.au)  
+**R – Rippling** – this is an ugly side effect of liposuction that is much more common with less experienced surgeons.  
+**S – Suction** – liposuction is basically sucking your fat cells out of your body!  
+**T – Tumescent Liposuction** – read more about that [here](https://www.plasticsurgeryhub.com.au/how-liposuction-works-with-dr-patrick-briggs/).  
+**U – Unconscious** – many patients opt for a general anesthetic so you will not be conscious for the procedure. Some surgeons will only perform liposuction under a general anesthetic.  
+**V – Vaser** – another liposuction technique, read more about that [here](https://www.plasticsurgeryhub.com.au/vaser-liposuction-why-it-beats-traditional-lipo/).  
+**W – Work** – you will need to have at least one week off work after your liposuction procedure.  
+**X – “X”** marks the spot – some surgeons place little “x” marks where they will be making the incisions to insert the cannula.  
+**Y – Yellow** – the colour of your fat sucked out of your body!  
+**Z – Zero regrets** – what we hope you have if you choose a fully qualified and experienced surgeon to perform your liposuction!
+
+\*This blog is written by Trish Hammond, founder of Plastic Surgery Hub with the help of information from Dr Jeremy Hunt. We have very gratefully reposted her work to inform and educate our customers. You can find more of Trish’s wonderful articles at: [www.plasticsurgeryhub.com.au](http://www.plasticsurgeryhub.com.au)
+
+Trish is a plastic surgery blogger. She is passionate about wellbeing, health and beauty, and doesn’t mind a little bit of ‘help’ from the amazing cosmetic and beauty procedures that are available today. Trish spends her days talking to women and men who are looking for suggestions and advice on procedures that are available to them. Cutting through the sales pitch and hype, a down-to-earth response on general information is what you will get.

@@ -1,0 +1,42 @@
+---
+category: "MEDICAL LOAN"
+---
+
+# What is Non-Surgical Rhinoplasty
+
+More of us are more unhappy about the shape and size of our nose than anything else on our bodies, if you consider that rhinoplasty is the most common plastic surgery procedure. With all the new products and techniques on the market, it is now possible to have a rhinoplasty without surgery! Non-surgical rhinoplasty is one of the most popular treatments at Avenue Skin Care in Melbourne and they are getting some amazing results that they were happy to share with us. They were also happy to chat with us and answer our question, What is Non Surgical Rhinoplasty?
+
+### How is a rhinoplasty a rhinoplasty without surgery?
+
+A non-surgical rhinoplasty uses dermal filler to help shape and contour the nose without having to go under the knife. Rachael from Avenue Advanced Skin Care says, “Reshaping the nose has been traditionally performed with surgical rhinoplasty. Injectable nose enhancement with dermal fillers is perfect for clients who are looking for an alternative to a surgical procedure. The use of correctly placed Dermal Filler can straighten the nose to create a more aesthetically pleasing look. Non-Surgical Rhinoplasty is one of our most favoured treatments at Avenue Advanced Skin Care.”
+
+### What are the pros of a non-surgical rhinoplasty?
+
+- **No surgery required**
+- **No need to undergo a general**anesthetic (a numbing agent is in the product so the treatment is completely bearable!)
+- **The procedure is quick and you can be in and out of the clinic within the hour** (Rachael says the treatment usually takes around half an hour)
+- **Depending on what your issue with your nose is, results can be as good as a surgical rhinoplasty**
+- **Results are instant with minimal downtime** (some patients report having a little pain for a day after the treatment but this is treatable)
+- **Cost –** the cost of a non-surgical rhinoplasty is a LOT less than a surgical rhinoplasty.
+
+Rachael says their technique can produce instant results. “It is perfect for those wanting to make a minor change to their nose without having to worry about the down time of surgery. Our injector’s artistic and subtle touch ensures natural looking results to restore unique facial contours and a more youthful appearance. Our staff are highly skilled and experienced and are trained to recognise which treatments will work best for our clients.”
+
+You should be aware that non-surgical rhinoplasty is a specialised treatment that not all injectors perform. You need to be extremely diligent in ensuring the procedure is one that your practitioner is experienced and trained in performing. Avenue Advanced Skin Care is headed up by Dr Allan Kalus, Specialist Plastic and Reconstructive Surgeon at Avenue Plastic Surgery and his non-surgical clinic adheres to the same high standards and only employs highly trained and experience practitioners for the treatments and procedures they perform.
+
+### What does a non-surgical rhinoplasty involve?
+
+Rachael gives us a step by step of what to expect with a non-surgical rhinoplasty.
+
+“After careful analysis of the area, the injections usually take 15-30 minutes depending on the amount of product required. The product used contains a local anaesthetic, which means that it will provide additional numbness as the product is injected. Results usually last 6-12 months. Subsequent treatments can have a longer lasting effect than the first treatment. Price is from $650.”
+
+We got hold of some of Avenue Advanced Skin Care patients to tell us about their non-surgical rhinoplasty at the clinic.
+
+“I honestly cannot thank Avenue Advanced Skin Care enough. My nose is something I’ve been so conscious about all of my life but I never wanted to go through with surgery so the fact that this amazing non-surgical option exists is an absolute blessing!! I would recommend to anyone.” – Kira
+
+“I LOVE my new nose!!!! Thank you so much.” – Taniae
+
+If you’d like more information on non-surgical rhinoplasty at Avenue Advanced Skin Care you can phone them on 1300 230 168.
+
+\*This blog is written by Trish Hammond, founder of Plastic Surgery Hub with the help of information from Avenue Advanced Skin Care. We have very gratefully reposted her work to inform and educate our customers. You can find more of Trish’s wonderful articles at: [www.plasticsurgeryhub.com.au](http://www.plasticsurgeryhub.com)
+
+Trish is a plastic surgery blogger. She is passionate about wellbeing, health and beauty, and doesn’t mind a little bit of ‘help’ from the amazing cosmetic and beauty procedures that are available today. Trish spends her days talking to women and men who are looking for suggestions and advice on procedures that are available to them. Cutting through the sales pitch and hype, a down-to-earth response on general information is what you will get.

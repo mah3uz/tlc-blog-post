@@ -1,0 +1,145 @@
+---
+category: "MEDICAL LOAN"
+---
+
+# Trish Hammond talks Breast Reduction with Dr Graham Sellars at the AAPSW
+
+**Trish:** Hey, podcasters. I’m really excited ’cause I’m here today with [Dr Graham Sellars](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-graham-sellars/), who’s a Plastic & Reconstructive Specialist Surgeon based in SAN Clinic, which is in Wahroonga in New South Wales, Sydney. Sydney, New South Wales. And I’m really excited because I don’t very often get to talk to Dr Sellars, so today we’re gonna talk about my favourite topic in the whole wide world, which is [breast reduction](https://www.plasticsurgeryhub.com.au/procedure/breast-reduction-surgery-reduction-mammoplasty/). So, thank you so much for joining us today.
+
+**Graham Sellars:** Pleasure, thanks for coming along.
+
+**Trish:** Awesome. Lovely, so tell me, I’m a breast reduction patient myself, so I know that breast reductions are one of the most popular and life changing surgeries for people. And I know that you do a lot of them. So, what sort of patients come to you for breast reduction, the young, old? Is there a specific demographic?
+
+**Graham Sellars:** We see … Tends to be older patients after having children. But there’s a significant proportion also of younger patients, in their early 20s maybe. And even cases in their late teens. I think a lot of people think about breast reduction from those early times when they’re just feeling self conscious, uncomfortable, can’t exercise, all those things that are a problem with larger breasts. And then particularly as they get older you have upper neck and back pain. I think people perhaps are a little bit cautious and scared about breast reduction when they’re younger. So there’s the element of breastfeeding ’cause if you’re having a breast reduction, you may not be able to breastfeed afterwards. And so, women, the younger might think, “I might just try and have children first and then …
+
+**Trish:** Wait.
+
+**Graham Sellars:** Consider.” But there are proportion that they do, it’s a sufficient problem, they just wanna do something soon. Probably two thirds of that patients would be in an older age groups like 40s and 50s, after they’re finished having their family. Maybe their children are grown up and they’ve now got some time to sort themselves out. And the larger breasts have just bothered them, their breasts seems to get a bit bigger after breastfeeding, rather unfairly. But they’ve now got time to do something about it. And three quarters are the ones saying, “Gees, I wish I’d done this sooner.”
+
+**Trish:** Yeah.
+
+**Graham Sellars:** It is, of all my patients, my happiest patients are breast reduction patients, because it is such a day-to-day, life changing practicality operation. And it’s a good operation.
+
+**Trish:** And so do you have a particular … Do you just do the same thing for everyone, or do you do maybe liposuction first or does it depend on the breast? Because some women a lot fuller, still wanna have a breast reduction, some people have actually lost weight, and they’re quite deflated. So is there different procedures for different people, or it’s pretty much the stock standard same operation?
+
+**Graham Sellars:** There’s lots of different techniques you can use around breast reduction. And certainly, no two people are the same, so therefore you shouldn’t give them the same operation for everyone, you need to tailor it. And also, you need to understand the limitations with given individuals. Over the history of plastic surgery, there’s been over 25 different type of breast reduction operations described. And it means that none of them are perfect.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** It also means that there are different ways of addressing different patients. Generally speaking, there are two main techniques that most people would use. One is the standard anchor shaped scar, and then there’s the smaller vertical shaped scar. The classic anchor shaped scar is probably two thirds of breast reductions that are done, and a variety of the other operations that are done, the other third. But you need to look at exactly what the problem is, is it weight, what’s the skin like, is there fullness on the upper pole, is the upper pole empty? ‘Cause that’s gonna limit how high you can raise the nipple without it starting to look unusual. The only other way to address that is to add a new implant, which is usually counterintuitive and probably not sensible in people with a deflated breast. So yeah, and some people need a little bit of liposuction under the arm, they got a bit of fullness on the side of their chest, which is actually chest wall, it’s not breast. You can see it a bit more obvious once the breasts are smaller. And the worst thing about having a breast reduction, is you can see your tummy afterwards. So a lot of women with large breasts tend to have a slightly larger tummy and that could be the only downside, but …
+
+**Trish:** So it just gives them a reason to have a tummy tuck after.
+
+**Graham Sellars:** Well, one of the good things is they can exercise more easily.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** ‘Cause one of the difficulties with larger breasts is, it’s just down right uncomfortable to exercise.
+
+**Trish:** Totally, yeah.
+
+**Graham Sellars:** So, I’ve certainly had a lot of patients have had big breasts reduction, and they now feel comfortable enough to go and exercise and just work on the rest, sort of weight loss.
+
+**Trish:** Yeah. And I suppose it depends on the patient, but does it attract an item number. ‘Cause when I had mine done, I think I got $2,000 back from Medicare with the item number. Is that still the case?
+
+**Graham Sellars:** For most patients. It is very much a functional operation for women with the large breasts, who’s getting the rashes underneath the breast in summer, getting upper neck and back pain. There’s a spectrum from those larger, oversized, very heavy breasts to deflated breasts that really just need a lift, which tends to be more of a cosmetic procedure that a functional procedure. And most patients are somewhere in the middle.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** But if it’s reasonable, because of the system they’re getting then you can use an item number, which means that you get some money back from Medicare and insurance health fund get some money back from health fund and most health funds will cover the majority of hospital costs associated with that as well.
+
+**Trish:** Is it true that your breasts grow back because I’ve had a couple of ladies saying, “Oh my God, I had a breast reduction three years ago and my breasts grew back.”? Mine haven’t but I have put on weight and then lost weight, and I know that my breasts have actually changed shape and I like them way better now.
+
+**Graham Sellars:** Yep.
+
+**Trish:** But I have actually seen one of my friends who had a breast reduction, and her boobs kinda grew back.
+
+**Graham Sellars:** Yeah, there are two main reasons for that. One is your breasts are still growing, that’s usually in the younger age group. You know when your breasts have stopped growing when you’ve worn the same bra for over 12 months, without your weight changing.
+
+**Trish:** Yep.
+
+**Graham Sellars:** And that’s usually round about 20, can be late teens, can be early 20s. So, if you’re doing a breast reduction in a younger age group and their breast are still growing, then there’s a reasonable chance that their breasts haven’t finished growing and that you may need to redo the procedure. The hormones of pregnancy also stimulate breast tissue to grow, so if you happen to have a pregnancy afterwards, that can particularly affect the breast tissue. Obviously, breast become large, because they’re sensitive to oestrogen and the hormonal environment makes your breasts grow. So it certainly … If that hormone environment changes then that can stimulate breast growth. And the other thing is, we all tend to put on a bit of weight as we get older and that’s probably the more common reason that the breasts may grow after a breast reduction.
+
+**Trish:** And I guess even menopause might be …
+
+**Graham Sellars:** Absolutely.
+
+**Trish:** Something.
+
+**Graham Sellars:** Yeah. The hormonal environment changes and just the metabolic changes with menopause, also women tend to put on weight. So it’s a combination of factors.
+
+**Trish:** Yeah. So probably in the ideal patient you wanna be a stable weight and try not to put on weight after you’ve had it, ’cause you might put on a bit in your boobs.
+
+**Graham Sellars:** Yes.
+
+**Trish:** I did but I kinda like it ’cause it sort of filled up the top, which was quite hollow on me before.
+
+**Graham Sellars:** Yes, ideally you wanna go in slightly under your normal weight, and then you tighten the skin and then as the skin relaxes, if you put a bit of weight on …
+
+**Trish:** It’s fine.
+
+**Graham Sellars:** Then it kind of fill things out a bit. It’s like most skin type operations, you put a bit of weight on afterwards, that fills out as the skin relaxes, it’s basically still the same.
+
+**Trish:** Yeah, and I was saying to you earlier, I had my breast reduction and my recovery was horrendous, it was just like the … And I love it now, it’s the best thing ever. But I’ve spoken to other people and no one has had the same experience as me. But I find that my scars have actually gone a little bit higher, so it’s almost like the breast tissue bottoming out like when you get implants.
+
+**Graham Sellars:** Yeah, it can be. I’m sorry to hear you had a bad experience but …
+
+**Trish:** Oh no, but I’ll still do it again. I’d definitely still do it again. It’s the best surgery ever.
+
+**Graham Sellars:** Most people will say it’s actually less painful than they were expecting.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** The majority of people.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** But a couple of things happen, you tighten the skin as part of a breast reduction, but that skin lax and gives like all skin does under tension. So there’s a couple of things happens that the skin stretches and relaxes, which causes the breast to drop. And that typically takes about three to six months to happen. For them to find their new happy place. So as that skin stretches, the scar can sort of creep up a little bit onto the bottom of the breast rather than in the fold underneath the breast.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** In much the same way, the weight of a breast implant can do particularly a smooth breast implant, tend to drop and cause the scar to ride up a little bit.
+
+**Trish:** Right. And do you have a measurement where you put the nipple, ’cause when I first got mine done, my nipples were really high. The right nipple would stick out of a bra, but over time that’s changed. I didn’t care because compared to what they were before, I was like, “I don’t care. I just gotta be careful I don’t pop out one side.” Do you have a measurement that you go by, or you just …
+
+**Graham Sellars:** There’s a couple of guidelines. There’s three main ways that I will use to position the nipple. Generally toward around about 23cm, but that certainly doesn’t fit for everyone, and I think that’s the guide. The most useful guide is probably where the fold of the breast is and the nipple should sit around the level of the fold. The French also use a different measurement, so halfway between your upper arms is often the height. But I think Elizabeth Hall-Findlay from Canada talks about the breast base, and I think the important thing is where your breast starts. In terms of where that slope at the upper arm breast starts.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** For some people that’s quite high, but you can make the nipple higher. But if that is low, that take off is low and you put the nipple where you might have normally put it. It will end up to high pointing at the ceiling.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** And that takes three to six months before that’s evident because that’s when the skin at the bottom bottoms out, the weight makes the top of the breast to the bottom, and then …
+
+**Trish:** Yeah.
+
+**Graham Sellars:** And then hello, they’re pointing at the ceiling so. The other trick for young players is to not put the nipple too high.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** Because certainly when plastic surgeons are training, they don’t necessarily see patients a year or two down the track.
+
+**Trish:** Yeah.
+
+**Graham Sellars:** And that’s when the long-term changes happen.
+
+**Trish:** Oh yeah. That makes so much sense, it makes so much sense. And speaking from my experience, it’s definitely the best surgery I’ve ever had out of everything I’ve ever … Not that I’ve had that many, but the best surgery. I’ll definitely do it again, even with all the suffering I had afterwards. ‘Cause it was my own fault for probably not looking after myself but yeah, definitely the best surgery.
+
+**Graham Sellars:** Yeah. Happy patients.
+
+**Trish:** Well thank you so much for taking the time today.
+
+**Graham Sellars:** No problem.
+
+**Trish:** And ladies or men, if you’re looking at a breast reduction here in Sydney, definitely, definitely go and see Dr Graham Sellars down at SAN Clinic, down at Wahroonga in Sydney. So thank you so much for taking the time today.
+
+**Graham Sellars:** You’re welcome. Thanks.
+
+**Trish:** Awesome, bye.
+
+**Graham Sellars:** Bye.
+
+\*This transcript is taken from an interview with Tim Boon, Director of TLC and Trish Hammond, founder of Plastic Surgery Hub. We have very gratefully reposted her work to inform and educate our customers. You can find more of Trish’s wonderful articles at: [www.plasticsurgeryhub.com.au](http://www.plasticurgeryhub.com.au)
+
+Trish is a plastic surgery blogger. She is passionate about wellbeing, health and beauty, and doesn’t mind a little bit of ‘help’ from the amazing cosmetic and beauty procedures that are available today. Trish spends her days talking to women and men who are looking for suggestions and advice on procedures that are available to them. Cutting through the sales pitch and hype, a down-to-earth response on general information is what you will get.

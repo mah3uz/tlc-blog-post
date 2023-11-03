@@ -1,0 +1,34 @@
+---
+category: "MEDICAL LOAN"
+---
+
+# When should you have a facelift? How do you know you’re ready? Is there a right time?
+
+Dr Bryan Mendelson knows faces. He’s one of the most respected leaders in facial surgery in the world, and he’s based right here in Melbourne, Australia. Author of “[In Your Face](https://www.plasticsurgeryhub.com.au/next-bookclub-book-dr-bryan-mendelsons-face-plastic-surgery-looks-matter/)” and contributor to various of the world’s most referred to medical textbooks, he’s seen thousands of faces and done hundreds of [facelifts](https://www.plasticsurgeryhub.com.au/procedure/face-lift-surgery-rhytidectomy/), [blepharoplasties](https://www.plasticsurgeryhub.com.au/procedure/eyelid-surgery-blepharoplasty/), [neck lifts](https://www.plasticsurgeryhub.com.au/procedure/neck-lift-surgery-platysmaplasty/), cheek lifts and every other facial surgery. We wanted to pick Dr Mendelson’s brain to find out when the best time and with what indicators a person should have a facelift. What he says about it makes a lot of sense.
+
+## It’s all about the timing
+
+Dr Mendelson says about half the women he sees have missed the “ideal” time to benefit from facial surgery. Most women (and men!) tend to wait to have a facelift until they can see extremely noticeable signs of ageing on their face… conspicuous wrinkles and fine lines, saggy or lax skin, basically an appearance that is obviously affected by ageing. Unfortunately, having a facelift at this stage is going to be all the more obvious. The longer you leave it, and the older your appearance, the more apparent a facelift will be. Dr Mendelson says, “Patients are usually disappointed on hearing this, as they had thought they had been virtuous in waiting so long! They had assumed they were doing the correct thing by ‘waiting’ at least until they were in their mid fifties before consulting a plastic surgeon. Their usual response is ‘if only someone had told me’.”
+
+## Do it BEFORE it’s too late!
+
+Waiting until your face has aged to the point where you feel like you look like you’ve well and truly entered the point of no return will greatly reduce your chances for a great result. Facial lines, skin folds, loss of volume and permanent skin changes are a lot more difficult to correct with just a facelift, or will create a result that does not look as natural had you had the surgery when the changes were less obvious.
+
+Having surgery earlier will also help to hold your face in place as it ages and allow you to enjoy the results as the years tick by. Dr Mendelson explains, “Quality facelifts avoid the obvious facelift look as they do not pull the skin directly, instead they tighten the internal support structure of the face. This also slows the rate of future aging, by delaying the onset of obvious laxity for a further decade. The ideal time to be considering a facelift is when you are becoming aware of early laxity of your face. This early laxity is first noticed only when the head is tilted down or when you press the skin along the jawline or inner cheek, and it moves more than it used to! At this stage the laxity is still not so obvious as to be noticed by others, especially in normal head position ie, with the chin up. This is what I term, Latent laxity. Ideally this laxity should be corrected before it has progressed to become obvious laxity, from which there is no escaping.”
+
+## Benefits for having facelift surgery earlier
+
+- Stop the signs of ageing before they become too obvious, meaning you just look like you’re “ageing well”.
+- Better recovery – the younger you are generally the better you “bounce back” from any surgery.
+- Your facelift will be less noticeable and a subtle improvement in your appearance giving you a more natural result.
+- You will probably have more hair giving you a better chance of hiding any scarring.
+- Your results will actually last
+
+longer if you have the surgery earlier rather than later.
+Remember, the best facelifts are the ones where your family, friends, work colleagues and other mothers at graduation don’t even know you’ve had one done. It’s about [natural looking results](https://www.plasticsurgeryhub.com.au/dr-bryan-mendelson-facelift-surgery/) that give you a fresh, youthful look but you still look like you. As Dr Mendelson says, “The result of a well-performed facelift is natural, and it’s subtle, and the result is lasting. In addition to which it also slows the appearance of further ageing.”
+
+Dr Mendelson’s knowledge of facial anatomy and the muscles, tissues and skin that make up the face is unparalleled. To find out more check about him check out his website or if you’d like to arrange a consultation give his clinic a call on (03) 9826 0977.
+
+\*This transcript is taken from an interview with Dr Bryan Mendelson and Trish Hammond, founder of Plastic Surgery Hub. We have very gratefully reposted her work to inform and educate our customers. You can find more of Trish’s wonderful articles at: [www.plasticsurgeryhub.com.au](http://www.plasticsurgeryhub.com.au/)
+
+Trish is a plastic surgery blogger. She is passionate about wellbeing, health and beauty, and doesn’t mind a little bit of ‘help’ from the amazing cosmetic and beauty procedures that are available today. Trish spends her days talking to women and men who are looking for suggestions and advice on procedures that are available to them. Cutting through the sales pitch and hype, a down-to-earth response on general information is what you will get.
