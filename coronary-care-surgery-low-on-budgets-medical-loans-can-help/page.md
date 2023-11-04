@@ -1,0 +1,43 @@
+---
+category: "CORONARY CARE SURGERY, DENTAL SURGERY LOANS"
+---
+
+# Coronary Care Surgery – Low on budgets, Medical loans can help
+
+The health care services have seen an inflationary spiral amidst the COVID-19 pandemic. The cost has reached high margins amidst this pandemic. Cardiovascular diseases are the number one cause for death globally. On an average 219 out of every 100,000 die due to cardio-vascular diseases, according to a 2017 data. The average pricing for a basic coronary care surgery cost to about $40,000, which can further rise up to or more than $75,345. At Total lifestyle credit we offer commercial funding for a wide variety of medical services including dental loans. The idea evolves to avoid a large amount of cash flow due to medical aids requirement. Total Lifestyle Credit provides you with a minimum of $2000 for credit which can be further exceeded to an amount of $50,000.
+
+## T he various medical treatments for which we offer loan funding are as below:
+
+1. Bariatric surgery
+
+2. Cosmetic surgery
+
+3. ENT Surgery
+
+4. Eye Surgery
+
+5. General medical
+
+6. IVF programs
+
+7. Obstetrics
+
+8. Orthopedic
+
+9. Plastic surgery
+
+10. Vascular surgery
+
+Apart from the entire above list total lifestyle credit covers your dental loans too. Enhancing our physical appearances is a very important aspect that all of us definitely wish to work upon. But sometimes we fail to do so, white sparkling teeth is one important desire that all of us wish to have. Due to the rising prices in the dental treatments seems uneasy to achieve. If you wish to achieve a million dollar smile but low on money, don’t worry TLC is here to work for you. [Dental loans](https://tlc.com.au/choose-dental-surgery-loan-for-all-your-dental-work/) can be for any of the following dental treatments:
+
+1. Teeth whitening: The average cost of teeth whitening can cost $650 and climbs up to $1000 or more depending upon the whitening product that is used.
+
+2. Implants: dental implants can cost from a minimum of $1000 to $3000, whereas multiple implants may cost from $1500 to $50,000 or more.
+
+3. Contouring: A tooth contouring has become very trendy in 21st century. The average costing per tooth for contouring starts from $50 to $300 and may vary from place to place.
+
+4. Veneers: veneers involve thin layering over tooth that are stained or have turned pale. The average cost per tooth is $250 and can rise up to $3000. For a composite veneer the range may decrease from $250 to $1500 whereas the cost for porcelain veneer has a slight increase from$925 to $2500.
+
+5. Invisalign: Invisalign are basically a clear pair of braces which make them easy to wear. The cost for Invisalign ranges from $3000 to $7000.
+
+For more information about dental loans and funding for [coronary care surgery](https://tlc.com.au/coronary-care-surgery/) reach us on our website [Total Lifestyle Credit.](https://tlc.com.au/) To avail any of the loan funding please visits to our website using the links given below. You can also follow us on [Facebook](https://www.facebook.com/totallifestylecredit/) & [Instagram](https://www.instagram.com/tlc.aus/).

@@ -1,0 +1,25 @@
+---
+category: "ORTHOPAEDIC SURGERY LOAN"
+---
+
+# Orthopedic Surgery Loan – When Can We Take?
+
+You would have commonly known about the orthopedic surgeon who is specialized in the musculoskeletal system which is made up of joints, bones, muscles, and ligaments. This typically involves any injury or symptoms that affect an individual’s movement in some way.
+
+It can be either limiting the movement, restriction or immobilizing a person’s ability to move. Hence, based on the injury a proper treatment will be carried out for recovery and healing. If you are someone who is advised to take the surgery, then taking the [orthopedic surgery loan](https://tlc.com.au/) will help in handling the financial needs.
+
+## When you may need an orthopedic surgery loan?
+
+1.  **Joint replacements** –One of the most common orthopedic types, when you will need an orthopedic surgery loan, is the replacement procedure. The most common replacement surgery is knee and hip replacement surgery. This procedure involves replacing the damaged or injured joint with the prosthetic body part. This will help in regaining the range of motion and prevent any pain during the movement.
+2.  **Revision joint surgery** – If the joint replacement has failed or weakened then this revised surgery will be helpful. This means the surgeon will remove the existing prosthetic and replace it with the new one.
+3.  **Spinal fusion** – For patients who suffer from chronic back pain, spinal fusion surgery will be required to alleviate the pain and fix the issues. Here the surgeon will join the vertebrate together. Hence more stability and support in the spinal cord will be provided. This will repair the damage and alleviate the pain during typical movements such as walking, standing up, or running.
+
+Few people, option confuse orthopedic surgery with orthodontic surgery. Orthodontics focus on treating teeth and jaw irregularities. For some adults, orthodontic treatment alone will not cure the issues. They will need surgery combined with the treatment to achieve the required result.
+
+## When will one need the orthodontic surgery loan?
+
+The [orthodontic surgery loan](https://dental.tlc.com.au/orthodontic/) can be taken if you wish to take the loan to perform the surgery which will be a remedy for your skeletal problems that affect the ability to chew, speak and bite. The treatment will be initially carried out before or after the surgery to enhance the healing. After the surgery, the individual’s ability to bite, chew and speak will be effectively improved.
+
+Unlike children, adults are not growing. Hence it is necessary for someone whose upper and lower jaws which hold the teeth are out of position. Or when the upper and lower teeth don’t fit properly which causes the inability in chewing, biting, or speaking. Hence, at this time one can take the orthodontic surgery loan and restore optimal function.
+
+Sometimes the root cause can be genetic where; as the individual grows the upper and lower jaws will grow out of proportion to each other and keep them away from the meeting when they should. Other causes may be linked to birth defects or injuries in the jaw and environmental causes.

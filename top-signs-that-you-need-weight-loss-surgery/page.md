@@ -1,0 +1,23 @@
+---
+category: "BARIATRIC SURGERY LOAN, WEIGHT LOSS SURGERY"
+---
+
+# TCL Bariatric Surgery Loan – Top Signs That You Need Weight Loss Surgery
+
+Have your weight begun to create serious implications on your overall health? Then it’s time to seek solutions for your overweight. It will be incredibly difficult to go about your daily life when the muscles simply do not have the strength to carry the weight you have acquired. If you wish to look for more information then here is whether you need to take the weight loss surgery or not.
+
+## When you should take the weight loss surgery?
+
+- **Your BMI falls between 35 and 40 (or higher)** – Your Body Mass Index is the measurement of body fat which is based on height and weight. You will be unable to achieve a healthy BMI when your regular exercise and diet don’t help in weight loss.
+
+When you have an unhealthy BMI for a long time will make your health worse. This will be a sign that many other factors are weighing down the health which you have to catch up. Once your body gets to a certain level of overwhelm, it will be increasingly difficult to reduce the BMI on your own which will result in the need for medical attention.
+
+- **You have developed many negative health issues –** Unfortunately, obesity is associated with many health effects as a result of the overweight. The range of insulin resistance and diabetes will lead to severe health issues. You will suffer from sleep apnea, glucose intolerance, arthritis, or gall bladder issues. If this is the case or if you face any other health issues then it’s always better to take weight loss surgery. It’s important to understand that these underlying health issues will make it more difficult to lose weight. Hence a little help from the surgery will help you reduce weight.
+
+- **Your weight is extremely high than your ideal body weight –** Have you reached a point where your weight is extremely high? They know that it will put unnecessary strain and tension on the bones, muscles and ligaments, and many more. Especially you will strain your spine which will keep you away from carrying out regular activities. Your heart will also get affected since it has to pump the blood to the entire body which becomes tougher when you are obese.
+
+For these reasons, you can look for[ bariatric surgeries](https://medical.tlc.com.au/bariatric-surgery/). You can consider this surgery option since it will effectively reduce weight. This surgery will avoid many risks and you will be able to achieve your ideal weight. You will eat less since a part of the stomach will be removed in this surgery. This will make you eat less and eventually reduce your weight.
+
+Gastric sleeve and gastric bypass surgery are common types of weight reduction surgeries. In gastric sleeve is a procedure that separates most of the stomach from the body while gastric bypass surgery is a procedure where a small upper pouch will be created and a large lower pouch within the stomach.
+
+Don’t worry about the finance since [we at TLC](https://tlc.com.au/) are here to help you. We will offer you [weight loss surgery](https://tlc.com.au/take-the-weight-loss-surgery-to-change-your-life/) so that you can reach your ideal weight.

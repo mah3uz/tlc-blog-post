@@ -1,0 +1,66 @@
+---
+category: "MEDICAL LOAN"
+---
+
+# Most Commonly Asked Plastic Surgery Questions
+
+Anyone considering plastic surgery usually has similar questions. We get asked the same questions on a regular basis and thought we’d ask one of Sydney’s leading plastic surgeons, Dr Graham Sellars, to answer them for us.
+
+**PSH: Do I need a referral from my GP to see a plastic surgeon?**
+
+Dr Sellars: Generally, we always recommend getting a GP referral before coming for consultation. Your GP knows your medical history and can often recommend a well-trained plastic surgeon. A referral entitles the patient to claim a Medicare rebate for the consultation and also for any surgery that has Medicare item numbers. Medicare will not pay any rebates if there is not an initial GP referral to a surgeon.
+
+Also, the GP will be kept in the loop with correspondence regarding the surgery, although you can ask for the GP not to be sent any correspondence if you wish.
+
+**PSH: How long will I need off work for my plastic surgery procedure?**
+
+Dr Sellars: The answer to this question varies, depending on what procedure/s you are having. If you are having more than one procedure at a time, then the recovery time might be longer. Generally, expected recovery times for the following more popular procedures are:
+
+- **Breast augmentation** – 2 weeks
+- **Breast reduction** – 4 weeks
+- **Tummy Tuck** – 4 weeks
+- **Brachioplasty (Arm Lift)** – 2 weeks
+- **Rhinoplasty** – 2 weeks
+- **Liposuction** – 2-3 weeks
+- **Facelift** – 2-3 weeks
+- **Mummy Makeover** – 4 weeks
+
+**PSH: What factors can influence the outcome of a plastic surgery procedure? Will my surgeon ask me to stop smoking before my procedure and if so, for how long?**
+
+Dr Sellars: There are many factors that can influence the surgical outcomes. Some factors relate to age, weight, smoking status and past medical issues. Generally, most surgeons would require a smoker to cease for a period of 6 weeks before and 2 weeks after larger surgeries such as breast reductions and tummy tucks. Smoking can affect the blood supply to tissues and can impair post-operative healing. It increases the risk of chest infections and blood clots. Also, obese patients may need to lose weight prior to some of the larger surgeries for wound healing and optimal results.
+
+**PSH: When is plastic surgery covered by insurance or Medicare? What procedures are generally covered?**
+
+Dr Sellars: While the government is constantly reviewing what procedures will receive a Medicare item number (qualifies for rebates), there are still many procedures covered. Things like excision of skin cancers and naevi (moles) generally all have item numbers and qualify for rebates.
+
+Breast reductions and breast reconstruction following mastectomy are covered. Upper eyelid reduction surgery (blepharoplasty) is still covered in most cases. Otoplasty (correction of prominent ears) is covered.
+
+Procedures such as tummy tucks and rhinoplasties may be covered, but there are strict regulations with these procedures and sometimes the surgeons cannot use item numbers, and therefore they would be considered cosmetic.
+
+Some breast augmentation procedures can qualify for rebates, in situations where there is significant breast asymmetry, and post breastfeeding ptosis (droop) within a 4 year period. Most other plastic surgery procedures are considered purely cosmetic and there are no Medicare item numbers that can be used (breast augmentation, liposuction, facelift).
+
+Patients need to be aware, that just because a Medicare item number can be used for a procedure, this does not mean there will be no out of pocket expenses. It means a portion of the surgeon and anaesthetists fees will be covered, as opposed to cosmetic procedures where there are no rebates at all on doctors fees. If the patient has private health insurance, generally the hospital costs are covered if going to a private hospital when the procedure has item numbers. If cosmetic, then the hospital costs are extra and not covered by Medicare or funds.
+
+Always ensure you get a written quote for any procedure so you know exactly what is covered and what the gap (out-of-pocket) will be.
+
+**PSH: Do all surgeons charge a consultation fee?**
+
+Dr Sellars: Most surgeons will charge a consultation fee for their time. Some surgeons will have nurses in the practice that may do early consultations, so the patient can gather information prior to the surgeon seeing the patient. These nurse consultations may be complimentary but generally, there will be a fee charged. Some surgeons may take the consultation fee off the cost of a procedure if patient books surgery.
+
+**PSH: How long should I wait after pregnancy and/or breastfeeding before I have a tummy tuck?**
+
+Dr Sellars: 1 year
+
+**PSH: If I have a breast reduction before pregnancy and breastfeeding how likely is it that I will need another breast reduction after pregnancy?**
+
+Dr Sellars: This can be variable. Many people won’t require revision surgery. It depends on many factors including skin quality, stretch marks, and how large the breasts became during pregnancies etc. The age of the patient may have an impact on the above issues also.
+
+**PSH: Can I have multiple procedures at once? If not, why not?**
+
+Dr Sellars: Many patients can have multiple procedures done at the same time. However, this will depend on the complexity of the procedures, and the length of time taken to do these. Longer anaesthetic times can occasionally cause complications and the patient would need to have no significant health issues. Balancing the risks and downtime for recovery are all considerations. Your surgeon will give you advice on what might be possible.
+
+If you’d like to contact Dr Graham Sellars phone 02 9473 8577, or you can read more about him here.
+
+\*This blog is written by Trish Hammond, founder of Plastic Surgery Hub with the help of information from Dr Graham Sellars. We have very gratefully reposted her work to inform and educate our customers. You can find more of Trish’s wonderful articles at [www.plasticsurgeryhub.com.au](http://www.plasticsurgeryhub.com.au)
+
+Trish is a plastic surgery blogger. She is passionate about wellbeing, health and beauty, and doesn’t mind a little bit of ‘help’ from the amazing cosmetic and beauty procedures that are available today. Trish spends her days talking to women and men who are looking for suggestions and advice on procedures that are available to them. Cutting through the sales pitch and hype, a down-to-earth response on general information is what you will get.

@@ -1,0 +1,33 @@
+---
+category: "MEDICAL LOAN"
+---
+
+# Breast Fat Transfer – Increasing Breast Size with your own fat
+
+Breast Fat Transfer or Autologous Fat Transfer is getting increasingly popular as it is seen as a more natural option to increasing breast size rather than implants. Technology and technique has brought fat transfer well and truly into it’s own and it is now a seriously attractive option for those women wanting natural feeling and looking breasts while removing fat from other areas of their body at the same time. [Dr Gavin Sandercoe](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-gavin-sandercoe/) was one of Australia’s first plastic surgeons to see the merits of fat transfer and we chat to him about why he’s such a fan.
+
+## How does breast fat transfer work?
+
+The first step in the breast fat transfer process is the extraction and preparation of the fat. This is essentially liposuction on the areas of your body that you want to reduce fat so that you can then move it to your breasts. This harvested fat is then “purified” via centrifugation and filtering to remove the fluid and blood so just the fat cells are left.
+
+These fat cells are then injected into your breasts. They have to work to regain a blood supply and join the other existing, living fat cells in the breast. If they are unable to find a suitable blood supply they will die and be absorbed by the body.
+
+## What are the pros and cons of Breast Fat Transfer?
+
+Firstly, there is a limit to how much fat can be transferred in each procedure. So this controls the size increase each time you go under the knife. It is estimated that you can go up one cup size in one procedure, so depending on how big you want to go you may need more than one fat transfer procedure. Fat transfer is more suitable to those women wanting smaller increases in bust size. Secondly, the procedure can be difficult for thin women because they have limited body fat so it can be difficult for the surgeon to find enough for the transfer.
+
+As mentioned above, one thing to keep in mind with breast fat transfer is that not all the fat transferred will “take” or be successful in grafting into the breast and will be reabsorbed into the body. Each patient is different and you should be prepared for this. This is also why some women may undergo a second breast fat transfer procedure after their first. Dr Sandercoe tells us that it is estimated approximately 70% of the grafted fat will still remain in the breast one year after the procedure. “Any reabsorption (or non survival) of grafted fat is usually evident within 3 months. This is why it is prudent to space a second procedure for further size increases to around 3 months after the first procedure. The search has been on for methods to increase the rate of graft survival. There have been several methods offered, some more inconvenient and laborious than others, however I find that the majority of my breast fat transfer patients are more than happy with the increase in size from their first transfer. Those patients that want to go bigger need to come back for a second procedure.”
+
+The appeal of fat transfer to the breast is that it uses your own tissue and will feel more natural than implants. The other bonus is that you do not have any foreign materials being inserted into your body so the risk of capsular contraction, BIA-ALCL and any other possible side effects of saline or silicone implants are eliminated. It is also a permanent procedure, so it will last forever.
+
+Dr Sandercoe says, “The advocates of fat grafting show great results with soft, natural appearing breasts. This can be achieved with good technique and a bit of luck. Results at one year are likely to be stable, if the patient is weight stable. The grafted fat will always behave like fat from the area that it came from – patients do lose and gain weight in their fat grafts. If the fat came from the abdomen, and the patient tended to store fat in the tummy, then it will still be the first fat cells to increase in size as the patient gains weight.”
+
+## Does Medicare cover Breast Fat Transfer?
+
+The short answer is no. Breast augmentation is generally considered a cosmetic procedure so is not covered by Medicare. Dr Sandercoe elaborates, “Certain breast shapes (such as tuberous breast) may qualify for a Medicare item number for correction of breast shape. However, at the moment all Medicare approved breast reconstruction procedures that involve breast augmentation specify that they must be performed with breast implants. One would hope that this will change in the future, but only time will tell.”
+
+In the meantime, breast fat transfer is here to stay. Women all over the country are discovering it’s merits and a new wave of breast fat transfer patients are loving their new, more naturally increased breast size.
+
+If you’d like more information about Dr Gavin Sandercoe, Plastic Surgeon based in Bella Vista, NSW or the breast fat transfer procedure [check out his listing](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-gavin-sandercoe/). If you’d like to arrange a consult phone his clinic on 1300 112 358.
+
+\*This blog is written by Trish Hammond, founder of Plastic Surgery Hub with the help of information from Dr Gavin Sandercoe. We have very gratefully reposted her work to inform and educate our customers. You can find more of Trish’s wonderful articles at: [www.plasticsurgeryhub.com.au](http://www.plasticsurgeryhub.com.au/) Trish is a plastic surgery blogger. She is passionate about wellbeing, health and beauty, and doesn’t mind a little bit of ‘help’ from the amazing cosmetic and beauty procedures that are available today. Trish spends her days talking to women and men who are looking for suggestions and advice on procedures that are available to them. Cutting through the sales pitch and hype, a down-to-earth response on general information is what you will get.

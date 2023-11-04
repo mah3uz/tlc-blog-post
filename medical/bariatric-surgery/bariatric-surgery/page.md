@@ -1,0 +1,7 @@
+# Bariatric Surgery Loan
+
+Bariatric surgery, also known as weight loss surgery, includes a variety of procedures performed on people who suffer from obesity.
+
+Weight loss is achieved by reducing the size of the stomach with a gastric band through the removal of a portion of the stomach (sleeve gastrectomy or biliopancreatic diversion with duodenal switch) or by resecting and re-routing the small intestine to a small stomach pouch (gastric bypass surgery).
+
+Contact TLC today to discuss payment plants to suitable to your medical needs.
