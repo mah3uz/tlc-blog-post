@@ -1,29 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Plastic-Surgery-loan-1.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'be financially assisted with the best plastic surgery loan',
-  description: 'description',
-  publishedOn: '2021-08-22T13:28:20-0400',
+  title: "be financially assisted with the best plastic surgery loan",
+  description: "description",
+  publishedOn: "2021-08-22T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
+export default (props) => <BlogPost post={article} {...props} />;
 
 <Image src={postImage} alt={article.title} />
 
 ---
-category: "PLASTIC SURGERY LOAN"
----
+
+## category: "PLASTIC SURGERY LOAN"
 
 # Be Financially Assisted With The Best Plastic Surgery Loan
 
