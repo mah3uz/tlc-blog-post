@@ -1,31 +1,26 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Education-Finance1.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'education finance the best solution to fulfil your dreams',
-  description: 'description',
-  publishedOn: '2020-11-20T13:28:20-0400',
+  title: "education finance the best solution to fulfil your dreams",
+  description:
+    "Education is expensive and higher education at one of the best universities is costlier. Especially, when you wish to study in other countries or the top colleges, the cost of higher education will be expensive. This is the main reason why many individuals don’t fulfil their educational dreams. But at TLC, we help the individuals to make their dream come true. If you are interested in pursuing your higher education, then you can take the education finance from us and use it to meet your expenses.",
+  publishedOn: "2020-11-20T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "lifestyle loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
+export default (props) => <BlogPost post={article} {...props} />;
 
 <Image src={postImage} alt={article.title} />
-
----
-category: "LIFESTYLE LOAN"
----
-
-# Education Finance – The Best Solution To Fulfil Your Dreams
 
 Education is expensive and higher education at one of the best universities is costlier. Especially, when you wish to study in other countries or the top colleges, the cost of higher education will be expensive. This is the main reason why many individuals don’t fulfil their educational dreams. But at TLC, we help the individuals to make their dream come true. If you are interested in pursuing your higher education, then you can take the education finance from us and use it to meet your expenses.
 

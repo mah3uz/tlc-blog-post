@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./TLC.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'finance your breast augmentation with breast implant loans',
-  description: 'description',
-  publishedOn: '2022-03-06T13:28:20-0400',
+  title: "How To Finance Your Breast Augmentation With Breast Implant Loans?",
+  description:
+    "Sometimes you do not have that money, but you may wish to enhance your appearance. At these times, financing the aesthetic operation with breast implant loans becomes the perfect option.",
+  publishedOn: "2022-03-06T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "breast augmentation loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "BREAST AUGMENTATION LOANS"
----
-
-# How To Finance Your Breast Augmentation With Breast Implant Loans?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Sometimes you do not have that money, but you may wish to enhance your appearance. At these times, financing the aesthetic operation with breast implant loans becomes the perfect option.
+
+<Image src={postImage} alt={article.title} />
 
 Many people get ready to look perfect and think about having some cosmetic touch-ups to put an end to what makes them feel uncomfortable and they don’t like it. On many occasions, it is difficult to access this type of aesthetic operations since, as a general rule, they are carried out in private centres and have a higher cost.
 

@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Motiva-Implants.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'motiva implants why they are fast becoming australias implant of choice with dr steven liew',
-  description: 'description',
-  publishedOn: '2022-04-30T13:28:20-0400',
+  title:
+    "motiva implants why they are fast becoming australias implant of choice with dr steven liew",
+  description:
+    "Dr Liew is one of the most sought after and leading plastic surgeons in Australia. Today I speak with him about the Motiva Implants and why he loves them and chooses to use these next gen implants when performing breast augmentation.",
+  publishedOn: "2022-04-30T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Motiva Implants – why they are fast becoming Australia’s implant of choice, with Dr Steven Liew
+export default (props) => <BlogPost post={article} {...props} />;
 
 Dr Liew is one of the most sought after and leading plastic surgeons in Australia. Today I speak with him about the Motiva Implants and why he loves them and chooses to use these next gen implants when performing breast augmentation.
+
+<Image src={postImage} alt={article.title} />
 
 **Trish:** Good Morning podcasters. Well, I’m here today with [Dr. Steven Liew](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-steven-liew/). And Dr. Steven Liew is one of Australia’s leading plastic surgeons, and today, he’s the Director of the Shape Clinic in Sydney. And today we’re going to have a talk about the [Motiva implants](https://www.plasticsurgeryhub.com.au/procedure/motiva-breast-implants/). Our topic is the natural breast with the Motiva Ergonomics Implants. So, welcome, Dr. Liew.
 

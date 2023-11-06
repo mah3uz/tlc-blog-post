@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./postImage.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'jewellery finance get your favorite piece of jewellery',
-  description: 'description',
-  publishedOn: '2022-06-03T13:28:21-0400',
+  title: "jewellery finance get your favorite piece of jewellery",
+  description:
+    "If there is truth in everyone’s life, it is we all have a piece of jewellery which we think buying it is the toughest task. Almost everyone loves buying jewellery. Since there are many varieties of jewellery in the shops, it would be difficult for us to choose one among them. Especially, we restrict ourselves in buying the jewellery since we don’t have enough cash to buy it. Many of us would have an eye on any piece of jewellery and been waiting for the right time to buy it.",
+  publishedOn: "2022-06-03T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "lifestyle loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "LIFESTYLE LOAN"
----
-
-# Jewellery Finance – Get Your Favorite Piece Of Jewellery
+export default (props) => <BlogPost post={article} {...props} />;
 
 If there is truth in everyone’s life, it is we all have a piece of jewellery which we think buying it is the toughest task. Almost everyone loves buying jewellery. Since there are many varieties of jewellery in the shops, it would be difficult for us to choose one among them. Especially, we restrict ourselves in buying the jewellery since we don’t have enough cash to buy it. Many of us would have an eye on any piece of jewellery and been waiting for the right time to buy it.
+
+<Image src={postImage} alt={article.title} />
 
 But why you have to wait for a long time or sacrifice your wish just because you don’t have enough cash to buy the jewellery? Nowadays, you can take a loan to grab your piece of jewellery easily. At TLC, we provide jewellery finance which you can use to buy the precious jewellery you want. Since you can apply for the loan instantly you don’t need to wait for a longer period of time to make your dream come true.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./dental-loan6.png";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'choose dental surgery loan for all your dental work',
-  description: 'description',
-  publishedOn: '2022-10-03T13:28:20-0400',
+  title: "choose dental surgery loan for all your dental work",
+  description:
+    "Dental loans seem like an obvious solution to any dental financing crisis, you may be wondering why you shouldn’t just use your credit card. Dental surgery loans are for some special dental problem. If you are looking for dental surgery loans but don’t have sufficient funds, don’t worry we are always there for you. Don’t put yourself or your loved one in problems.",
+  publishedOn: "2022-10-03T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Choose Dental Surgery Loan For All Your Dental Work
+export default (props) => <BlogPost post={article} {...props} />;
 
 Dental loans seem like an obvious solution to any dental financing crisis, you may be wondering why you shouldn’t just use your credit card. Dental surgery loans are for some special dental problem. If you are looking for dental surgery loans but don’t have sufficient funds, don’t worry we are always there for you. Don’t put yourself or your loved one in problems.
+
+<Image src={postImage} alt={article.title} />
 
 ##\* Common dental procedures include:
 

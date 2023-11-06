@@ -1,33 +1,27 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./postImage.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'engagement ring',
-  description: 'description',
-  publishedOn: '2022-09-29T13:28:20-0400',
+  title: "What Type Of Engagement Ring Should I Buy To Impress My Bride?",
+  description: "description",
+  publishedOn: "2022-09-29T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "wedding loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEDDING LOAN"
----
-
-# What Type Of Engagement Ring Should I Buy To Impress My Bride?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Imagine you and your girlfriend are on the way to a party and both are indulged in a serious conversation. All of a sudden some freak is happening and your girlfriend is absolutely mad without knowing what is going on and at an unexpectedly you’re on your knees asking “will you marry me!” with an exciting engagement ring.
+
+<Image src={postImage} alt={article.title} />
 
 Congratulations..! She will be astonished by the way you express with a beautiful engagement ring. The ring matters more it should eye catch at first sight. This is why you have to choose wisely. Do you feel choosing a wedding ring would be daunting? Don’t worry here are a few tips to buy a magical engagement ring.
 

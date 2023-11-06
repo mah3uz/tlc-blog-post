@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Breast-Implant-Loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'increase your breast size with breast implant loans',
-  description: 'description',
-  publishedOn: '2020-11-29T13:28:20-0400',
+  title: "increase your breast size with breast implant loans",
+  description:
+    "Every woman wants her breasts to be symmetrical and proportionate. But there are many women who have very small, disproportionate, or uneven breasts. This usually reduces their confidence and also makes them more self-conscious of their appearance.",
+  publishedOn: "2020-11-29T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "breast augmentation loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "BREAST AUGMENTATION LOANS"
----
-
-# Increase Your Breast Size With Breast Implant Loans
+export default (props) => <BlogPost post={article} {...props} />;
 
 Every woman wants her breasts to be symmetrical and proportionate. But there are many women who have very small, disproportionate, or uneven breasts. This usually reduces their confidence and also makes them more self-conscious of their appearance.
+
+<Image src={postImage} alt={article.title} />
 
 These people usually look for a solution through which they can make the breasts look appropriate to their body. Breast implantation is the best way to become more confident and self-assured. You can make the breasts look fuller and ideal with the body shape. This is the main reason why people look for breast augmentation surgery.
 

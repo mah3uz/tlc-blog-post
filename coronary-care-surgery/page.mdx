@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Coronary-Care-Surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'coronary care surgery',
-  description: 'description',
-  publishedOn: '2022-06-25T13:28:20-0400',
+  title: "Coronary Care Surgery – Make Plans For Recovery After Your Surgery",
+  description:
+    "If your doctor tells you that you need a coronary artery bypass operation on your heart, you’ve probably got a lot of questions.",
+  publishedOn: "2022-06-25T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Coronary Care Surgery – Make Plans For Recovery After Your Surgery
+export default (props) => <BlogPost post={article} {...props} />;
 
 If your doctor tells you that you need a coronary artery bypass operation on your heart, you’ve probably got a lot of questions.
+
+<Image src={postImage} alt={article.title} />
 
 Your coronary arteries supply your heart muscle with blood. If they have too much plaque built up in them, it can narrow or even block your blood from passing through. If your heart can’t get enough blood or oxygen, you can have a heart attack.
 

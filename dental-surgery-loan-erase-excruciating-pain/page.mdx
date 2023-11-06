@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./dental-surgery-loan (2).jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental surgery loan erase excruciating pain',
-  description: 'description',
-  publishedOn: '2021-05-07T13:28:21-0400',
+  title: "Dental Surgery Loan Offers Funds To Erase Excruciating Pain",
+  description:
+    "Dental surgery loan offers immediate medical assistance to patients suffering from unbearable pain. Patients can make an appointment and surgeons perform the surgery in a matter of a couple of hours. Does it sound like a conventional loan application process? It gives us the impression that you used your money. Patients like the idea of getting funds in quick time and focus on treatment. What they want is medical attention, and it’s only possible through surgery loans. It resolves most of the problems. The time they used to wait, or shall we say waste, caused more damage than the health condition in the past.",
+  publishedOn: "2021-05-07T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Dental Surgery Loan Offers Funds To Erase Excruciating Pain
+export default (props) => <BlogPost post={article} {...props} />;
 
 Dental surgery loan offers immediate medical assistance to patients suffering from unbearable pain. Patients can make an appointment and surgeons perform the surgery in a matter of a couple of hours. Does it sound like a conventional loan application process? It gives us the impression that you used your money. Patients like the idea of getting funds in quick time and focus on treatment. What they want is medical attention, and it’s only possible through surgery loans. It resolves most of the problems. The time they used to wait, or shall we say waste, caused more damage than the health condition in the past.
+
+<Image src={postImage} alt={article.title} />
 
 ## Dental Surgery Loan has Changed the Public Outlook on Financial Products
 

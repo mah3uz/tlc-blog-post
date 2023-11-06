@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./dental-surgery-loan-1.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental surgery loan fixes oral health',
-  description: 'description',
-  publishedOn: '2021-11-20T13:28:21-0400',
+  title: "Dental Surgery Loan Fixes Oral Health, Perfects Your Smile",
+  description:
+    "Patients suffering from oral hygiene issues have dental surgery loan as the best health investment plan. Sometimes, patients need immediate medical attention. The insurance cover may not offer or cover the expenses. Patients have got no options left than borrowing money. Is it the right option? Isn’t it some form of failure? Patients shouldn’t have to deal with such medical emergencies alone. What good the society or system is about then? Surgery loans are customized products to assist patients in utter need.",
+  publishedOn: "2021-11-20T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Dental Surgery Loan Fixes Oral Health, Perfects Your Smile
+export default (props) => <BlogPost post={article} {...props} />;
 
 Patients suffering from oral hygiene issues have dental surgery loan as the best health investment plan. Sometimes, patients need immediate medical attention. The insurance cover may not offer or cover the expenses. Patients have got no options left than borrowing money. Is it the right option? Isn’t it some form of failure? Patients shouldn’t have to deal with such medical emergencies alone. What good the society or system is about then? Surgery loans are customized products to assist patients in utter need.
+
+<Image src={postImage} alt={article.title} />
 
 ## Dental Surgery Loan Releases Funds for Small and Major Oral Surgery
 

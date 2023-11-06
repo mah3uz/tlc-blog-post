@@ -1,34 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./DaySurgeryLoans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'why have online day surgery loans become so popular',
-  description: 'description',
-  publishedOn: '2020-09-14T13:28:20-0400',
+  title: "why have online day surgery loans become so popular",
+  description:
+    "One of the most common concerns among people is to find a convenient and safe option in terms of day surgery loans to pay medical bills. That is why, regardless of the medical needs you have, having access to alternatives to finance is increasingly requested. You can take medical loans such as weight loss surgery loans, oral surgery loans, and many more.",
+  publishedOn: "2020-09-14T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "uncategorized",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
+export default (props) => <BlogPost post={article} {...props} />;
+
+One of the most common concerns among people is to find a convenient and safe option in terms of day surgery loans to pay medical bills. That is why, regardless of the medical needs you have, having access to alternatives to finance is increasingly requested. You can take medical loans such as weight loss surgery loans, oral surgery loans, and many more.
 
 <Image src={postImage} alt={article.title} />
-
----
-category: "UNCATEGORIZED"
----
-
-# Why Have Online Day Surgery Loans Become So Popular?
-
-UNCATEGORIZED
-One of the most common concerns among people is to find a convenient and safe option in terms of day surgery loans to pay medical bills. That is why, regardless of the medical needs you have, having access to alternatives to finance is increasingly requested. You can take medical loans such as weight loss surgery loans, oral surgery loans, and many more.
 
 ## More about loans such as day surgery loans:
 

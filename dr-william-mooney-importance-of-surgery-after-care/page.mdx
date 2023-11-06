@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Dr-William-Mooney-860x860.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dr william mooney importance of surgery after care',
-  description: 'description',
-  publishedOn: '2021-04-02T13:28:21-0400',
+  title:
+    "Dr William Mooney talks about the importance of surgery after care and more!",
+  description:
+    "Sometimes things can go wrong, and it’s difficult to talk about them, because it’s upsetting for everyone. Today I spoke with Dr William Mooney about the importance of surgery after care and post-operative complications.",
+  publishedOn: "2021-04-02T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Dr William Mooney talks about the importance of surgery after care and more!
+export default (props) => <BlogPost post={article} {...props} />;
 
 Sometimes things can go wrong, and it’s difficult to talk about them, because it’s upsetting for everyone. Today I spoke with Dr William Mooney about the importance of surgery after care and post-operative complications.
+
+<Image src={postImage} alt={article.title} />
 
 **Trish:** Good morning. So I’m here today with [Dr William Mooney](https://www.plasticsurgeryhub.com.au/psh-directory/cosmetic-practitioners-clinics/dr-william-mooney/). And Dr Mooney is the owner of Face Plus Medispa. He’s an ENT based in Bondi Junction and also has a clinic in Bankstown. And today we’re gonna have a bit of a talk about pre and post-op care. So welcome, Dr Mooney.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./gastroenterology-loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'gastroenterology loans solution for digestive disorders',
-  description: 'description',
-  publishedOn: '2020-10-21T13:28:20-0400',
+  title: "gastroenterology loans solution for digestive disorders",
+  description:
+    "TLC exists to provide excellent financing options for all Gastroenterology loans, angiogram is an imaging test that uses X-rays to look at your blood vessels. We know that any procedure of this nature represents a significant decision in an individual’s life. When it comes to gastroenterology, you may elect to undergo this procedure for various reasons: following a mastectomy, to correct issues with balance or symmetry, or simply because they wish to alter or enhance their physical appearance. It may be used to check blood flow to the organs of the abdomen, such as the liver and spleen. It may also be used to guide in the placement of medicine or other materials to treat cancer or bleeding in the abdomen.",
+  publishedOn: "2020-10-21T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Gastroenterology Loans – One Solution For All Digestive Disorders
+export default (props) => <BlogPost post={article} {...props} />;
 
 TLC exists to provide excellent financing options for all Gastroenterology loans, angiogram is an imaging test that uses X-rays to look at your blood vessels. We know that any procedure of this nature represents a significant decision in an individual’s life. When it comes to gastroenterology, you may elect to undergo this procedure for various reasons: following a mastectomy, to correct issues with balance or symmetry, or simply because they wish to alter or enhance their physical appearance. It may be used to check blood flow to the organs of the abdomen, such as the liver and spleen. It may also be used to guide in the placement of medicine or other materials to treat cancer or bleeding in the abdomen.
+
+<Image src={postImage} alt={article.title} />
 
 Gastroenterology is a branch of medicine that deals with disorders of the digestive system including the oesophagus, stomach, small intestine, colon and rectum, pancreas, gallbladder, bile ducts and liver. At TLC, we offer a full range of Gastroenterology loans for endoscopy services to diagnose and treat problems of the digestive system including:
 

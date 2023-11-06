@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./IVF-Programs-Loan.jpeg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'how tlc will help you get the ivf programs loan',
-  description: 'description',
-  publishedOn: '2022-10-04T13:28:20-0400',
+  title: "how tlc will help you get the ivf programs loan",
+  description:
+    "It is reported that infertility is increasing among young citizens nowadays and it’s a serious problem. It is estimated that more than 10% of the couple who are trying to conceive is suffering from infertility issues. We all know the reality when it comes to infertility and how the couple feels and faces the stress.",
+  publishedOn: "2022-10-04T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "ivf programs loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "IVF PROGRAMS LOAN"
----
-
-# How TCL Will Help You Get The IVF Programs Loan?
+export default (props) => <BlogPost post={article} {...props} />;
 
 It is reported that infertility is increasing among young citizens nowadays and it’s a serious problem. It is estimated that more than 10% of the couple who are trying to conceive is suffering from infertility issues. We all know the reality when it comes to infertility and how the couple feels and faces the stress.
+
+<Image src={postImage} alt={article.title} />
 
 **This is the main reason why they look for IVF –** In Vitro Fertilization. Today, more and more people are facing fertility issues and looking for infertility treatment. But the major concern for them is the higher treatment cost. The cause of infertility is ovulation disorders, early menopause, abnormal sperm production, fallopian tube blockage, and cervical abnormalities.
 

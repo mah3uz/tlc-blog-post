@@ -1,10 +1,29 @@
----
-category: "MEDICAL LOAN"
----
+import Image from "next/image";
+import postImage from "./Breast-Implant-Surgery1.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
-# The Australian Breast Device Registry helping Australians have Safer Breast Implant Surgery
+export const article = {
+  title:
+    "The Australian Breast Device Registry helping Australians have Safer Breast Implant Surgery",
+  description:
+    "Going abroad for a medical procedure can be a great approach to saving some money. Medical care can be cheaper elsewhere, but that does not mean questionable quality.",
+  publishedOn: "2021-03-14T13:28:20-0400",
+  image: postImage,
+  category: "medical loan",
+  author: users.tim,
+};
+
+export const metadata = {
+  title: article.title,
+  description: article.description,
+};
+
+export default (props) => <BlogPost post={article} {...props} />;
 
 Going abroad for a medical procedure can be a great approach to saving some money. Medical care can be cheaper elsewhere, but that does not mean questionable quality.
+
+<Image src={postImage} alt={article.title} />
 
 Don’t take the risk! With TLC, professional and safe breast implant surgery can be more affordable for you with cosmetic surgery loans covering you for up to $50,000.
 

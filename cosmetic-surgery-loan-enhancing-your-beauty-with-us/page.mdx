@@ -1,35 +1,30 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Cosmetic-Surgery-Loan (1).jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loan enhancing your beauty with us',
-  description: 'description',
-  publishedOn: '2021-09-28T13:28:20-0400',
+  title: "cosmetic surgery loan enhancing your beauty with us",
+  description:
+    "Cosmetic surgery has emerged as an important option for anyone trying to improve their physical appearance. In a world where appearances frequently create the first impression, it’s no surprise that an increasing number of people are considering [cosmetic operations](https://www.mayoclinic.org/tests-procedures/cosmetic-surgery/about/pac-20385138) to increase their self-confidence. However, the cost associated with such surgeries can sometimes put a dent in the dream of achieving that perfect look. Fear not, for the realm of finance has an unexpected hero: the cosmetic surgery loan!",
+  publishedOn: "2021-09-28T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOAN"
----
-
-# Cosmetic Surgery Loan: Enhancing Your Beauty with Us
+export default (props) => <BlogPost post={article} {...props} />;
 
 ## Cosmetic Surgery Loan
 
 Cosmetic surgery has emerged as an important option for anyone trying to improve their physical appearance. In a world where appearances frequently create the first impression, it’s no surprise that an increasing number of people are considering [cosmetic operations](https://www.mayoclinic.org/tests-procedures/cosmetic-surgery/about/pac-20385138) to increase their self-confidence. However, the cost associated with such surgeries can sometimes put a dent in the dream of achieving that perfect look. Fear not, for the realm of finance has an unexpected hero: the cosmetic surgery loan!
+
+<Image src={postImage} alt={article.title} />
 
 Beauty might be skin deep, but the desire for it can certainly touch your pockets. From nose jobs to liposuction, cosmetic surgeries have gained tremendous popularity, and their demand doesn’t seem to be slowing down. However, let’s face it, these procedures can be a bit heavy on the wallet. This is where the concept of cosmetic surgery loans steps in, ready to assist you in achieving the looks you’ve always desired without forcing you to resort to eating only ramen for the next decade.
 

@@ -1,31 +1,26 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Breast-Augmentation.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'breast augmentation who can you trust to do yours',
-  description: 'description',
-  publishedOn: '2021-09-08T13:28:20-0400',
+  title: "breast augmentation who can you trust to do yours?",
+  description:
+    "When you’re looking for a surgeon to do your breast augmentation how do you know if they’re good – the best one for you? Who can you trust to do yours? You’re going to be off to a good start if you choose a fully qualified and trained plastic surgeon. You’ll be ahead of a few more if you choose one who actually specialises in breast surgery. Finally, one who is recognised throughout the Australian and international communities as being a leader in his field gives you the best chance possible to get the results you deserve. Dr Ross Farhadieh from Panthea Clinics in Sydney and Canberra is all of the above, and more. We asked him what women should look for when trying to choose their breast augmentation surgeon.",
+  publishedOn: "2021-09-08T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
+export default (props) => <BlogPost post={article} {...props} />;
 
 <Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Breast Augmentation – Who can you trust to do yours?
 
 When you’re looking for a surgeon to do your breast augmentation how do you know if they’re good – the best one for you? Who can you trust to do yours? You’re going to be off to a good start if you choose a fully qualified and trained plastic surgeon. You’ll be ahead of a few more if you choose one who actually specialises in breast surgery. Finally, one who is recognised throughout the Australian and international communities as being a leader in his field gives you the best chance possible to get the results you deserve. Dr Ross Farhadieh from Panthea Clinics in Sydney and Canberra is all of the above, and more. We asked him what women should look for when trying to choose their breast augmentation surgeon.
 

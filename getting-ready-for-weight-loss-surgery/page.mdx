@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./weight-loss-surgery-1-1-1024x424.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'getting ready for weight loss surgery',
-  description: 'description',
-  publishedOn: '2021-01-29T13:28:20-0400',
+  title: "getting ready for weight loss surgery",
+  description:
+    "Weight loss surgery includes a variety of procedures performed on people who have obesity. Weight loss is achieved by reducing the size of the stomach with a gastric band or through removal of a portion of the stomach or by respecting and re-routing the small intestine to a small stomach pouch. Surgery should be considered as a treatment option for patients with a BMI of 40 kg/m2 or greater who instituted but failed an adequate exercise and diet program (with or without adjunctive drug therapy) and who present with obesity-related co morbid conditions, such as hypertension, impaired glucose tolerance, diabetes mellitus, hyperlipidemia, and obstructive sleep apnea. A doctor–patient discussion of surgical options should include the long-term side effects, such as a possible need for reoperation, gallbladder disease, and malabsorption.",
+  publishedOn: "2021-01-29T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Getting Ready For Weight Loss Surgery
+export default (props) => <BlogPost post={article} {...props} />;
 
 Weight loss surgery includes a variety of procedures performed on people who have obesity. Weight loss is achieved by reducing the size of the stomach with a gastric band or through removal of a portion of the stomach or by respecting and re-routing the small intestine to a small stomach pouch. Surgery should be considered as a treatment option for patients with a BMI of 40 kg/m2 or greater who instituted but failed an adequate exercise and diet program (with or without adjunctive drug therapy) and who present with obesity-related co morbid conditions, such as hypertension, impaired glucose tolerance, diabetes mellitus, hyperlipidemia, and obstructive sleep apnea. A doctor–patient discussion of surgical options should include the long-term side effects, such as a possible need for reoperation, gallbladder disease, and malabsorption.
+
+<Image src={postImage} alt={article.title} />
 
 Patients should be referred to high-volume centers with surgeons experienced in bariatric surgery.
 

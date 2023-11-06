@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./cosmeticsurgeryloans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loans get body positivity with surgeries',
-  description: 'description',
-  publishedOn: '2022-01-19T13:28:20-0400',
+  title: "cosmetic surgery loans get body positivity with surgeries",
+  description:
+    "Every year we make new year’s resolutions but how many of us actually ever keep them? The common resolutions made by men and women are losing weight, committing to exercising more, eating healthier, saving more money and many more. But actually, we are too busy or too tired to complete it.",
+  publishedOn: "2022-01-19T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOANS"
----
-
-# Cosmetic Surgery Loans – Get Body Positivity With Surgeries
+export default (props) => <BlogPost post={article} {...props} />;
 
 Every year we make new year’s resolutions but how many of us actually ever keep them? The common resolutions made by men and women are losing weight, committing to exercising more, eating healthier, saving more money and many more. But actually, we are too busy or too tired to complete it.
+
+<Image src={postImage} alt={article.title} />
 
 How this is related to plastic surgery in any way? It may seem to be unrelated but know that phycology wins when it comes to achieving your goals. We all will agree that we wish to look our best everyday. But as we start ageing we can feel the difference in our body and signs of ageing. Also, there are people who don’t have confidence in their bodies. For those people, plastic or cosmetic surgery is the best choice.
 

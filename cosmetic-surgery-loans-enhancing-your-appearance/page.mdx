@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Cosmetic-Surgery-Loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loans enhancing your appearance',
-  description: 'description',
-  publishedOn: '2021-01-23T13:28:20-0400',
+  title: "cosmetic surgery loans enhancing your appearance",
+  description:
+    "At some point in life, everyone dreams of looking perfect. For some, it may mean losing weight or toning their bodies. For others, it may mean enhancing their facial features through cosmetic surgery. However, cosmetic surgery is not always affordable for everyone. This is where cosmetic surgery loans can come in handy.",
+  publishedOn: "2021-01-23T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOAN"
----
-
-# Cosmetic Surgery Loans: Enhancing Your Appearance
+export default (props) => <BlogPost post={article} {...props} />;
 
 At some point in life, everyone dreams of looking perfect. For some, it may mean losing weight or toning their bodies. For others, it may mean enhancing their facial features through cosmetic surgery. However, cosmetic surgery is not always affordable for everyone. This is where cosmetic surgery loans can come in handy.
+
+<Image src={postImage} alt={article.title} />
 
 At TLC, we offer a variety of cosmetic surgery loan options that can help you achieve your desired look without breaking the bank. Our loans come with competitive interest rates and flexible repayment options, making them an ideal choice for anyone considering cosmetic surgery.
 

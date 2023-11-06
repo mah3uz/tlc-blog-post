@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./coronary-care-surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'have your coronary care surgery treated with tlc',
-  description: 'description',
-  publishedOn: '2022-03-01T13:28:20-0400',
+  title: "have your coronary care surgery treated with tlc",
+  description:
+    "Everyone likes to enjoy their time with their loved ones and friends. And to fully enjoy that time you have to take care of yourself and make sure you are not living an unhealthy life. Because nobody knows what can happen in the future, this why having take care of yourself and preparing for the future is a must thing you should do.",
+  publishedOn: "2022-03-01T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "coronary care surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "CORONARY CARE SURGERY"
----
-
-# Have Your Coronary Care Surgery Treated With TLC
+export default (props) => <BlogPost post={article} {...props} />;
 
 Everyone likes to enjoy their time with their loved ones and friends. And to fully enjoy that time you have to take care of yourself and make sure you are not living an unhealthy life. Because nobody knows what can happen in the future, this why having take care of yourself and preparing for the future is a must thing you should do.
+
+<Image src={postImage} alt={article.title} />
 
 As nothing is certain in this world and something unexpected happens and the saving that you collected over the years are despairing because of that unexpected like coronary care surgery, you do not need to worry about that. Because TLC is here for you when you facing an unexpected.
 

@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Nurse-or-Practitioner.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'are you a nurse or practitioner are you getting the right training for the aesthetics industry podcast with an rn student',
-  description: 'description',
-  publishedOn: '2022-03-06T13:28:21-0400',
+  title:
+    "Are you a Nurse or Practitioner? Are You Getting the Right Training for the Aesthetics Industry? A podcast with an RN/Student",
+  description:
+    "Trish Hammond: Hello podcasters, I’m here today, we’re having a little bit of a different chat today. I’m actually speaking with John, John Filler who’s an RN and John has just recently done an online course with [Aesthetics CPD](https://www.plasticsurgeryhub.com.au/psh-directory/careers-training/aesthetics-cpd-listing/), which is all about registered nurses getting their CPD points every year so that they can renew their registration. So welcome John.",
+  publishedOn: "2022-03-06T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "LIFESTYLE LOAN",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "LIFESTYLE LOAN"
----
-
-# Are you a Nurse or Practitioner? Are You Getting the Right Training for the Aesthetics Industry? A podcast with an RN/Student
+export default (props) => <BlogPost post={article} {...props} />;
 
 Trish Hammond: Hello podcasters, I’m here today, we’re having a little bit of a different chat today. I’m actually speaking with John, John Filler who’s an RN and John has just recently done an online course with [Aesthetics CPD](https://www.plasticsurgeryhub.com.au/psh-directory/careers-training/aesthetics-cpd-listing/), which is all about registered nurses getting their CPD points every year so that they can renew their registration. So welcome John.
+
+<Image src={postImage} alt={article.title} />
 
 John Filler: Hello Trish, thanks for having me.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./IV-Infusions.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'iv infusions making you feel good with dr william mooney',
-  description: 'description',
-  publishedOn: '2021-11-03T13:28:20-0400',
+  title: "iv infusions making you feel good with dr william mooney",
+  description:
+    "I don’t know what it is about IV infusions that really appeals to me – I think because I know just how good I feel after I have a vitamin B injection, and I figure that if you can get a big dose of vitamins all at once, why not! Today I speak with Dr William Mooney of Face Plus MediSpa who do heaps of IV infusions to help people feel better. Such an interesting podcast – enjoy.",
+  publishedOn: "2021-11-03T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# IV Infusions – Making You Feel Good, with Dr William Mooney
+export default (props) => <BlogPost post={article} {...props} />;
 
 I don’t know what it is about IV infusions that really appeals to me – I think because I know just how good I feel after I have a vitamin B injection, and I figure that if you can get a big dose of vitamins all at once, why not! Today I speak with Dr William Mooney of Face Plus MediSpa who do heaps of IV infusions to help people feel better. Such an interesting podcast – enjoy.
+
+<Image src={postImage} alt={article.title} />
 
 **Trish:** Hey everyone out there in podcast world. I’m here today again with Dr. William Mooney from [Face Plus Medispa](https://www.plasticsurgeryhub.com.au/psh-directory/cosmetic-practitioners-clinics/dr-william-mooney/) in Bondi Junction and there’s a clinic in Bankstown as well. We’re going to have a talk today about IV Infusions, which is something that they offer at the Face Plus Medispa. I really love them, I’m quite excited by them and I reckon they’re gaining momentum.
 

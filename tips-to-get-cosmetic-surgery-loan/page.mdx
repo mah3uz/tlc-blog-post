@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./cosmetic-surgery-loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'tips to get cosmetic surgery loan',
-  description: 'description',
-  publishedOn: '2021-03-14T13:28:20-0400',
+  title: "Know These Simple Tips On How To Get The Cosmetic Surgery Loan",
+  description:
+    "Can there be anyone who doesn’t want to look beautiful? Everyone mostly wishes to look beautiful in their life. For this many of them take several steps so that they can achieve it. Some of them even prefer undergoing surgeries to enhance their look. One such surgery which is most commonly used is cosmetic surgery.",
+  publishedOn: "2021-03-14T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Know These Simple Tips On How To Get The Cosmetic Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 Can there be anyone who doesn’t want to look beautiful? Everyone mostly wishes to look beautiful in their life. For this many of them take several steps so that they can achieve it. Some of them even prefer undergoing surgeries to enhance their look. One such surgery which is most commonly used is cosmetic surgery.
+
+<Image src={postImage} alt={article.title} />
 
 ## Why cosmetic surgery is preferred by many of them?
 

@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Plastic-surgery-loan.jpeg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'reconstruct your body with plastic surgery loan from tlc',
-  description: 'description',
-  publishedOn: '2022-08-27T13:28:20-0400',
+  title: "reconstruct your body with plastic surgery loan from tlc",
+  description:
+    "Have you always thought of getting plastic surgery? Do you still avoid it since you don’t have enough money for the surgery? Then don’t repeat it hereafter when TLC is here with you. But the point is many people think that plastic and cosmetic surgery are the same. But technically they are not the same but cosmetic and plastic surgery are closely related to each other.",
+  publishedOn: "2022-08-27T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category:
+    "cosmetic loan, cosmetic surgery loan, cosmetic surgery loans, plastic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC LOAN, COSMETIC SURGERY LOAN, COSMETIC SURGERY LOANS, PLASTIC SURGERY LOAN"
----
-
-# Reconstruct Your Body With Plastic Surgery Loan From TLC
+export default (props) => <BlogPost post={article} {...props} />;
 
 Have you always thought of getting plastic surgery? Do you still avoid it since you don’t have enough money for the surgery? Then don’t repeat it hereafter when TLC is here with you. But the point is many people think that plastic and cosmetic surgery are the same. But technically they are not the same but cosmetic and plastic surgery are closely related to each other.
+
+<Image src={postImage} alt={article.title} />
 
 Know that [cosmetic surgery](https://medical.tlc.com.au/cosmetic-surgery/) and plastic surgery deal with improving the patient’s body. But they have different goals. Cosmetic surgery follows the procedures, techniques, and principles that are focused on enhancing the appearance of the individual. But the plastic surgery is mainly focused on repairing the defects and reconstructing the normal appearance and function of the body.
 

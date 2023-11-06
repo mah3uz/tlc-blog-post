@@ -1,37 +1,32 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Romeo.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'romeo romeo what on earth is the romeo stop snoring now heres how',
-  description: 'description',
-  publishedOn: '2022-09-30T13:28:20-0400',
+  title: "romeo romeo what on earth is the romeo stop snoring now heres how",
+  description:
+    "Trish: Hey, podcasters. Well, I’m here today with Dr. Josip Lovrić. Now, Dr. Lovrić is a General and Cosmetic Surgeon who’s based in Croatia. We’re here at COSMEDICON Conference 2018, and he’s been presenting on a new device which is called the Romeo device. The treatment it’s for is to help stop snoring, so this is pretty exciting stuff. I know we all know someone who snores and drives us crazy, so this could be the solution. So welcome, Dr. Lovrić. Dr. Lovrić: Thank you, Trish. It’s a great opportunity for me to be here with you in Australia. Trish: Lovely. So tell us, what is this Romeo device, and how does it work?",
+  publishedOn: "2022-09-30T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Romeo, Romeo, What on earth is the Romeo? Stop snoring now, here’s how…
+export default (props) => <BlogPost post={article} {...props} />;
 
 **Trish:** Hey, podcasters. Well, I’m here today with Dr. Josip Lovrić. Now, Dr. Lovrić is a General and Cosmetic Surgeon who’s based in Croatia. We’re here at COSMEDICON Conference 2018, and he’s been presenting on a new device which is called the Romeo device. The treatment it’s for is to help stop snoring, so this is pretty exciting stuff. I know we all know someone who snores and drives us crazy, so this could be the solution. So welcome, Dr. Lovrić.
 
 **Dr. Lovrić:** Thank you, Trish. It’s a great opportunity for me to be here with you in Australia.
 
 **Trish:** Lovely. So tell us, what is this Romeo device, and how does it work?
+
+<Image src={postImage} alt={article.title} />
 
 **Dr. Lovrić:** Actually, it is the first fractional laser treatment for snoring. Now, 40% of the world’s population snores, so this is the first time that we have the solution in order to reduce snoring in amplitude and duration, minimally by 50%. In numbers, if you snore four hours and you do this treatment, and your snoring is reduced by 50%, that means that your partner will now be able to sleep for six hours. And six hours is the bare minimum of quality sleep for you to get rested in the morning and cope with the day ahead of you.
 

@@ -1,35 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./medical-oncology-loan.jpeg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'take your cancer treatment with medical oncology loan',
-  description: 'description',
-  publishedOn: '2021-03-14T13:28:20-0400',
+  title: "take your cancer treatment with medical oncology loan",
+  description:
+    "Cancer is a dreaded disease. Like anything that causes fear without any knowledge, this disease provides a fertile ground for rumors and myths. It’s important to understand that there are many misconceptions about how the disease starts and spreads. But know that most of the information has no scientific evidence.",
+  publishedOn: "2021-03-14T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical oncology loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL ONCOLOGY LOAN"
----
-
-# Take Your Cancer Treatment Immediately With Medical Oncology Loan
-
-## Medical Oncology Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 Cancer is a dreaded disease. Like anything that causes fear without any knowledge, this disease provides a fertile ground for rumors and myths. It’s important to understand that there are many misconceptions about how the disease starts and spreads. But know that most of the information has no scientific evidence.
+
+<Image src={postImage} alt={article.title} />
 
 These unnecessary ideas and information cause worries and fear in the individuals. Also, these worries will cause an obstacle to taking timely and proper decisions in life. Many individuals fear that other people will avoid them if they know that they have cancer. But know that you don’t have to get stressed so much since cancer is not a spreadable disease.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Know-About-Day-Surgery-Loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'everything you need to know about day surgery loans',
-  description: 'description',
-  publishedOn: '2022-04-01T13:28:20-0400',
+  title: "everything you need to know about day surgery loans",
+  description:
+    "If you need a medical procedure that can be completed in a day, you may be considering day surgery or dental loan. These types of surgeries can help you avoid the high costs and long recovery times associated with traditional hospital stays. However, even though day surgery can be less expensive than inpatient surgeries, it can still be costly, especially if you don’t have health insurance. That’s where day surgery loans or [dental loan](https://dental.tlc.com.au/dental/) come in. In this guide, we’ll explore everything you need to know about day surgery loans, including what they are, how they work, and how to apply.",
+  publishedOn: "2022-04-01T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DAY SURGERY LOANS"
----
-
-# Everything You Need to Know About Day Surgery Loans
+export default (props) => <BlogPost post={article} {...props} />;
 
 If you need a medical procedure that can be completed in a day, you may be considering day surgery or dental loan. These types of surgeries can help you avoid the high costs and long recovery times associated with traditional hospital stays. However, even though day surgery can be less expensive than inpatient surgeries, it can still be costly, especially if you don’t have health insurance. That’s where day surgery loans or [dental loan](https://dental.tlc.com.au/dental/) come in. In this guide, we’ll explore everything you need to know about day surgery loans, including what they are, how they work, and how to apply.
+
+<Image src={postImage} alt={article.title} />
 
 ## What are Day Surgery Loans?
 

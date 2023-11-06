@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./postImage.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'jewellery',
-  description: 'description',
-  publishedOn: '2021-03-01T13:28:20-0400',
+  title: "Delightful Tips On How To Avail For Jewellery Loan",
+  description:
+    "For almost every women what attracts more is the attractive dress. After that, all of us wish to have pretty pieces of ornaments. As women, we have a never-ending love towards ornaments despite its material. All of us would have an eye on a particular piece of ornament which we would have seen days ago. Many of us won’t buy them since we don’t have enough amount to purchase it. Don’t waste another moment like this, since you can get the amount required to buy the ornament with jewellery loan.",
+  publishedOn: "2021-03-01T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "wedding loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEDDING LOAN"
----
-
-# Delightful Tips On How To Avail For Jewellery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 For almost every women what attracts more is the attractive dress. After that, all of us wish to have pretty pieces of ornaments. As women, we have a never-ending love towards ornaments despite its material. All of us would have an eye on a particular piece of ornament which we would have seen days ago. Many of us won’t buy them since we don’t have enough amount to purchase it. Don’t waste another moment like this, since you can get the amount required to buy the ornament with jewellery loan.
+
+<Image src={postImage} alt={article.title} />
 
 **What is the best loan option for buying jewellery?**
 

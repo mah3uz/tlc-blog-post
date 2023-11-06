@@ -1,31 +1,24 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Breast-Reconstruction.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'breast reconstruction the whos whys and hows with dr damian marucci',
-  description: 'description',
-  publishedOn: '2021-03-12T13:28:20-0400',
+  title: "breast reconstruction the whos whys and hows with dr damian marucci",
+  description:
+    "Dr Marucci: Thank you very much.Trish Hammond: Thanks for joining us, Dr. Marucci.Dr Marucci:Thanks very much for having me.Trish Hammond: Okay, all right. Awesome.Dr Marucci: Yeah, awesome.",
+  publishedOn: "2021-03-12T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Breast Reconstruction – the who’s, why’s and how’s with Dr Damian Marucci
+export default (props) => <BlogPost post={article} {...props} />;
 
 **Dr Marucci:** Thank you very much.
 
@@ -36,6 +29,8 @@ category: "MEDICAL LOAN"
 **Trish Hammond:** Okay, all right. Awesome.
 
 **Dr Marucci:** Yeah, awesome.
+
+<Image src={postImage} alt={article.title} />
 
 **Trish Hammond:** I thought I’d be formal for the podcast, but I’m…
 

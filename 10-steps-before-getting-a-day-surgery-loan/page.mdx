@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./10-Steps-Before-Getting-a-Day-Surgery-Loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: '10 steps before getting a day surgery loan',
-  description: 'description',
-  publishedOn: '2020-10-06T13:28:20-0400',
+  title: "10 steps before getting a day surgery loan",
+  description:
+    "In the journey of life, we often find ourselves navigating through unforeseen trials, and among these, unexpected medical expenditures frequently seize the spotlight. When faced with such fiscal encumbrances, a Day Surgery Loan can emerge as a pivotal safety net, proffering respite without depleting your monetary reservoirs. However, before you embark on the journey of obtaining a Day Surgery Loan, let’s delve into a tenfold approach designed to ensure a seamless and stress-free process.",
+  publishedOn: "2020-10-06T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "day surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DAY SURGERY LOANS"
----
-
-# 10 Steps Before Getting a Day Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 In the journey of life, we often find ourselves navigating through unforeseen trials, and among these, unexpected medical expenditures frequently seize the spotlight. When faced with such fiscal encumbrances, a Day Surgery Loan can emerge as a pivotal safety net, proffering respite without depleting your monetary reservoirs. However, before you embark on the journey of obtaining a Day Surgery Loan, let’s delve into a tenfold approach designed to ensure a seamless and stress-free process.
+
+<Image src={postImage} alt={article.title} />
 
 ## Strategizing for a Day Surgery Loan with Prudence
 

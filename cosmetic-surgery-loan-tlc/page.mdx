@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Cosmetic-Surgery-Loan (2).jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loan tlc',
-  description: 'description',
-  publishedOn: '2020-11-16T13:28:21-0400',
+  title: "Comprehensive Guide to Cosmetic Surgery Loan – TLC",
+  description:
+    "At Total Lifestyle Credit(TLC), we understand the desire to enhance your appearance and boost your self-confidence through cosmetic surgery loans. However, we also recognize that the cost of these procedures can be a significant barrier for many individuals. That’s why we have created this comprehensive guide to cosmetic surgery loan, designed to help you understand your options and make informed decisions about financing your aesthetic goals.",
+  publishedOn: "2020-11-16T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOAN"
----
-
-# Comprehensive Guide to Cosmetic Surgery Loan – TLC
+export default (props) => <BlogPost post={article} {...props} />;
 
 At Total Lifestyle Credit(TLC), we understand the desire to enhance your appearance and boost your self-confidence through cosmetic surgery loans. However, we also recognize that the cost of these procedures can be a significant barrier for many individuals. That’s why we have created this comprehensive guide to cosmetic surgery loan, designed to help you understand your options and make informed decisions about financing your aesthetic goals.
+
+<Image src={postImage} alt={article.title} />
 
 ## Exploring Available Financing Options for Cosmetic Surgery :
 

@@ -1,35 +1,30 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Plastic-Surgery-loan-1.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'be financially assisted with the best plastic surgery loan',
-  description: 'description',
-  publishedOn: '2021-08-22T13:28:20-0400',
+  title: "be financially assisted with the best plastic surgery loan",
+  description:
+    "When we think about plastic surgery for any of our body part, one thing that stops us is the financial assist. Thus, plastic surgery loans are the best option to solve the problem. Plastic surgery is intended to address broken zones of the body and is reconstructive. A few techniques incorporate restorative or tasteful medical procedure like bosom remaking expecting to improve appearance.",
+  publishedOn: "2021-08-22T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "plastic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "PLASTIC SURGERY LOAN"
----
-
-# Be Financially Assisted With The Best Plastic Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 When we think about plastic surgery for any of our body part, one thing that stops us is the financial assist. Thus, plastic surgery loans are the best option to solve the problem. Plastic surgery is intended to address broken zones of the body and is reconstructive. A few techniques incorporate restorative or tasteful medical procedure like bosom remaking expecting to improve appearance.
 
-## Here are some popular plastic surgery treatments and their details to cover them under plastic surgery loan:
+<Image src={postImage} alt={article.title} />
+## Here are some popular plastic surgery treatments and their details to cover them
+under plastic surgery loan:
 
 - **Mastopexy:** A bosom lift, otherwise called Mastopexy, raises the bosoms by eliminating overabundance skin and fixing the encompassing tissue to make a younger bosom form. The average cost starts from $4500.
 - **Dermabrasion:** the average cost for Dermabraison ranges from $1296 and it can move up to $2500.

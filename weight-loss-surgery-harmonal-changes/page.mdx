@@ -1,35 +1,30 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./weight-loss-surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'weight loss surgery harmonal changes',
-  description: 'description',
-  publishedOn: '2022-05-24T13:28:20-0400',
+  title: "Is it Worth Opting for Weight Loss Surgery?",
+  description:
+    "Obesity is perhaps a severe health issue in which people often struggle with their heavy and uncontrollable weight. In order to cut off their extra pounds, people usually prefer following a strict diet plan. When paired with an inclusive treatment strategy, weight loss surgery, often known as bariatric surgery has proven to be an effective rehabilitation in improving the quality of your health and providing you with a long-term weight loss. As per the user’s review, weight loss surgery has resolved several obesity-related problems including but not limited to blood pressure, type 2 diabetes, heart diseases, and much more. If you aren’t sure if this surgery could help you in getting rid of your additional weight, here’s what you need to know:",
+  publishedOn: "2022-05-24T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Is it Worth Opting for Weight Loss Surgery?
+export default (props) => <BlogPost post={article} {...props} />;
 
 ## Is it Worth Opting for Weight Loss Surgery?
 
 Obesity is perhaps a severe health issue in which people often struggle with their heavy and uncontrollable weight. In order to cut off their extra pounds, people usually prefer following a strict diet plan. When paired with an inclusive treatment strategy, weight loss surgery, often known as bariatric surgery has proven to be an effective rehabilitation in improving the quality of your health and providing you with a long-term weight loss. As per the user’s review, weight loss surgery has resolved several obesity-related problems including but not limited to blood pressure, type 2 diabetes, heart diseases, and much more. If you aren’t sure if this surgery could help you in getting rid of your additional weight, here’s what you need to know:
+
+<Image src={postImage} alt={article.title} />
 
 ### The working of weight loss surgery
 

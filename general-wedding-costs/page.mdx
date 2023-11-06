@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./general-wedding-costs.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'general wedding costs',
-  description: 'description',
-  publishedOn: '2021-04-08T13:28:20-0400',
+  title:
+    "What Is The Average General Wedding Costs And How To Reduce In 5 Ways?",
+  description:
+    "Congrats…! You have made the right choice. Sharing life with someone who cares more about you is really important. How have you planned to cherish a special occasion, like are you aware of the General Wedding Costs? Great venue, DJ, chandelier hire and cake makers are usually a part of it.",
+  publishedOn: "2021-04-08T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "wedding loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEDDING LOAN"
----
-
-# What Is The Average General Wedding Costs And How To Reduce In 5 Ways?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Congrats…! You have made the right choice. Sharing life with someone who cares more about you is really important. How have you planned to cherish a special occasion, like are you aware of the General Wedding Costs? Great venue, DJ, chandelier hire and cake makers are usually a part of it.
+
+<Image src={postImage} alt={article.title} />
 
 Well, sure you would sum up all your savings to delight it. Usually, weddings will require more you can’t be firm on the cost it requires. Having some amount on your sleeve is always necessary to remove the grin on your face.
 

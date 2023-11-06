@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./home-improvement.png";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'home improvement',
-  description: 'description',
-  publishedOn: '2022-02-15T13:28:20-0400',
+  title: "Plan Homes for Future with Home Improvement Loan",
+  description:
+    "Families find a home improvement loan the best option to add to the beauty of the house. Several financial institutions offer loans to help you build the future house for your family. The additional benefits make these loans attractive, appealing. Families have the leverage to design things keeping personal taste and requirement into mind. They don’t want to delay the proceedings of renovating the house for unnecessary reasons such as the complex nature of paperwork, and it was one of the lessons they’ve learnt from the past mistakes. Families can also check information and enquire online to save time and effort.",
+  publishedOn: "2022-02-15T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "LIFESTYLE LOAN"
----
-
-# Plan Homes for Future with Home Improvement Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 Families find a home improvement loan the best option to add to the beauty of the house. Several financial institutions offer loans to help you build the future house for your family. The additional benefits make these loans attractive, appealing. Families have the leverage to design things keeping personal taste and requirement into mind. They don’t want to delay the proceedings of renovating the house for unnecessary reasons such as the complex nature of paperwork, and it was one of the lessons they’ve learnt from the past mistakes. Families can also check information and enquire online to save time and effort.
+
+<Image src={postImage} alt={article.title} />
 
 1. **How Home Improvement Increases the Happiness Quotient**
    Home improvement loans are specifically-designed products to meet the demands of different families belonging to different sections of society. One thing that has gained a tremendous amount of attention is the customer-centric approach right from the application process to the liberty of using the funds depending on the requirement. The flexibility to use as it pleases the family was an investment on the part of the financial institutions. When it comes to building a new home or renovating homes, families listen to their hearts or family members. There’s no way they would agree to have funds on the condition of making a compromise on how they want to renovate or any kind of interference.

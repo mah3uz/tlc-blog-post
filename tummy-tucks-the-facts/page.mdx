@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Tummy-Tucks.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'tummy tucks the facts',
-  description: 'description',
-  publishedOn: '2020-10-29T13:28:20-0400',
+  title: "tummy tucks the facts",
+  description:
+    "A tummy tuck, otherwise known as an abdominoplasty, is a procedure most often undertaken by women after having children, or after massive weight loss. Either of these circumstances often leaves you with excess skin that can only be removed via surgery. In the case of women after childbirth, it can also help repair muscle separation and improve bladder weakness. There are a few things to know about tummy tucks if you are considering having the surgery and with the help of [Dr Mark Edinburg](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/dr-mark-edinburg-mbbch-fracs-plastic-reconstructive-and-cosmetic-surgeon/), one of Sydney’s leading Plastic, Reconstructive and Cosmetic Surgeons. Here is a list of Tummy Tucks – The Facts.",
+  publishedOn: "2020-10-29T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Tummy Tucks – The Facts
+export default (props) => <BlogPost post={article} {...props} />;
 
 A tummy tuck, otherwise known as an abdominoplasty, is a procedure most often undertaken by women after having children, or after massive weight loss. Either of these circumstances often leaves you with excess skin that can only be removed via surgery. In the case of women after childbirth, it can also help repair muscle separation and improve bladder weakness. There are a few things to know about tummy tucks if you are considering having the surgery and with the help of [Dr Mark Edinburg](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/dr-mark-edinburg-mbbch-fracs-plastic-reconstructive-and-cosmetic-surgeon/), one of Sydney’s leading Plastic, Reconstructive and Cosmetic Surgeons. Here is a list of Tummy Tucks – The Facts.
+
+<Image src={postImage} alt={article.title} />
 
 **1. There is more than one tummy tuck procedure**
 

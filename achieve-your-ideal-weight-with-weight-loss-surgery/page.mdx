@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./weight-loss-surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'achieve your ideal weight with weight loss surgery',
-  description: 'description',
-  publishedOn: '2022-01-07T13:28:20-0400',
+  title: "achieve your ideal weight with weight loss surgery",
+  description:
+    "Being overweight is no longer considered a lifestyle issue. In today’s world, obesity is considered a disease since it often leads to other dangerous complications such as diabetes, hypertension, cancer, and many other health issues.",
+  publishedOn: "2022-01-07T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEIGHT LOSS SURGERY"
----
-
-# Achieve Your Ideal Weight With Weight Loss Surgery
+export default (props) => <BlogPost post={article} {...props} />;
 
 Being overweight is no longer considered a lifestyle issue. In today’s world, obesity is considered a disease since it often leads to other dangerous complications such as diabetes, hypertension, cancer, and many other health issues.
+
+<Image src={postImage} alt={article.title} />
 
 But the bariatric surgery will reset the set point of a healthy weight in an individual. Importantly, it helps in bringing back the patient from the unhealthy weight range to a healthy nature through natural means.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Plastic-Surgery-Questions.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'most commonly asked plastic surgery questions',
-  description: 'description',
-  publishedOn: '2021-10-22T13:28:20-0400',
+  title: "most commonly asked plastic surgery questions",
+  description:
+    "Anyone considering plastic surgery usually has similar questions. We get asked the same questions on a regular basis and thought we’d ask one of Sydney’s leading plastic surgeons, Dr Graham Sellars, to answer them for us.",
+  publishedOn: "2021-10-22T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Most Commonly Asked Plastic Surgery Questions
+export default (props) => <BlogPost post={article} {...props} />;
 
 Anyone considering plastic surgery usually has similar questions. We get asked the same questions on a regular basis and thought we’d ask one of Sydney’s leading plastic surgeons, Dr Graham Sellars, to answer them for us.
+
+<Image src={postImage} alt={article.title} />
 
 **PSH: Do I need a referral from my GP to see a plastic surgeon?**
 

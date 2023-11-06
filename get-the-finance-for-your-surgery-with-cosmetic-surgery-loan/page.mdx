@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Cosmetic-Surgery-Loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'get the finance for your surgery with cosmetic surgery loan',
-  description: 'description',
-  publishedOn: '2020-11-12T13:28:20-0400',
+  title: "get the finance for your surgery with cosmetic surgery loan",
+  description:
+    "If you do not have a proper plan to finance your cosmetic surgery, facing the surgery or medical treatment can be very burdensome. Likewise, there are many treatments and surgeries that are not covered by private health providers or public hospitals, for these cases you can take cosmetic surgery loan for operations and other medical expenses from financial organizations.",
+  publishedOn: "2020-11-12T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOAN"
----
-
-# Get The Finance For Your Surgery With Cosmetic Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 If you do not have a proper plan to finance your cosmetic surgery, facing the surgery or medical treatment can be very burdensome. Likewise, there are many treatments and surgeries that are not covered by private health providers or public hospitals, for these cases you can take cosmetic surgery loan for operations and other medical expenses from financial organizations.
+
+<Image src={postImage} alt={article.title} />
 
 ## Why take cosmetic surgery loan for medical operations?
 

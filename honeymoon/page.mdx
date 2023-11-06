@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./honeymoon.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'honeymoon',
-  description: 'description',
-  publishedOn: '2022-01-19T13:28:20-0400',
+  title: "Surprising Ways To Pay For The Honeymoon Trip",
+  description:
+    "There will be many special days in everyone’s life. Wedding day is something very special which one can’t forget throughout their lifetime. Since it happens only once in an individual’s lifetime, so it is very common that everyone has a dream about it. The dream wedding come true is not that much easy process. After you have enjoyed your wedding, the next important and exciting thing on the list is the honeymoon. To start a beautiful life almost all of us visit other destinations but to pay for the amount required for the trip is not easy. If this is the case then you can start looking for the loan options available near you.",
+  publishedOn: "2022-01-19T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEDDING LOAN"
----
-
-# Surprising Ways To Pay For The Honeymoon Trip
+export default (props) => <BlogPost post={article} {...props} />;
 
 There will be many special days in everyone’s life. Wedding day is something very special which one can’t forget throughout their lifetime. Since it happens only once in an individual’s lifetime, so it is very common that everyone has a dream about it. The dream wedding come true is not that much easy process. After you have enjoyed your wedding, the next important and exciting thing on the list is the honeymoon. To start a beautiful life almost all of us visit other destinations but to pay for the amount required for the trip is not easy. If this is the case then you can start looking for the loan options available near you.
+
+<Image src={postImage} alt={article.title} />
 
 ## How to make your dream honeymoon trip come true?
 

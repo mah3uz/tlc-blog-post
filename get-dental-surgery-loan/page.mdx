@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./dental-loan3.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'get dental surgery loan',
-  description: 'description',
-  publishedOn: '2021-09-12T13:28:20-0400',
+  title: "Things You Must Know About Getting A Dental Surgery Loan",
+  description:
+    "At one time, money was the best way to pay for cosmetic surgery, however en route numerous other techniques for installment have come to fruition. One of those strategies is financing. However, cosmetic specialists perform a bigger number of methodology than simply nose occupations and jaw lifts. Some of the time there is a therapeutically feasible reason with respect to why somebody needs cosmetic surgery. This can be dental work, methods to expel scarring, or the need to expel a variation from the norm from the face. Whatever the reason, there are organizations offering loans for those wishing to have a type of cosmetic surgery and get a dental surgery loan.",
+  publishedOn: "2021-09-12T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Things You Must Know About Getting A Dental Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 At one time, money was the best way to pay for cosmetic surgery, however en route numerous other techniques for installment have come to fruition. One of those strategies is financing. However, cosmetic specialists perform a bigger number of methodology than simply nose occupations and jaw lifts. Some of the time there is a therapeutically feasible reason with respect to why somebody needs cosmetic surgery. This can be dental work, methods to expel scarring, or the need to expel a variation from the norm from the face. Whatever the reason, there are organizations offering loans for those wishing to have a type of cosmetic surgery and get a dental surgery loan.
+
+<Image src={postImage} alt={article.title} />
 
 ## What is required for a dental surgery loan?
 

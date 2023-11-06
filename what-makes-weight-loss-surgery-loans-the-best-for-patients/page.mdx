@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Weight-loss-surgery11-1.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'what makes weight loss surgery loans the best for patients',
-  description: 'description',
-  publishedOn: '2022-06-26T13:28:20-0400',
+  title: "what makes weight loss surgery loans the best for patients",
+  description:
+    "Weight issues have torn apart the lives of patients in the absence of treatment. What if weight loss surgery is the right option? Do families with limited resources get the attention? What options do they have to get the surgery done? Everybody knows the traditional financial institutions don’t offer much help. The outdated financial products fail the purpose of getting the loan. The applicants realize the cracks in the system during the application procedure. They return without applying and look for outside help. We offer weight loss treatment loans to cover-up for the failing system.",
+  publishedOn: "2022-06-26T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEIGHT LOSS SURGERY"
----
-
-# What Makes Weight Loss Surgery Loans the Best for Patients
+export default (props) => <BlogPost post={article} {...props} />;
 
 Weight issues have torn apart the lives of patients in the absence of treatment. What if weight loss surgery is the right option? Do families with limited resources get the attention? What options do they have to get the surgery done? Everybody knows the traditional financial institutions don’t offer much help. The outdated financial products fail the purpose of getting the loan. The applicants realize the cracks in the system during the application procedure. They return without applying and look for outside help. We offer weight loss treatment loans to cover-up for the failing system.
+
+<Image src={postImage} alt={article.title} />
 
 ## • Weight Loss Surgery and Appalling State of Existing Financial Products
 

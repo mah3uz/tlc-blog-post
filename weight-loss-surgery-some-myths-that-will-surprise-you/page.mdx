@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Weight-loss-surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'weight loss surgery some myths that will surprise you',
-  description: 'description',
-  publishedOn: '2022-03-04T13:28:20-0400',
+  title: "weight loss surgery some myths that will surprise you",
+  description:
+    "Have you ever wondered what really happens during weight loss surgery? It’s a subject that often comes up in conversations but many don’t have all the facts. From misconceptions about diet and exercise to the safety of the procedure, there are so many myths surrounding this life-changing intervention. In this blog article, we will look at some of these common beliefs and take a closer look at the realities behind them. We’ll also explore some potential health benefits that come with weight loss surgery, as well as other factors to consider when making this important decision. So, if you’re wondering whether or not weight loss surgery is right for you, read on to discover the truth behind some surprising myths!",
+  publishedOn: "2022-03-04T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEIGHT LOSS SURGERY"
----
-
-# Weight Loss Surgery – Some Myths that Will Surprise You
+export default (props) => <BlogPost post={article} {...props} />;
 
 Have you ever wondered what really happens during weight loss surgery? It’s a subject that often comes up in conversations but many don’t have all the facts. From misconceptions about diet and exercise to the safety of the procedure, there are so many myths surrounding this life-changing intervention. In this blog article, we will look at some of these common beliefs and take a closer look at the realities behind them. We’ll also explore some potential health benefits that come with weight loss surgery, as well as other factors to consider when making this important decision. So, if you’re wondering whether or not weight loss surgery is right for you, read on to discover the truth behind some surprising myths!
+
+<Image src={postImage} alt={article.title} />
 
 ## How Effective Is Weight Loss Surgery?
 

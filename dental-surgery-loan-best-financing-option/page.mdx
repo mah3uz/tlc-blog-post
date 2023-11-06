@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./dental-loan5.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental surgery loan best financing option',
-  description: 'description',
-  publishedOn: '2021-03-16T13:28:20-0400',
+  title:
+    "Reasons Why Dental Surgery Loan Can Be Your Best Financing Option For Surgery",
+  description:
+    "In today’s era of hectic life schedules, people often neglect for the regular health checkup and especially when it comes to dental treatment. Be it the requirement of the root canal or your dentist have suggested you get instant treatment for tooth decay, people tend to take their dental checkup for granted. However, it is essential to note that avoiding the regular or periodical tooth checkup for a long time may draw a huge hole in your pocket. After all, the dental treatment especially surgery may cost you to pay an arm and a leg even after opting for multiple dental surgery loans. Dental work including essential procedures and cosmetic surgery is indeed costly. If the hefty price tags have what made you avoid getting dental treatment then no need to worry now. We’ve come up with an essential yet inexpensive financing option that could help you get your tooth treatment at an affordable rate:",
+  publishedOn: "2021-03-16T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Reasons Why Dental Surgery Loan Can Be Your Best Financing Option For Surgery
+export default (props) => <BlogPost post={article} {...props} />;
 
 In today’s era of hectic life schedules, people often neglect for the regular health checkup and especially when it comes to dental treatment. Be it the requirement of the root canal or your dentist have suggested you get instant treatment for tooth decay, people tend to take their dental checkup for granted. However, it is essential to note that avoiding the regular or periodical tooth checkup for a long time may draw a huge hole in your pocket. After all, the dental treatment especially surgery may cost you to pay an arm and a leg even after opting for multiple dental surgery loans. Dental work including essential procedures and cosmetic surgery is indeed costly. If the hefty price tags have what made you avoid getting dental treatment then no need to worry now. We’ve come up with an essential yet inexpensive financing option that could help you get your tooth treatment at an affordable rate:
+
+<Image src={postImage} alt={article.title} />
 
 ## What exactly is Dental Surgery Loan?
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Cosmetic-Surgery-Loans-Are-Plastic-Surgeries-Worth-It.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loans are plastic surgeries worth it',
-  description: 'description',
-  publishedOn: '2020-11-18T13:28:20-0400',
+  title: "cosmetic surgery loans are plastic surgeries worth it",
+  description:
+    "Everyone wishes to look beautiful and younger always. But not everyone has the perfect skin and body shape which makes them look beautiful. At these times, many people prefer using cosmetic surgery which will help in improving their look. Even though the decision of taking cosmetic surgery makes an individual feel happy, the expenses to be handled will make them stressed.",
+  publishedOn: "2020-11-18T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOANS"
----
-
-# Cosmetic Surgery Loans- Are Plastic Surgeries Worth It?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Everyone wishes to look beautiful and younger always. But not everyone has the perfect skin and body shape which makes them look beautiful. At these times, many people prefer using cosmetic surgery which will help in improving their look. Even though the decision of taking cosmetic surgery makes an individual feel happy, the expenses to be handled will make them stressed.
+
+<Image src={postImage} alt={article.title} />
 
 Everyone here knows that cosmetic surgery is expensive and typically not covered by insurance. Yet each year the number of people who are having cosmetic surgery is increasing. If you are also about to take the surgery then have you planned how to handle the expenses? Can you afford the entire procedure on your own? These are the common questions that may make you feel stressed but you don’t need to feel stressed anymore.
 

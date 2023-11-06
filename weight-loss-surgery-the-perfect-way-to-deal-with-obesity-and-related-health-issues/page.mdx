@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./weight-loss-surgery1-580x580.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'weight loss surgery the perfect way to deal with obesity and related health issues',
-  description: 'description',
-  publishedOn: '2022-09-23T13:28:20-0400',
+  title:
+    "weight loss surgery the perfect way to deal with obesity and related health issues",
+  description:
+    "There is no surprise that obesity carries significant health risks with it. Many of the everyday tasks are more difficult for obese persons but obesity itself will increase the risk of developing many health issues. That is why many obese people struggle to lose weight. Even with proper diet and regular exercise, many people find it difficult to lose weight. Fortunately, bariatric surgery is the best way through which one can reduce the risks of other health issues related to obesity and reduce the fat cells in the body effectively.",
+  publishedOn: "2022-09-23T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEIGHT LOSS SURGERY"
----
-
-# Weight Loss Surgery – The Perfect Way To Deal With Obesity And Related Health Issues
+export default (props) => <BlogPost post={article} {...props} />;
 
 There is no surprise that obesity carries significant health risks with it. Many of the everyday tasks are more difficult for obese persons but obesity itself will increase the risk of developing many health issues. That is why many obese people struggle to lose weight. Even with proper diet and regular exercise, many people find it difficult to lose weight. Fortunately, bariatric surgery is the best way through which one can reduce the risks of other health issues related to obesity and reduce the fat cells in the body effectively.
+
+<Image src={postImage} alt={article.title} />
 
 Joint pains, difficulty in breathing, high blood pressure and type 2 diabetes are the common health issues which are developed with obesity. That is many people choose weight loss surgery as the best option to lose weight. But this surgery is an expensive treatment and some people avoid it since they have financial issues. At TLC we provide loan for the surgery so that individuals can use it to reduce their weight.
 

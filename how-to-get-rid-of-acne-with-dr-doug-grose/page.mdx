@@ -1,37 +1,32 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./get-rid-of-acne.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'how to get rid of acne with dr doug grose',
-  description: 'description',
-  publishedOn: '2022-02-18T13:28:20-0400',
+  title: "how to get rid of acne with dr doug grose",
+  description:
+    "Trish: Hey podcasters, well I’m here today with Dr. Doug Grose who is from DJG Cosmetic and we’re gonna have a chat about the age-old problem of acne and what causes it, how we can fix it, and it doesn’t matter what time of your life, what age you are, acne can kind of happen almost at any time. So thank you so much for joining us today Dr Grose.Dr Grose:Pleasure.Trish: So tell us this is something that you like talking about.",
+  publishedOn: "2022-02-18T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# How to get rid of acne, with Dr Doug Grose
+export default (props) => <BlogPost post={article} {...props} />;
 
 **Trish:** Hey podcasters, well I’m here today with Dr. Doug Grose who is from DJG Cosmetic and we’re gonna have a chat about the age-old problem of acne and what causes it, how we can fix it, and it doesn’t matter what time of your life, what age you are, acne can kind of happen almost at any time. So thank you so much for joining us today Dr Grose.
 
 **Dr Grose:** Pleasure.
 
 **Trish:** So tell us this is something that you like talking about.
+
+<Image src={postImage} alt={article.title} />
 
 **Dr Grose:** Very passionate about acne.
 

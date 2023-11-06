@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./pBreast-Fat-Transfer.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'breast fat transfer increasing breast size with your own fat',
-  description: 'description',
-  publishedOn: '2022-08-11T13:28:20-0400',
+  title: "breast fat transfer increasing breast size with your own fat",
+  description:
+    "Breast Fat Transfer or Autologous Fat Transfer is getting increasingly popular as it is seen as a more natural option to increasing breast size rather than implants. Technology and technique has brought fat transfer well and truly into it’s own and it is now a seriously attractive option for those women wanting natural feeling and looking breasts while removing fat from other areas of their body at the same time. [Dr Gavin Sandercoe](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-gavin-sandercoe/) was one of Australia’s first plastic surgeons to see the merits of fat transfer and we chat to him about why he’s such a fan.",
+  publishedOn: "2022-08-11T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Breast Fat Transfer – Increasing Breast Size with your own fat
+export default (props) => <BlogPost post={article} {...props} />;
 
 Breast Fat Transfer or Autologous Fat Transfer is getting increasingly popular as it is seen as a more natural option to increasing breast size rather than implants. Technology and technique has brought fat transfer well and truly into it’s own and it is now a seriously attractive option for those women wanting natural feeling and looking breasts while removing fat from other areas of their body at the same time. [Dr Gavin Sandercoe](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-gavin-sandercoe/) was one of Australia’s first plastic surgeons to see the merits of fat transfer and we chat to him about why he’s such a fan.
+
+<Image src={postImage} alt={article.title} />
 
 ## How does breast fat transfer work?
 

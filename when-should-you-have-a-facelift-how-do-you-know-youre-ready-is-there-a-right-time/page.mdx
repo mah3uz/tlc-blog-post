@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Facelift.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'when should you have a facelift how do you know youre ready is there a right time',
-  description: 'description',
-  publishedOn: '2021-09-07T13:28:20-0400',
+  title:
+    "when should you have a facelift how do you know youre ready is there a right time",
+  description:
+    "Dr Bryan Mendelson knows faces. He’s one of the most respected leaders in facial surgery in the world, and he’s based right here in Melbourne, Australia. Author of “[In Your Face](https://www.plasticsurgeryhub.com.au/next-bookclub-book-dr-bryan-mendelsons-face-plastic-surgery-looks-matter/)” and contributor to various of the world’s most referred to medical textbooks, he’s seen thousands of faces and done hundreds of [facelifts](https://www.plasticsurgeryhub.com.au/procedure/face-lift-surgery-rhytidectomy/), [blepharoplasties](https://www.plasticsurgeryhub.com.au/procedure/eyelid-surgery-blepharoplasty/), [neck lifts](https://www.plasticsurgeryhub.com.au/procedure/neck-lift-surgery-platysmaplasty/), cheek lifts and every other facial surgery. We wanted to pick Dr Mendelson’s brain to find out when the best time and with what indicators a person should have a facelift. What he says about it makes a lot of sense.",
+  publishedOn: "2021-09-07T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# When should you have a facelift? How do you know you’re ready? Is there a right time?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Dr Bryan Mendelson knows faces. He’s one of the most respected leaders in facial surgery in the world, and he’s based right here in Melbourne, Australia. Author of “[In Your Face](https://www.plasticsurgeryhub.com.au/next-bookclub-book-dr-bryan-mendelsons-face-plastic-surgery-looks-matter/)” and contributor to various of the world’s most referred to medical textbooks, he’s seen thousands of faces and done hundreds of [facelifts](https://www.plasticsurgeryhub.com.au/procedure/face-lift-surgery-rhytidectomy/), [blepharoplasties](https://www.plasticsurgeryhub.com.au/procedure/eyelid-surgery-blepharoplasty/), [neck lifts](https://www.plasticsurgeryhub.com.au/procedure/neck-lift-surgery-platysmaplasty/), cheek lifts and every other facial surgery. We wanted to pick Dr Mendelson’s brain to find out when the best time and with what indicators a person should have a facelift. What he says about it makes a lot of sense.
+
+<Image src={postImage} alt={article.title} />
 
 ## It’s all about the timing
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Cosmetic-Surgery-Loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'refine your confidence with cosmetic surgery loans',
-  description: 'description',
-  publishedOn: '2021-03-27T13:28:20-0400',
+  title: "refine your confidence with cosmetic surgery loans",
+  description:
+    "In today’s society, the concept of beauty and self-confidence has gained immense significance. People are now more conscious of their appearance and are willing to invest in cosmetic surgery procedures to enhance their physical features.",
+  publishedOn: "2021-03-27T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOANS"
----
-
-# Refine Your Confidence with Cosmetic Surgery Loans
+export default (props) => <BlogPost post={article} {...props} />;
 
 In today’s society, the concept of beauty and self-confidence has gained immense significance. People are now more conscious of their appearance and are willing to invest in cosmetic surgery procedures to enhance their physical features.
+
+<Image src={postImage} alt={article.title} />
 
 Do you dream of enhancing your appearance, feeling more confident and comfortable in your own skin? Cosmetic surgery can be a life-changing decision, but the cost can often be a barrier to achieving your desired look. Don’t let financial constraints hold you back from realizing your aesthetic goals. With cosmetic surgery loans, you can turn your dreams into a reality and transform your self-image.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Dental-loan-c (1).jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'keep your smile healthy with a dental loan',
-  description: 'description',
-  publishedOn: '2021-07-14T13:28:20-0400',
+  title: "keep your smile healthy with a dental loan",
+  description:
+    "Life is full of up and down and anything can happen at any moment but you can face them with a smile even if the road ahead of you is full of thorns. And to keep that smile healthy is your responsibility and if you facing some difficulties you can the help of a dental loan.",
+  publishedOn: "2021-07-14T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Keep Your Smile Healthy With A Dental Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 Life is full of up and down and anything can happen at any moment but you can face them with a smile even if the road ahead of you is full of thorns. And to keep that smile healthy is your responsibility and if you facing some difficulties you can the help of a dental loan.
+
+<Image src={postImage} alt={article.title} />
 
 Once in a lifetime, almost everyone has visited a dentist to get their teeth checked or to get an implant. Because your teeth are something which makes your smile perfect with a beautiful smile you can take over any event, make more friends and socialize and can get success in your career, that how much important your smile is.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Weight-loss-surgery11.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'weight loss surgery the best way to reduce weight and look slim',
-  description: 'description',
-  publishedOn: '2021-01-01T13:28:20-0400',
+  title: "weight loss surgery the best way to reduce weight and look slim",
+  description:
+    "It is no secret that weight gain is the main reason for many health issues. We all know that the excess weight in the body or obesity leads comes with few health risks. Many obese people nowadays suffer a lot to carry out their daily task. Since it increases the risk of developing many deadly and unpreventable diseases. Most of the time, people get type 2 diabetes along with obesity. For this reason, many people follow a proper diet and exercise to get the desired result. But, they will feel more painful when they don’t get the desired result.",
+  publishedOn: "2021-01-01T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEIGHT LOSS SURGERY"
----
-
-# Weight Loss Surgery – The Best Way To Reduce Weight And Look Slim
+export default (props) => <BlogPost post={article} {...props} />;
 
 It is no secret that weight gain is the main reason for many health issues. We all know that the excess weight in the body or obesity leads comes with few health risks. Many obese people nowadays suffer a lot to carry out their daily task. Since it increases the risk of developing many deadly and unpreventable diseases. Most of the time, people get type 2 diabetes along with obesity. For this reason, many people follow a proper diet and exercise to get the desired result. But, they will feel more painful when they don’t get the desired result.
+
+<Image src={postImage} alt={article.title} />
 
 Fortunately, bariatric surgery is an excellent option for losing fat cells in the body. This weight loss surgery is considered as the best option for not only losing a large amount of weight but also reduce the risk of developing health issues. Best of all you can get relief from diabetes which has been troubling you till now. For this, all you need is to take the bariatric surgery. But financing the surgery is the factor which would trouble you. But you don’t need to fear hereafter since you can get the bariatric surgery loan from TLC.
 

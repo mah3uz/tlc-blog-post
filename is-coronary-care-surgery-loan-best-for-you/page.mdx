@@ -1,35 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Coronary-Care-Surgery-Loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'is coronary care surgery loan best for you',
-  description: 'description',
-  publishedOn: '2020-12-09T13:28:20-0400',
+  title: "is coronary care surgery loan best for you",
+  description:
+    "Coronary care surgery, also known as bypass surgery, is a critical medical procedure that can save lives and improve cardiac health. However, the cost associated with this surgery can be substantial, leaving many individuals in need of financial assistance. One option to consider is a coronary care surgery loan. In this article, we will explore what a coronary care surgery loan entails, its potential benefits, and whether it is the right choice for you.",
+  publishedOn: "2020-12-09T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "coronary care surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "CORONARY CARE SURGERY"
----
-
-# Is Coronary Care Surgery Loan Best for You?
-
-##
+export default (props) => <BlogPost post={article} {...props} />;
 
 Coronary care surgery, also known as bypass surgery, is a critical medical procedure that can save lives and improve cardiac health. However, the cost associated with this surgery can be substantial, leaving many individuals in need of financial assistance. One option to consider is a coronary care surgery loan. In this article, we will explore what a coronary care surgery loan entails, its potential benefits, and whether it is the right choice for you.
+
+<Image src={postImage} alt={article.title} />
 
 ## Understanding Coronary Care Surgery Loan:
 

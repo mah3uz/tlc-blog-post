@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Sellars-at-the-AAPSW.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'trish hammond talks breast reduction with dr graham sellars at the aapsw',
-  description: 'description',
-  publishedOn: '2021-05-15T13:28:20-0400',
+  title:
+    "trish hammond talks breast reduction with dr graham sellars at the aapsw",
+  description:
+    "**Trish:** Hey, podcasters. I’m really excited ’cause I’m here today with [Dr Graham Sellars](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-graham-sellars/), who’s a Plastic & Reconstructive Specialist Surgeon based in SAN Clinic, which is in Wahroonga in New South Wales, Sydney. Sydney, New South Wales. And I’m really excited because I don’t very often get to talk to Dr Sellars, so today we’re gonna talk about my favourite topic in the whole wide world, which is [breast reduction](https://www.plasticsurgeryhub.com.au/procedure/breast-reduction-surgery-reduction-mammoplasty/). So, thank you so much for joining us today.",
+  publishedOn: "2021-05-15T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Trish Hammond talks Breast Reduction with Dr Graham Sellars at the AAPSW
+export default (props) => <BlogPost post={article} {...props} />;
 
 **Trish:** Hey, podcasters. I’m really excited ’cause I’m here today with [Dr Graham Sellars](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-graham-sellars/), who’s a Plastic & Reconstructive Specialist Surgeon based in SAN Clinic, which is in Wahroonga in New South Wales, Sydney. Sydney, New South Wales. And I’m really excited because I don’t very often get to talk to Dr Sellars, so today we’re gonna talk about my favourite topic in the whole wide world, which is [breast reduction](https://www.plasticsurgeryhub.com.au/procedure/breast-reduction-surgery-reduction-mammoplasty/). So, thank you so much for joining us today.
+
+<Image src={postImage} alt={article.title} />
 
 **Graham Sellars:** Pleasure, thanks for coming along.
 

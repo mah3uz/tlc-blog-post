@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Dental-Surgery-Loans-2.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental surgery loans cheering up your teeth and wallet',
-  description: 'description',
-  publishedOn: '2022-10-26T13:28:20-0400',
+  title: "dental surgery loans cheering up your teeth and wallet",
+  description:
+    "Do you dream of flashing a dazzling Hollywood smile but are held back by dental surgery costs? Fear not, for there’s a way to make your pearly whites sparkle without burning a hole in your pocket! Dental surgery loans come to the rescue, providing a financial lifeline to those seeking to enhance their [oral health](https://www.who.int/health-topics/oral-health). In this article, we’ll explore how these loans can give you something to grin about while enjoying a dose of humor along the way. Let’s dive in",
+  publishedOn: "2022-10-26T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental surgery loan, dental surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL SURGERY LOAN, DENTAL SURGERY LOANS"
----
-
-# Dental Surgery Loans: Cheering Up Your Teeth and Wallet
+export default (props) => <BlogPost post={article} {...props} />;
 
 Do you dream of flashing a dazzling Hollywood smile but are held back by dental surgery costs? Fear not, for there’s a way to make your pearly whites sparkle without burning a hole in your pocket! Dental surgery loans come to the rescue, providing a financial lifeline to those seeking to enhance their [oral health](https://www.who.int/health-topics/oral-health). In this article, we’ll explore how these loans can give you something to grin about while enjoying a dose of humor along the way. Let’s dive in
+
+<Image src={postImage} alt={article.title} />
 
 ## What Are Dental Surgery Loans?
 

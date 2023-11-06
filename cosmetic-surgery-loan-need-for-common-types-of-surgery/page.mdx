@@ -1,31 +1,26 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./cosmetic-surgery-loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loan need for common types of surgery',
-  description: 'description',
-  publishedOn: '2022-04-26T13:28:20-0400',
+  title: "Common Types Of Surgery For Which You May Need Cosmetic Surgery Loan",
+  description:
+    "In this world, there are many people who are not satisfied with their appearance. They wish to enhance their look in any way and reach their beauty goals. For those people, cosmetic surgery is the best choice. With cosmetic surgery, you can tighten the skin and improve your appearance of the skin. You can also add facial features and much more.",
+  publishedOn: "2022-04-26T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic loan, cosmetic surgery loan, cosmetic surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
+export default (props) => <BlogPost post={article} {...props} />;
 
 <Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC LOAN, COSMETIC SURGERY LOAN, COSMETIC SURGERY LOANS"
----
-
-# Common Types Of Surgery For Which You May Need Cosmetic Surgery Loan
 
 In this world, there are many people who are not satisfied with their appearance. They wish to enhance their look in any way and reach their beauty goals. For those people, cosmetic surgery is the best choice. With cosmetic surgery, you can tighten the skin and improve your appearance of the skin. You can also add facial features and much more.
 

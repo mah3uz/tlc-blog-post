@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./cosmetic-surgery-loan (1).png";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loan new tribe of women',
-  description: 'description',
-  publishedOn: '2022-09-13T13:28:20-0400',
+  title: "How Cosmetic Surgery Loan is Raising a New Tribe of Women",
+  description:
+    "Women have shone like a bright star in every field in the last couple of decades. The rise of woman role models from different walks of life shows the kind of confidence, the ability they possess and advancements in cosmetic surgery loan is one of the confidence-boosting techniques behind it.",
+  publishedOn: "2022-09-13T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# How Cosmetic Surgery Loan is Raising a New Tribe of Women
+export default (props) => <BlogPost post={article} {...props} />;
 
 Women have shone like a bright star in every field in the last couple of decades. The rise of woman role models from different walks of life shows the kind of confidence, the ability they possess and advancements in cosmetic surgery loan is one of the confidence-boosting techniques behind it.
+
+<Image src={postImage} alt={article.title} />
 
 Whether one believes it or not, women draw a lot of confidence and courage on how they look and what kind of impression they leave behind. Are we talking about beauty alone? It’s about how cosmetic surgery makes women feel and looking beautiful is one of the several aspects. Women are born leaders, and they’re acting like the one in modern societ
 

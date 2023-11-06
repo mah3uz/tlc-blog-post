@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Looking-for-finance.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'looking for finance options for your surgery tlc might be able to help',
-  description: 'description',
-  publishedOn: '2021-05-12T13:28:20-0400',
+  title:
+    "looking for finance options for your surgery tlc might be able to help",
+  description:
+    "New to the market, TLC (Total Lifestyle Credit) are here, and I’m pretty excited by it. Sometimes we need to have procedures done and can’t afford them. Well TLC can help us with options. I know myself I had back surgery last year which set me back almost $30,000 (YES IT’S TRUE!) and without options such as TLC, I could still be walking around with 9/10 pain if I couldn’t get access to funds to have this life changing surgery. Today, Tim chats with me about [options that are available to patients](https://www.plasticsurgeryhub.com.au/finance-plastic-surgery-loans/) in a variety of health areas that might be needed.  ",
+  publishedOn: "2021-05-12T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental loan, lifestyle loan, medical loan, wedding loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN, LIFESTYLE LOAN, MEDICAL LOAN, WEDDING LOAN"
----
-
-# Looking for finance options for your surgery? TLC might be able to help…
+export default (props) => <BlogPost post={article} {...props} />;
 
 New to the market, TLC (Total Lifestyle Credit) are here, and I’m pretty excited by it. Sometimes we need to have procedures done and can’t afford them. Well TLC can help us with options. I know myself I had back surgery last year which set me back almost $30,000 (YES IT’S TRUE!) and without options such as TLC, I could still be walking around with 9/10 pain if I couldn’t get access to funds to have this life changing surgery. Today, Tim chats with me about [options that are available to patients](https://www.plasticsurgeryhub.com.au/finance-plastic-surgery-loans/) in a variety of health areas that might be needed.
+
+<Image src={postImage} alt={article.title} />
 
 **Trish:** Hey, podcasters. Once again, we’re here today, and I’ve got something a little bit different for you today. Today, I’m going to be talking to Tim Boon. Tim is from TLC, which is Total Lifestyle Credit, and today we’re going to have a bit of a chat about what your options are when you’re looking to have a procedure and you can’t afford it, or can’t get your hands on the money straight away, or just some other options that are available to you and what TLC has to offer. Welcome, Tim.
 

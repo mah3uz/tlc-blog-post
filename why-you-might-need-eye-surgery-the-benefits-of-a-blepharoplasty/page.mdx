@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Benefits-of-a-Blepharoplasty.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'why you might need eye surgery the benefits of a blepharoplasty',
-  description: 'description',
-  publishedOn: '2022-06-23T13:28:20-0400',
+  title: "why you might need eye surgery the benefits of a blepharoplasty",
+  description:
+    "We all have those moments when we look in the mirror and see a tired face. But what if it’s not just because you had a bad night’s sleep, but because your eyes are permanently droopy or tired looking? [Dr Graham Sellars](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-graham-sellars/), Plastic, Cosmetic and Reconstructive Surgeon based at the San Clinic in Wahroonga, NSW has 15 years experience in this type of surgery, so we chatted to him about the reasons why patients come to him for an eye surgery and the benefits of a blepharoplasty.",
+  publishedOn: "2022-06-23T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Why you might need eye surgery – The Benefits of a Blepharoplasty
+export default (props) => <BlogPost post={article} {...props} />;
 
 We all have those moments when we look in the mirror and see a tired face. But what if it’s not just because you had a bad night’s sleep, but because your eyes are permanently droopy or tired looking? [Dr Graham Sellars](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-graham-sellars/), Plastic, Cosmetic and Reconstructive Surgeon based at the San Clinic in Wahroonga, NSW has 15 years experience in this type of surgery, so we chatted to him about the reasons why patients come to him for an eye surgery and the benefits of a blepharoplasty.
+
+<Image src={postImage} alt={article.title} />
 
 ## Reasons why you might consider a blepharoplasty or eye surgery
 

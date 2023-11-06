@@ -1,31 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Coronary-Care-Surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'coronary care surgery purpose procedure and recovery',
-  description: 'description',
-  publishedOn: '2021-10-24T13:28:20-0400',
+  title: "coronary care surgery purpose procedure and recovery",
+  description:
+    "Coronary care surgery is a life-saving procedure for patients with coronary artery disease. It helps to restore the flow of blood through the arteries, thus increasing the patient’s chance of survival. But what exactly is it? How does it work, and what should you expect during recovery? In this blog post, we will answer all your questions relating to coronary care surgery and provide you with valuable information that can help you prepare for the procedure. From understanding the purpose of this operation to exploring the steps involved in the process and learning about how long it takes to recover, read on to find out more.",
+  publishedOn: "2021-10-24T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "coronary care surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "CORONARY CARE SURGERY"
----
+export default (props) => <BlogPost post={article} {...props} />;
 
 Coronary care surgery is a life-saving procedure for patients with coronary artery disease. It helps to restore the flow of blood through the arteries, thus increasing the patient’s chance of survival. But what exactly is it? How does it work, and what should you expect during recovery? In this blog post, we will answer all your questions relating to coronary care surgery and provide you with valuable information that can help you prepare for the procedure. From understanding the purpose of this operation to exploring the steps involved in the process and learning about how long it takes to recover, read on to find out more.
+
+<Image src={postImage} alt={article.title} />
 
 ## Coronary Care Surgery – The Best Treatment at a Competitive Cost
 

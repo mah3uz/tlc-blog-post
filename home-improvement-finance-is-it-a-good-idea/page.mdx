@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Home-Improvement-finance.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'home improvement finance is it a good idea',
-  description: 'description',
-  publishedOn: '2020-09-01T13:28:20-0400',
+  title: "home improvement finance is it a good idea",
+  description:
+    "If you are a house owner, then you would think about renovating the house and redoing the home interiors. It is quite often for almost all the house owners. But most of them delay the work since they don’t have enough amount for the renovation. If you are delaying the renovation due to lack of funds, then all you need is to reach the TLC. You can avail the home improvement finance to undertake the home improvisation without any delay. These are quite similar to other types of loan with the only difference is the loan amount you apply for the house renovation.",
+  publishedOn: "2020-09-01T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "lifestyle loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "LIFESTYLE LOAN"
----
-
-# Home Improvement Finance – Is It A Good Idea?
+export default (props) => <BlogPost post={article} {...props} />;
 
 If you are a house owner, then you would think about renovating the house and redoing the home interiors. It is quite often for almost all the house owners. But most of them delay the work since they don’t have enough amount for the renovation. If you are delaying the renovation due to lack of funds, then all you need is to reach the TLC. You can avail the home improvement finance to undertake the home improvisation without any delay. These are quite similar to other types of loan with the only difference is the loan amount you apply for the house renovation.
+
+<Image src={postImage} alt={article.title} />
 
 When you think about the home improvement loan, then you would probably think about the small alternations. One way to make the project a more affordable one is by taking the loan. But this way you can cover the renovation cost and start your renovation works. But before that, you must know about the home improvement loan. It is a loan type which can be used for the home repair, renovation, remodelling and refinishing. You can get the loan easily from TLC and make the necessary changes to the house.
 

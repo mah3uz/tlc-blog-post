@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Weight-Loss-Surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'top signs that you need weight loss surgery',
-  description: 'description',
-  publishedOn: '2021-06-19T13:28:20-0400',
+  title:
+    "TCL Bariatric Surgery Loan – Top Signs That You Need Weight Loss Surgery",
+  description:
+    "Have your weight begun to create serious implications on your overall health? Then it’s time to seek solutions for your overweight. It will be incredibly difficult to go about your daily life when the muscles simply do not have the strength to carry the weight you have acquired. If you wish to look for more information then here is whether you need to take the weight loss surgery or not.",
+  publishedOn: "2021-06-19T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "bariatric surgery loan, weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "BARIATRIC SURGERY LOAN, WEIGHT LOSS SURGERY"
----
-
-# TCL Bariatric Surgery Loan – Top Signs That You Need Weight Loss Surgery
+export default (props) => <BlogPost post={article} {...props} />;
 
 Have your weight begun to create serious implications on your overall health? Then it’s time to seek solutions for your overweight. It will be incredibly difficult to go about your daily life when the muscles simply do not have the strength to carry the weight you have acquired. If you wish to look for more information then here is whether you need to take the weight loss surgery or not.
+
+<Image src={postImage} alt={article.title} />
 
 ## When you should take the weight loss surgery?
 

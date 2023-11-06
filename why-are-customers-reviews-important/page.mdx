@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./customers-reviews-important.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'why are customers reviews important',
-  description: 'description',
-  publishedOn: '2021-01-26T13:28:20-0400',
+  title: "why are customers reviews important",
+  description:
+    "Why Are Customer Reviews Important? Approximately 90% of people check out a business, product or service online before choosing to buy. Research suggests that 88% of these people trust online reviews. Websites such as Plastic Surgery Hub allow you to independently research practitioners and surgeons in order to hear what other patients have to say, get a feel for the surgeon’s popularity and make sure you’re making the right choice for you and your procedure. Every now and then we notice that one of the surgeons, clinics or practitioners we have listed on the Hub have more reviews than most. One of these is NorthEast Plastic Surgery with locations in Melbourne and Brisbane. Their patients are real advocates of the services and here are a few snippets from some.",
+  publishedOn: "2021-01-26T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Why are customers reviews important
+export default (props) => <BlogPost post={article} {...props} />;
 
 Why Are Customer Reviews Important? Approximately 90% of people check out a business, product or service online before choosing to buy. Research suggests that 88% of these people trust online reviews. Websites such as Plastic Surgery Hub allow you to independently research practitioners and surgeons in order to hear what other patients have to say, get a feel for the surgeon’s popularity and make sure you’re making the right choice for you and your procedure. Every now and then we notice that one of the surgeons, clinics or practitioners we have listed on the Hub have more reviews than most. One of these is NorthEast Plastic Surgery with locations in Melbourne and Brisbane. Their patients are real advocates of the services and here are a few snippets from some.
+
+<Image src={postImage} alt={article.title} />
 
 ### Nicole, April 2017
 
