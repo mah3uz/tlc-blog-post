@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./dental-loan7.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental surgery loan',
-  description: 'description',
-  publishedOn: '2022-06-02T13:28:20-0400',
+  title: "Things You Need To Know About Dental Surgery Loan & Its Cost",
+  description:
+    "If the idea of replacement teeth raises images of old school dentures, get ready to be introduced the twenty-first century. Dental implants are an amazing technological advance in dentistry. They are profoundly sophisticated artificial teeth that are implanted into the underlying foundations of the mouth. They look simply like regular teeth on the outside, yet within is a titanium screw that is implanted into the mouth and gives a structure that rivals the quality of your natural teeth. Read on to learn progressively about the costs engaged with these energizing new advances in tooth replacement.",
+  publishedOn: "2022-06-02T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Things You Need To Know About Dental Surgery Loan & Its Cost
+export default (props) => <BlogPost post={article} {...props} />;
 
 If the idea of replacement teeth raises images of old school dentures, get ready to be introduced the twenty-first century. Dental implants are an amazing technological advance in dentistry. They are profoundly sophisticated artificial teeth that are implanted into the underlying foundations of the mouth. They look simply like regular teeth on the outside, yet within is a titanium screw that is implanted into the mouth and gives a structure that rivals the quality of your natural teeth. Read on to learn progressively about the costs engaged with these energizing new advances in tooth replacement.
+
+<Image src={postImage} alt={article.title} />
 
 The cost of dental implants typically ranges between $1500-$3000 per tooth replacement. While this can appear to be a ton of money to spend on an ideal grin, it’s important to remember that having a balanced tooth structure will greatly profit your chomp, and guarantee that the other teeth in your mouth don’t compensate for the missing tooth. This is especially vital when you’re feeling the loss of a tooth that is essential for biting. So as to offset the costs of dental implants, there are some alternatives available to you. You can always take dental surgery loans.
 

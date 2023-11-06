@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Wedding-Finance.jpeg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'wedding finance make your dream wedding a reality',
-  description: 'description',
-  publishedOn: '2021-04-28T13:28:20-0400',
+  title: "wedding finance make your dream wedding a reality",
+  description:
+    "Wedding is always a grand event. Marriages are the special moments for the couple since they are one of the precious things which will happen in one’s life. Everyone has dreams to have a grand wedding at some point in their lives. Though many people look fine during their marriage day, some may feel sad since they can’t make their dream wedding come true. Most of the time, wedding planning will be changed since they won’t have the required amount to make their dream wedding come true. But hereafter there is no need to sacrifice your dream since at TLC, we help your dream wedding come true by providing the wedding finance.",
+  publishedOn: "2021-04-28T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "wedding loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEDDING LOAN"
----
-
-# Wedding Finance – Make Your Dream Wedding A Reality
+export default (props) => <BlogPost post={article} {...props} />;
 
 Wedding is always a grand event. Marriages are the special moments for the couple since they are one of the precious things which will happen in one’s life. Everyone has dreams to have a grand wedding at some point in their lives. Though many people look fine during their marriage day, some may feel sad since they can’t make their dream wedding come true. Most of the time, wedding planning will be changed since they won’t have the required amount to make their dream wedding come true. But hereafter there is no need to sacrifice your dream since at TLC, we help your dream wedding come true by providing the wedding finance.
+
+<Image src={postImage} alt={article.title} />
 
 Whenever you make the budget for marriage, you must calculate the expenses according to the needs. There are many biggest expenses at the wedding, your savings will not be enough to meet the wedding expenses. Hence you can use the wedding loan through which you can meet the other expenses at the wedding. Since it is an unsecured loan, you can use the loan to meet any expenses like jewellery purchase, venue booking, food or so on.
 

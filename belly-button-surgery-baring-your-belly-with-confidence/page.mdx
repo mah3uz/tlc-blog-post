@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Belly-Button-Surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'belly button surgery baring your belly with confidence',
-  description: 'description',
-  publishedOn: '2021-07-15T13:28:20-0400',
+  title: "Belly Button Surgery – Baring Your Belly with Confidence",
+  description:
+    "Australia is the land of the sun and showing off our bodies is a part of our lifestyle. Come the summertime we’re all hoping to look our best and show off our new pair of bikinis or tops that show a little (or big!) glimpse of our bellies! However, there are quite a few of us who don’t necessarily feel comfortable showing off our bellies. And it’s not always because we’re not happy with our weight. Belly buttons are those little things that can cause big concern. Dr Mark Hanikeri, Specialist Plastic Surgeon from Perth, WA, says he’s seeing more and more people come in for Belly Button Surgery or Belly Button Reshaping. We find out more.",
+  publishedOn: "2021-07-15T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Belly Button Surgery – Baring Your Belly with Confidence
+export default (props) => <BlogPost post={article} {...props} />;
 
 Australia is the land of the sun and showing off our bodies is a part of our lifestyle. Come the summertime we’re all hoping to look our best and show off our new pair of bikinis or tops that show a little (or big!) glimpse of our bellies! However, there are quite a few of us who don’t necessarily feel comfortable showing off our bellies. And it’s not always because we’re not happy with our weight. Belly buttons are those little things that can cause big concern. Dr Mark Hanikeri, Specialist Plastic Surgeon from Perth, WA, says he’s seeing more and more people come in for Belly Button Surgery or Belly Button Reshaping. We find out more.
+
+<Image src={postImage} alt={article.title} />
 
 ### What is the belly button anyway?!
 

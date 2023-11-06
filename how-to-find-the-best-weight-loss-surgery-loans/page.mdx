@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./weight-loss.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'how to find the best weight loss surgery loans',
-  description: 'description',
-  publishedOn: '2021-04-11T13:28:20-0400',
+  title: "how to find the best weight loss surgery loans",
+  description:
+    "Women consider beauty an inherent characteristic. Health conditions affecting their chances to look their best shake their confidence. It’s the kind of value they put on the aesthetic appearance. Excessive weight is their biggest challenge. Sometimes, they find themselves incapable of losing weight. They try everything from exercise to eating habits but cannot find a breakthrough. [TLC](https://tlc.com.au/) offer the best weight loss surgery loans. Our team focuses on applicants putting self-esteem above everything.",
+  publishedOn: "2021-04-11T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEIGHT LOSS SURGERY"
----
-
-# How to Find the Best Weight Loss Surgery Loans?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Women consider beauty an inherent characteristic. Health conditions affecting their chances to look their best shake their confidence. It’s the kind of value they put on the aesthetic appearance. Excessive weight is their biggest challenge. Sometimes, they find themselves incapable of losing weight. They try everything from exercise to eating habits but cannot find a breakthrough. [TLC](https://tlc.com.au/) offer the best weight loss surgery loans. Our team focuses on applicants putting self-esteem above everything.
+
+<Image src={postImage} alt={article.title} />
 
 We consider the lack of resolve a hindrance. Women find the current situation a given reality. They’re stuck in a phase where society has robbed them of confidence. Two, they don’t see things changing anytime soon. We work on the confidence level first. The online application filling process offers the scope to talk to them. They also get a chance to ask things.
 

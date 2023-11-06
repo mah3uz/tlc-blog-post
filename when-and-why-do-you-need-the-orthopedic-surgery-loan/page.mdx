@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Orthopedic.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'when and why do you need the orthopedic surgery loan',
-  description: 'description',
-  publishedOn: '2021-01-18T13:28:21-0400',
+  title: "when and why do you need the orthopedic surgery loan",
+  description:
+    "Are you someone who faced severe musculoskeletal injuries? Then it’s time to look for the best professional. It’s important to get immediate treatment served by the best orthopedic doctor. An orthopedic doctor is a medical expert who is usually specialized in the musculoskeletal system – the bones, joints, ligaments, tendons, and muscles which are essential to moving in everyday life.",
+  publishedOn: "2021-01-18T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "orthopaedic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "ORTHOPAEDIC SURGERY LOAN"
----
-
-# When And Why Do You Need The Orthopedic Surgery Loan?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Are you someone who faced severe musculoskeletal injuries? Then it’s time to look for the best professional. It’s important to get immediate treatment served by the best orthopedic doctor. An orthopedic doctor is a medical expert who is usually specialized in the musculoskeletal system – the bones, joints, ligaments, tendons, and muscles which are essential to moving in everyday life.
+
+<Image src={postImage} alt={article.title} />
 
 If you are suffering from severe injury then you can take the orthopedic surgery loan and get the required surgery or treatment. The professionals will treat minor to major physical trauma due to any accidents or sports. It can also be due to birth issues, natural disasters, crime, abuse, or anything. The specialist will quickly and safely perform the necessary surgery so that the individual can walk as usual. Treatments for which you can take the orthopedic surgery loan:
 

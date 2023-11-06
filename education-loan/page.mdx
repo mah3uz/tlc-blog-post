@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./education.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'education loan',
-  description: 'description',
-  publishedOn: '2021-02-26T13:28:20-0400',
+  title: "Fund Your Child’s Career Aspirations with Education Loans",
+  description:
+    "A child’s education dream is the best investment plan of a family, society. The future of a nation is in the hands of the same kids who look up to you today to enrol them in the right school, right college or university as they continue to dream big. Every parent wants their kid to have the best educational institution to nurture their talent, hone their skills. It’s only a matter of time before their aspirations and reality of the real world collide. Parents would find themselves standing up against a mountain. They cannot think of any other option than using their life savings to fund higher studies. Would that put things back in order? The answer is anything but affirmative. What about marriage plans, retirement?",
+  publishedOn: "2021-02-26T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "lifestyle loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "LIFESTYLE LOAN"
----
-
-# Fund Your Child’s Career Aspirations with Education Loans
+export default (props) => <BlogPost post={article} {...props} />;
 
 A child’s education dream is the best investment plan of a family, society. The future of a nation is in the hands of the same kids who look up to you today to enrol them in the right school, right college or university as they continue to dream big. Every parent wants their kid to have the best educational institution to nurture their talent, hone their skills. It’s only a matter of time before their aspirations and reality of the real world collide. Parents would find themselves standing up against a mountain. They cannot think of any other option than using their life savings to fund higher studies. Would that put things back in order? The answer is anything but affirmative. What about marriage plans, retirement?
+
+<Image src={postImage} alt={article.title} />
 
 1. **Benefits of Loans for Education and Planning for Future Ahead**
    Parents have the responsibility to provide the best education to their children. There are other future responsibilities they’ve towards them. Their marriage is the responsibility every parent look forward. Taking a loan to help children fulfil their potential would serve several purposes at the same time. These loans cover other aspects such as tuition and lab fee, travel expenses, hostel stay etc. These expenses may sound small compared to the course fee, but they put extra financial burden once you accumulate the costs.

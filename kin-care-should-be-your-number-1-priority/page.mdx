@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Skin-Care.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'kin care should be your number 1 priority',
-  description: 'description',
-  publishedOn: '2022-08-05T13:28:20-0400',
+  title: "kin care should be your number 1 priority",
+  description:
+    "Looking after your skin is the single most important thing you can do to combat ageing. Having cosmetic surgery or procedures is all well and good, but if you don’t look after your skin on a daily basis, it can all be a waste of time. Skin Care should be your Number 1 Priority says Dr Caroline Taylor Walker from [Medical Skin Clinic](https://www.plasticsurgeryhub.com.au/psh-directory/cosmetic-practitioners-clinics/medical-skin-clinic-australia/) in Torquay, Victoria. With her help, we discuss why nailing your skin care and makeup regime between clinic visits will do more for your beauty and ensure you stay looking your best than anything else.",
+  publishedOn: "2022-08-05T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Skin Care should be your Number 1 Priority
+export default (props) => <BlogPost post={article} {...props} />;
 
 Looking after your skin is the single most important thing you can do to combat ageing. Having cosmetic surgery or procedures is all well and good, but if you don’t look after your skin on a daily basis, it can all be a waste of time. Skin Care should be your Number 1 Priority says Dr Caroline Taylor Walker from [Medical Skin Clinic](https://www.plasticsurgeryhub.com.au/psh-directory/cosmetic-practitioners-clinics/medical-skin-clinic-australia/) in Torquay, Victoria. With her help, we discuss why nailing your skin care and makeup regime between clinic visits will do more for your beauty and ensure you stay looking your best than anything else.
+
+<Image src={postImage} alt={article.title} />
 
 It’s your skin care at home that gives you the best long-term results
 

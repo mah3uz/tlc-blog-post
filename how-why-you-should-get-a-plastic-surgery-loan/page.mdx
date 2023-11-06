@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./plastic-surgery-loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'how why you should get a plastic surgery loan',
-  description: 'description',
-  publishedOn: '2022-05-05T13:28:20-0400',
+  title: "how why you should get a plastic surgery loan",
+  description:
+    "Are you looking forward to having quality plastic surgery? Well, plastic surgery can get a little bit costly, and if you are not financially stable, things might actually get overwhelming. However, you don’t have to worry about that because TLC (Total Lifestyle Credit) got your back. They are always ready to finance your medical bills, and this includes the plastic surgery bill. So if you want to do plastic surgery, you and your finances are kind of not enough, you may consider applying for a plastic surgery loan at TLC.",
+  publishedOn: "2022-05-05T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "plastic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "PLASTIC SURGERY LOAN"
----
-
-# How & Why you should get a plastic surgery Loan?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Are you looking forward to having quality plastic surgery? Well, plastic surgery can get a little bit costly, and if you are not financially stable, things might actually get overwhelming. However, you don’t have to worry about that because TLC (Total Lifestyle Credit) got your back. They are always ready to finance your medical bills, and this includes the plastic surgery bill. So if you want to do plastic surgery, you and your finances are kind of not enough, you may consider applying for a plastic surgery loan at TLC.
+
+<Image src={postImage} alt={article.title} />
 
 Contrary to what most people think about plastic surgery, I believe plastic surgery is something that can transform your life for good. Not everyone does their plastic surgery just for fun. Everyone has their own life, and you, as a person you have the final say and the right to make decisions concerning your life. Plastic surgery is a decision someone makes for their own reasons. Basically, plastic surgeries are quite costly, and actually, you might need to get a Plastic surgery loan to see you through the entire process.
 

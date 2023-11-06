@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Cosmetic-Surgery-Loan-1.png";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'changing perspective with cosmetic surgery loan',
-  description: 'description',
-  publishedOn: '2022-01-26T13:28:20-0400',
+  title: " How Women are Changing Perspective with Cosmetic Surgery Loan",
+  description:
+    "A woman’s role has become an epicentre of change, innovation, leadership and standing for subjects that matter the most to society. Their role in their personal and family lives is the beginning point of anything that society witnesses at a later stage. Women going for a cosmetic surgery loan is one of those steps they’ve taken given the expectations they’ve from themselves and live up to the ones the others had of them.",
+  publishedOn: "2022-01-26T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-## How Women are Changing Perspective with Cosmetic Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 A woman’s role has become an epicentre of change, innovation, leadership and standing for subjects that matter the most to society. Their role in their personal and family lives is the beginning point of anything that society witnesses at a later stage. Women going for a cosmetic surgery loan is one of those steps they’ve taken given the expectations they’ve from themselves and live up to the ones the others had of them.
+
+<Image src={postImage} alt={article.title} />
 
 A cosmetic surgery restores confidence, belief, and faith in oneself. It’s the inherent desire to make the inner beauty shine outside. They don’t need anybody’s approval on how they look but know they don’t have to give in to the pressure of the outside world to let the inner beauty subside or die.
 

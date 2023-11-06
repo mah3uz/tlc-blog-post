@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Dental-Surgery-Loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental surgery loans how to apply',
-  description: 'description',
-  publishedOn: '2022-02-14T13:28:20-0400',
+  title: "dental surgery loans how to apply",
+  description:
+    "Facing dental issues can be daunting, especially when surgery is required. To relieve pain and enhance oral health, dental surgeries can be necessary, but the cost of doing so may be high. Many individuals may not have adequate funds to cover the expenses upfront, leading them to seek dental surgery loans in Australia, [Sydney](https://en.wikipedia.org/wiki/Sydney). This article will clarify the ins and outs of dental surgery loans and provide you with a detailed overview of the financing request process.",
+  publishedOn: "2022-02-14T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL SURGERY LOAN"
----
-
-# Dental Surgery Loans – Know How to Apply?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Facing dental issues can be daunting, especially when surgery is required. To relieve pain and enhance oral health, dental surgeries can be necessary, but the cost of doing so may be high. Many individuals may not have adequate funds to cover the expenses upfront, leading them to seek dental surgery loans in Australia, [Sydney](https://en.wikipedia.org/wiki/Sydney). This article will clarify the ins and outs of dental surgery loans and provide you with a detailed overview of the financing request process.
+
+<Image src={postImage} alt={article.title} />
 
 ## What are Dental Surgery Loans?
 

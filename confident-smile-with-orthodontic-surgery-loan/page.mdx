@@ -1,35 +1,31 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Orthodontic-Surgery-Loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'confident smile with orthodontic surgery loan',
-  description: 'description',
-  publishedOn: '2022-01-24T13:28:20-0400',
+  title: "confident smile with orthodontic surgery loan",
+  description:
+    "You would have heard about them since they are dental specialists who work to correct tooth alignment and bite problems so that one can have a perfect smile. There will be times when conventional orthodontic solutions will not successfully treat a bite problem.",
+  publishedOn: "2022-01-24T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "orthodontic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "ORTHODONTIC SURGERY LOAN"
----
-
-# Get Your Confident Smile With Orthodontic Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 **Orthodontists –** you would have heard about them since they are dental specialists who work to correct tooth alignment and bite problems so that one can have a perfect smile. There will be times when conventional orthodontic solutions will not successfully treat a bite problem.
 
-Severe issues may require surgical treatment particularly when it causes functional problems such as speech difficulties, inability to properly chew the foods and facial dysfunction in the form of headaches, joint pain or gum issues.
+<Image src={postImage} alt={article.title} />
+Severe issues may require surgical treatment particularly when it causes functional
+problems such as speech difficulties, inability to properly chew the foods and facial
+dysfunction in the form of headaches, joint pain or gum issues.
 
 These issues usually result in self-esteem issues which are brought by jaw abnormalities and may also result in the necessity of surgery. Also known as orthognathic surgery, surgical orthodontics will help in treating severe cases of bad bites and jawbone abnormalities. If the orthodontist is determined that you will need surgery then they will ensure to offer the best care possible.
 

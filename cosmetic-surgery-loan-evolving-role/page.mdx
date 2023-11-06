@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./cosmetic-surgery-loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loan evolving role',
-  description: 'description',
-  publishedOn: '2021-05-21T13:28:20-0400',
+  title: "How Cosmetic Surgery Loan Changes Woman’s Life for Better",
+  description:
+    "Women have a challenging, evolving role in modern society. With the popularity of a cosmetic surgery loan, they’ve found a new lease of life. Their confidence level has helped change the perspective towards oneself and society at large. The biggest beneficiary has been society and social institutions. We offer extensive assistance to our clients to help fill the application form with ease, and women get more attention as they deserve for showing the efforts to bring a change in their lives. We welcome women from all walks of life applying for the loan and getting personalised assistance until funds are disbursed.",
+  publishedOn: "2021-05-21T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# How Cosmetic Surgery Loan Changes Woman’s Life for Better
+export default (props) => <BlogPost post={article} {...props} />;
 
 Women have a challenging, evolving role in modern society. With the popularity of a cosmetic surgery loan, they’ve found a new lease of life. Their confidence level has helped change the perspective towards oneself and society at large. The biggest beneficiary has been society and social institutions. We offer extensive assistance to our clients to help fill the application form with ease, and women get more attention as they deserve for showing the efforts to bring a change in their lives. We welcome women from all walks of life applying for the loan and getting personalised assistance until funds are disbursed.
+
+<Image src={postImage} alt={article.title} />
 
 **How Cosmetic Surgery Loan has Made Women Stronger, Believers**
 

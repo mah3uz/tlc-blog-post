@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Plastic-Surgery-Procedures.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'breaking down the cost of plastic surgery procedures',
-  description: 'description',
-  publishedOn: '2022-05-21T13:28:20-0400',
+  title: "breaking down the cost of plastic surgery procedures",
+  description:
+    "Given the complexity of plastic and cosmetic surgery procedures and the various professionals involved in making it happen, it should come as no surprise as to why there are several things to consider when it comes to the costs involved. We spoke to Dr Patrick Briggs from Subiaco, WA who understands it can be hard for patients to wrap their head around the costs and wanted to help us break them down.",
+  publishedOn: "2022-05-21T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Breaking Down the Cost of Plastic Surgery Procedures
+export default (props) => <BlogPost post={article} {...props} />;
 
 Given the complexity of plastic and cosmetic surgery procedures and the various professionals involved in making it happen, it should come as no surprise as to why there are several things to consider when it comes to the costs involved. We spoke to Dr Patrick Briggs from Subiaco, WA who understands it can be hard for patients to wrap their head around the costs and wanted to help us break them down.
+
+<Image src={postImage} alt={article.title} />
 
 ### Surgeon’s Fee
 

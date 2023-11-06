@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Oral-surgery-loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'when would you need the oral surgery loan',
-  description: 'description',
-  publishedOn: '2022-07-17T13:28:20-0400',
+  title: "when would you need the oral surgery loan",
+  description:
+    "Oral Surgery Loan – Ideal oral health is important to make sure that your teeth and overall mouth are healthy. This will not only ensure that the mouth is healthy but also that the mouth and surrounding structure function properly. Oral surgeries are common since it focuses on treating many diseases, defects and injuries in the mouth.",
+  publishedOn: "2022-07-17T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "oral surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "ORAL SURGERY LOAN"
----
-
-# Oral Surgery Loan – When Would You Need?
+export default (props) => <BlogPost post={article} {...props} />;
 
 **Oral Surgery Loan –** Ideal oral health is important to make sure that your teeth and overall mouth are healthy. This will not only ensure that the mouth is healthy but also that the mouth and surrounding structure function properly. Oral surgeries are common since it focuses on treating many diseases, defects and injuries in the mouth.
+
+<Image src={postImage} alt={article.title} />
 
 Oral surgery is important for addressing both the aesthetic and functional aspects of the areas. Oral surgery is often combined with orthodontics, periodontal disease and dental implants. There are many familiar and standard procedures that are carried out such as wisdom teeth extraction. But many people avoid the treatment since they think that it’s expensive.
 

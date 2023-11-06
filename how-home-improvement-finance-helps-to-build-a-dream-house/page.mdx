@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Home-Improvement-finance.png";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'how home improvement finance helps to build a dream house',
-  description: 'description',
-  publishedOn: '2021-09-12T13:28:20-0400',
+  title: "how home improvement finance helps to build a dream house",
+  description:
+    "Families are always booming, prospering. There’s a need for more space at every stage of family expansion. Families prefer opting for home improvement finance. Taking money from personal savings isn’t a wise decision. Most of the families go for financing to renovate the house. The purpose would differ from one family to another. What made financing such a hit among the present families? Their lifestyle is one factor. The application process and small paperwork lure them too.",
+  publishedOn: "2021-09-12T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "mediceveryday lifeal",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "EVERYDAY LIFE"
----
-
-# How Home Improvement Finance Helps to Build a Dream House
+export default (props) => <BlogPost post={article} {...props} />;
 
 Families are always booming, prospering. There’s a need for more space at every stage of family expansion. Families prefer opting for home improvement finance. Taking money from personal savings isn’t a wise decision. Most of the families go for financing to renovate the house. The purpose would differ from one family to another. What made financing such a hit among the present families? Their lifestyle is one factor. The application process and small paperwork lure them too.
+
+<Image src={postImage} alt={article.title} />
 
 Families acknowledge the fact that interest rates are the deciding factor. They would either postpone their decision or limit the renovation budget. The popularity of home financing is changing the social mindset. Families find these loan products a viable option than delaying things further.
 

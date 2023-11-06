@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./dental-surgery-loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'handle your expenses for dental care with dental loan',
-  description: 'description',
-  publishedOn: '2022-03-07T13:28:20-0400',
+  title: "handle your expenses for dental care with dental loan",
+  description:
+    "Like overall body health, achieving optimal oral health should also be your priority. You can achieve your optimal oral health through regular visits to the dental practice and having proper personal hygiene practice.",
+  publishedOn: "2022-03-07T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental surgery loan, dental surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL SURGERY LOAN, DENTAL SURGERY LOANS"
----
-
-# Handle Your Expenses For Dental Care With Dental Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 Like overall body health, achieving optimal oral health should also be your priority. You can achieve your optimal oral health through regular visits to the dental practice and having proper personal hygiene practice.
+
+<Image src={postImage} alt={article.title} />
 
 Through regular oral care practices and treatment – the dentist will help you achieve oral health. A regular visit to the dentist will prevent serious oral issues. In this way, you can be healthy and have a bright smile that makes you look confident.
 

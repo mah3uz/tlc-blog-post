@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Plastic-Surgery-Loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'plastic surgery loans get for cosmetic types surgeries',
-  description: 'description',
-  publishedOn: '2020-09-26T13:28:20-0400',
+  title: "plastic surgery loans get for cosmetic types surgeries",
+  description:
+    "It is increasingly common for people to undergo cosmetic surgeries, either to improve their look or because some type of accident has physically affected their face or part of their body. However, this type of intervention has a high cost, which is why specific credits have been created for plastic surgery loans. In this article, let’s talk about some of the most common cosmetic surgery operations and the advantages of requesting a loan for this type of intervention.",
+  publishedOn: "2020-09-26T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "plastic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "PLASTIC SURGERY LOAN"
----
-
-# Plastic Surgery Loans – Get For Cosmetic Types of Surgeries
+export default (props) => <BlogPost post={article} {...props} />;
 
 It is increasingly common for people to undergo cosmetic surgeries, either to improve their look or because some type of accident has physically affected their face or part of their body. However, this type of intervention has a high cost, which is why specific credits have been created for plastic surgery loans. In this article, let’s talk about some of the most common cosmetic surgery operations and the advantages of requesting a loan for this type of intervention.
+
+<Image src={postImage} alt={article.title} />
 
 ## Common cosmetic surgery operations and uses of plastic surgery loans:
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Orthodontic-loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'orthodontic surgery loan for a million dollar smile',
-  description: 'description',
-  publishedOn: '2022-07-06T13:28:20-0400',
+  title: "orthodontic surgery loan for a million dollar smile",
+  description:
+    "Orthodontic surgery loan is assistance for Orthodontics. Likewise, it is a dental discipline that focuses on the detection, mitigation, and treatment of crooked teeth and jaws, as well as damaged bite styles. Dent facial orthopedics is a branch of dentistry that focuses on modifying facial development. Teeth and jaws that are not in proper alignment are popular. According to the International Federation of Orthodontics, almost majority of the people have deformities serious enough to seek orthodontic care. Several companies provide orthopedic surgery loans.",
+  publishedOn: "2022-07-06T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "orthodontic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "ORTHODONTIC SURGERY LOAN"
----
-
-# Orthodontic Surgery Loan – For A Million-dollar Smile
+export default (props) => <BlogPost post={article} {...props} />;
 
 Orthodontic surgery loan is assistance for Orthodontics. Likewise, it is a dental discipline that focuses on the detection, mitigation, and treatment of crooked teeth and jaws, as well as damaged bite styles. Dent facial orthopedics is a branch of dentistry that focuses on modifying facial development. Teeth and jaws that are not in proper alignment are popular. According to the International Federation of Orthodontics, almost majority of the people have deformities serious enough to seek orthodontic care. Several companies provide orthopedic surgery loans.
+
+<Image src={postImage} alt={article.title} />
 
 There is a paucity of conclusive evidence for orthodontic treatment’s medical benefits, which medical publications and medical groups in the sector of orthodontics have been reluctant to acknowledge. Treatment will last anywhere from a few months to several years, and it entails the use of dental braces and other equipment to gradually shift the teeth and jaws.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Daily-backlink-sheet-for-TLC.xlsx.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'osl improve your vision for a better life',
-  description: 'description',
-  publishedOn: '2021-05-01T13:28:20-0400',
+  title: "Ophthalmology Surgery Loan – Improve Your Vision For A Better Life",
+  description:
+    "Vision is important for everyone to read and see this world. But with ages, this vision clarity will reduce. In this modern world, even young people get vision issues due to the regular use of mobile phones and computers. So, it’s always important to protect our eyes from possible rays effects. Visiting an eye specialist at least yearly once is recommended to maintain healthy eyes.",
+  publishedOn: "2021-05-01T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "Daily-backlink-sheet-for-TLC.xlsx.jpg",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "OPHTHALMOLOGY SURGERY LOAN"
----
-
-# Ophthalmology Surgery Loan – Improve Your Vision For A Better Life
+export default (props) => <BlogPost post={article} {...props} />;
 
 Vision is important for everyone to read and see this world. But with ages, this vision clarity will reduce. In this modern world, even young people get vision issues due to the regular use of mobile phones and computers. So, it’s always important to protect our eyes from possible rays effects. Visiting an eye specialist at least yearly once is recommended to maintain healthy eyes.
+
+<Image src={postImage} alt={article.title} />
 
 But most of us only visit the doctor when we find issues with our eyes. There are many elements that affect the vision like aging, exposure to sunlight, medical conditions, genetics, exposure to harmful radiations from a computer or mobile phone and a few more.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Dental-Loan.jpeg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'get your dental issues fixed with dental loan',
-  description: 'description',
-  publishedOn: '2020-10-06T13:28:20-0400',
+  title: "get your dental issues fixed with dental loan",
+  description:
+    "Taking good care of the teeth is essential and it will prevent tooth loss and pain – which is obviously a good reason to take care of the teeth. We all wish to have healthy teeth and gums to have a bright smile and fresh breath that boosts our confidence.",
+  publishedOn: "2020-10-06T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental surgery loan, dental surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL SURGERY LOAN, DENTAL SURGERY LOANS"
----
-
-# Get Your Dental Issues Fixed With Dental Loan From TLC
+export default (props) => <BlogPost post={article} {...props} />;
 
 Taking good care of the teeth is essential and it will prevent tooth loss and pain – which is obviously a good reason to take care of the teeth. We all wish to have healthy teeth and gums to have a bright smile and fresh breath that boosts our confidence.
+
+<Image src={postImage} alt={article.title} />
 
 But how can you achieve it if you don’t care about your teeth and oral health? Being an adult it’s important to take care of oral health since it has an impact on overall health. There are many reasons why people avoid visiting the dentist regularly. But the most common reason is the expensive bills.
 

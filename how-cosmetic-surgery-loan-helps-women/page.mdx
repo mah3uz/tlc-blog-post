@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./cosmetic-surgery-loan-2.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'how cosmetic surgery loan helps women',
-  description: 'description',
-  publishedOn: '2022-04-09T13:28:20-0400',
+  title: "How Cosmetic Surgery Loan Helps Women to Accomplish Dreams",
+  description:
+    "Our team believes in the cause of a woman going after a cosmetic surgery loan to enhance facial beauty. The facial features draw enormous attention, and in the case of a working woman, they want to excel in all roles. Who would miss the opportunity to fix minor facial imperfections? Medical science has made several breakthroughs. The long lost dream of women to achieve a perfect look has become a reality. Right from the application, documentation to approval, women get personalized guidance to make it an exciting experience. They could go ahead and live the life of their dreams with the advent of surgery loans.",
+  publishedOn: "2022-04-09T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# How Cosmetic Surgery Loan Helps Women to Accomplish Dreams
+export default (props) => <BlogPost post={article} {...props} />;
 
 Our team believes in the cause of a woman going after a cosmetic surgery loan to enhance facial beauty. The facial features draw enormous attention, and in the case of a working woman, they want to excel in all roles. Who would miss the opportunity to fix minor facial imperfections? Medical science has made several breakthroughs. The long lost dream of women to achieve a perfect look has become a reality. Right from the application, documentation to approval, women get personalized guidance to make it an exciting experience. They could go ahead and live the life of their dreams with the advent of surgery loans.
+
+<Image src={postImage} alt={article.title} />
 
 **1.How Cosmetic Surgery Loan is Different**
 [A cosmetic surgery loan is customized to cater to the demands of vast sections of society](https://medical.tlc.com.au/cosmetic-surgery/). It carries the best features of an insurance cover but minus the hassle and lengthy waiting time. The last thing the women want is to get lost in technical aspects of getting the funds approved. We work closely with clients to understand their perspectives and offer customized services. We expect them to have an enjoyable time.

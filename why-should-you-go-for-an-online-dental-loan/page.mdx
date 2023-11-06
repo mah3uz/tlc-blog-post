@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Why-Should-You-Go-For-An-Online-Dental-Loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'why should you go for an online dental loan',
-  description: 'description',
-  publishedOn: '2021-06-16T13:28:20-0400',
+  title: "why should you go for an online dental loan",
+  description:
+    "In the past, applying for a loan meant going to the local bank and filling out a bunch of paperwork. Now the process is much easier. If you are looking for a dental loan, you can apply online and compare the best options available in the market.",
+  publishedOn: "2021-06-16T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC LOAN"
----
-
-# Online Dental Loan – Why Should You Go For?
+export default (props) => <BlogPost post={article} {...props} />;
 
 In the past, applying for a loan meant going to the local bank and filling out a bunch of paperwork. Now the process is much easier. If you are looking for a dental loan, you can apply online and compare the best options available in the market.
+
+<Image src={postImage} alt={article.title} />
 
 Did you know that you can get a loan approved in a matter of hours, instead of days? As technology improves, it has become more convenient to apply for loans online. If you need a loan, you should consider applying online. Getting a loan online has many advantages.
 

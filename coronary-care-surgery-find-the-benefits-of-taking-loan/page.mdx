@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Loan-for-Coronary-Care-Surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'coronary care surgery find the benefits of taking loan',
-  description: 'description',
-  publishedOn: '2020-09-09T13:28:20-0400',
+  title: "coronary care surgery find the benefits of taking loan",
+  description:
+    "In today’s world, healthcare expenses can often be overwhelming, especially when it comes to complex medical procedures like coronary care surgery. These procedures require specialized equipment, skilled medical professionals, and a significant amount of financial resources. However, thanks to the availability of loans for coronary care surgery, patients can now access the treatment they need without worrying about the immediate financial burden. In this article, we will explore the benefits of obtaining a loan for coronary care surgery and how it can provide a lifeline for patients in need.",
+  publishedOn: "2020-09-09T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "coronary care surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "CORONARY CARE SURGERY"
----
-
-# Coronary Care Surgery – Find the Benefits of Taking a Loan?
+export default (props) => <BlogPost post={article} {...props} />;
 
 In today’s world, healthcare expenses can often be overwhelming, especially when it comes to complex medical procedures like coronary care surgery. These procedures require specialized equipment, skilled medical professionals, and a significant amount of financial resources. However, thanks to the availability of loans for coronary care surgery, patients can now access the treatment they need without worrying about the immediate financial burden. In this article, we will explore the benefits of obtaining a loan for coronary care surgery and how it can provide a lifeline for patients in need.
+
+<Image src={postImage} alt={article.title} />
 
 ## Obtaining a loan for coronary care surgery can offer several significant benefits, including:
 

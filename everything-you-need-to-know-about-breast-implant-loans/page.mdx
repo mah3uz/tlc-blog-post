@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Breast-Implant-Loans (1).jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'everything you need to know about breast implant loans',
-  description: 'description',
-  publishedOn: '2022-06-24T13:28:20-0400',
+  title: "everything you need to know about breast implant loans",
+  description:
+    "Breast implant loans are typically offered by specialized lenders or healthcare financing companies. They provide loans that can cover the entire cost of the procedure or a portion of it. These loans often have competitive interest rates and flexible repayment terms, making them a viable option for those who cannot pay upfront.",
+  publishedOn: "2022-06-24T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "breast implant loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "BREAST IMPLANT LOANS"
----
-
-# Everything You Need to Know About Breast Implant Loans
+export default (props) => <BlogPost post={article} {...props} />;
 
 Breast implant loans are typically offered by specialized lenders or healthcare financing companies. They provide loans that can cover the entire cost of the procedure or a portion of it. These loans often have competitive interest rates and flexible repayment terms, making them a viable option for those who cannot pay upfront.
+
+<Image src={postImage} alt={article.title} />
 
 Breast implant and dental surgery loans are financing options that can help you pay for these expensive procedures. Breast implants can cost thousands of dollars, while dental surgeries can also be costly, especially if you need extensive work done. Loans specifically designed for these procedures can help you get the care you need without breaking the bank.
 

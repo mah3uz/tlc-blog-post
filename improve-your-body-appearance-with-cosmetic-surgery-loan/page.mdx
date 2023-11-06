@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./post_36.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'improve your body appearance with cosmetic surgery loan',
-  description: 'description',
-  publishedOn: '2022-05-10T13:28:20-0400',
+  title: "improve your body appearance with cosmetic surgery loan",
+  description:
+    "There is a number of products in the market today which claims that they can make us more aesthetically pleasing. While skin creams and counter beauty products have generally been put into the category of prevention, the actual cosmetic treatments will create dramatic skin rejuvenation results without the need for any high-end products.",
+  publishedOn: "2022-05-10T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "uncategorized",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "UNCATEGORIZED"
----
-
-# Improve Your Body Appearance with Cosmetic Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 There is a number of products in the market today which claims that they can make us more aesthetically pleasing. While skin creams and counter beauty products have generally been put into the category of prevention, the actual cosmetic treatments will create dramatic skin rejuvenation results without the need for any high-end products.
+
+<Image src={postImage} alt={article.title} />
 
 With many advancements in the field, there are many cosmetic procedures that are available now and delivered through technologies that range from laser to surgical procedures. These cosmetic procedures are highly impressive since they offer the best results to people. If you are wondering where to start, then you can contact the professionals and discuss with them to find which treatment will suit you.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Orthodontic-Surgery-Loan.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'is an orthodontic surgery loan right for you',
-  description: 'description',
-  publishedOn: '2021-07-13T13:28:20-0400',
+  title: "is an orthodontic surgery loan right for you",
+  description:
+    "Orthodontic surgery is a life-changing decision that can improve your oral health and enhance your overall well-being. However, the financial aspect of orthodontic procedures often poses a significant concern for many individuals. If you’re considering orthodontic surgery but are worried about the financial burden it may bring an orthodontic surgery loan could be the solution you’ve been searching for. In this article, we will delve into the world of orthodontic surgery loans and help you determine if it’s the right choice for you.",
+  publishedOn: "2021-07-13T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "orthodontic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "ORTHODONTIC SURGERY LOAN"
----
-
-# Is an Orthodontic Surgery Loan Right for You?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Orthodontic surgery is a life-changing decision that can improve your oral health and enhance your overall well-being. However, the financial aspect of orthodontic procedures often poses a significant concern for many individuals. If you’re considering orthodontic surgery but are worried about the financial burden it may bring an orthodontic surgery loan could be the solution you’ve been searching for. In this article, we will delve into the world of orthodontic surgery loans and help you determine if it’s the right choice for you.
+
+<Image src={postImage} alt={article.title} />
 
 ## The Benefits of Orthodontic Surgery Loans
 

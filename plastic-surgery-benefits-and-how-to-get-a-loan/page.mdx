@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./plastic-surgery-benefits-and-how-to-get-a-loan-img.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'plastic surgery benefits and how to get a loan',
-  description: 'description',
-  publishedOn: '2021-10-29T13:28:20-0400',
+  title: "plastic surgery benefits and how to get a loan",
+  description:
+    "Plastic or cosmetic surgery can have an endless list of benefits for patients, no matter the reason for undergoing a particular procedure. However, most of the time, low costs is not one of them.",
+  publishedOn: "2021-10-29T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loans",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOANS"
----
-
-# Plastic Surgery Benefits and How to Get a Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 Plastic or cosmetic surgery can have an endless list of benefits for patients, no matter the reason for undergoing a particular procedure. However, most of the time, low costs is not one of them.
+
+<Image src={postImage} alt={article.title} />
 
 For a successful procedure, you will want to visit a highly experienced and qualified surgeon, a process that can be associated with costs that some patients may struggle to cover up front.
 

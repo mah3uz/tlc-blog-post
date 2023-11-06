@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./cosmetic-surgery-loan.png";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'option for taking cosmetic surgery loan',
-  description: 'description',
-  publishedOn: '2020-10-08T13:28:20-0400',
+  title: "How Women Can Use Cosmetic Surgery Loan To Change Looks?",
+  description:
+    "Many women wish to change the looks or correct some of the body parts with cosmetic surgery. It may include a nose job, weight loss surgery and many more. But the major point to be noted here is that this type of surgery is really expensive. Since it is a type of elective surgery insurance usually does not cover this procedure. So, what are the financing choices one has for undergoing plastic surgery? The only option is to take a cosmetic surgery loan.",
+  publishedOn: "2020-10-08T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# How Women Can Use Cosmetic Surgery Loan To Change Looks?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Many women wish to change the looks or correct some of the body parts with cosmetic surgery. It may include a nose job, weight loss surgery and many more. But the major point to be noted here is that this type of surgery is really expensive. Since it is a type of elective surgery insurance usually does not cover this procedure. So, what are the financing choices one has for undergoing plastic surgery? The only option is to take a cosmetic surgery loan.
+
+<Image src={postImage} alt={article.title} />
 
 **Taking a cosmetic surgery loan? Know these ways to avail it:**
 

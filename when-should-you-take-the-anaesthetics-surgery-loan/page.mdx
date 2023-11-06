@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./loan_0211.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'when should you take the anaesthetics surgery loan',
-  description: 'description',
-  publishedOn: '2022-02-18T13:28:20-0400',
+  title: "when should you take the anaesthetics surgery loan",
+  description:
+    "Without any doubt, cardiologists are some of the most popular medical specialists. It is important to diagnose the heart issues at an earlier stage and treat it as soon as possible since maintaining a healthy heart is important. Especially when you get older, it is important to check the heart continuously so that you can find any heart-related issues as soon as possible.",
+  publishedOn: "2022-02-18T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "vascular surgery, medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "VASCULAR SURGERY, MEDICAL LOAN"
----
-
-# When Should You Take The Anaesthetics Surgery Loan?
+export default (props) => <BlogPost post={article} {...props} />;
 
 Without any doubt, cardiologists are some of the most popular medical specialists. It is important to diagnose the heart issues at an earlier stage and treat it as soon as possible since maintaining a healthy heart is important. Especially when you get older, it is important to check the heart continuously so that you can find any heart-related issues as soon as possible.
+
+<Image src={postImage} alt={article.title} />
 
 The advancements in the medical field have made it possible to treat any heart disease. If you don’t have enough amount of money to take the surgery then you can look for a cardiology surgery loan. This will help you get the required amount for the treatment. Modern technology has evolved to such an extent that the skills of surgeons are improved.
 

@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./coronary-heart-disease.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'essential things you need to know about coronary heart disease',
-  description: 'description',
-  publishedOn: '2020-12-17T13:28:20-0400',
+  title: "essential things you need to know about coronary heart disease",
+  description:
+    "Coronary heart disease has become common and quite alarming. This is why the need for coronary care surgery is on peak. If you have been a victim of a coronary heart infection, your doctor must have referred you to a cardiac surgeon for a more detailed medical attention. Even though coronary care surgery can be quite costly you really need it. However, you don’t have to worry anymore about funding your coronary surgery because TLC (Total Life Credit) is always ready to provide a favorable payment plan that will perfectly match your needs.",
+  publishedOn: "2020-12-17T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "coronary care surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "CORONARY CARE SURGERY"
----
-
-# Essential Things You Need To Know About Coronary Heart Disease
+export default (props) => <BlogPost post={article} {...props} />;
 
 Coronary heart disease has become common and quite alarming. This is why the need for coronary care surgery is on peak. If you have been a victim of a coronary heart infection, your doctor must have referred you to a cardiac surgeon for a more detailed medical attention. Even though coronary care surgery can be quite costly you really need it. However, you don’t have to worry anymore about funding your coronary surgery because TLC (Total Life Credit) is always ready to provide a favorable payment plan that will perfectly match your needs.
+
+<Image src={postImage} alt={article.title} />
 
 Whether you are a victim of the coronary heart disease or not, I believe you will need to have some basic knowledge about it. I mean when it comes to health matters, its important you keep your self-updated. To help get a better understanding of the Coronary heart disease and its care, we have prepared some brief discussions on the basics that you should know.
 

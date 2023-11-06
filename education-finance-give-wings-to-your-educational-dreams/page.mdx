@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./education-finance.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'education finance give wings to your educational dreams',
-  description: 'description',
-  publishedOn: '2022-09-04T13:28:20-0400',
+  title: "education finance give wings to your educational dreams",
+  description:
+    "Students who aspire to pursue higher education abroad is becoming a common practice. Since the top universities provide the best academic as well as professional benefits, the number of people who seek to study in top universities is increasing. Many people sacrifice their dream of joining the best universities since they don’t have the amount required for their education. But with TLC, you don’t need to worry about your educational fees since we provide the education finance for all those who wish to get their higher studies in the top or desired universities.",
+  publishedOn: "2022-09-04T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "lifestyle loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "LIFESTYLE LOAN"
----
-
-# Education Finance – Give Wings To Your Educational Dreams
+export default (props) => <BlogPost post={article} {...props} />;
 
 Students who aspire to pursue higher education abroad is becoming a common practice. Since the top universities provide the best academic as well as professional benefits, the number of people who seek to study in top universities is increasing. Many people sacrifice their dream of joining the best universities since they don’t have the amount required for their education. But with TLC, you don’t need to worry about your educational fees since we provide the education finance for all those who wish to get their higher studies in the top or desired universities.
+
+<Image src={postImage} alt={article.title} />
 
 The concept of studying in the best universities is gaining more popularity all around the world among teenagers and youngsters. Due to the many advantages of taking the course, they wish to get a good education at the best universities. Hence this is comparatively fat more beneficial in terms of returns in the future. Hence you can take the educational loan so that you can finance for the higher education.
 

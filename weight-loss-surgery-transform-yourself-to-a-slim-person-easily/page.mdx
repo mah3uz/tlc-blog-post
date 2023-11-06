@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Weight-loss-surgery.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'weight loss surgery transform yourself to a slim person easily',
-  description: 'description',
-  publishedOn: '2022-02-21T13:28:20-0400',
+  title: "weight loss surgery transform yourself to a slim person easily",
+  description:
+    "Obese is a common problem which affects many people in this world. For these obese people, the common diet and exercise will not be enough to lose weight. Most of the time, obese people get more health issues which are related to obesity. That is why it is always advised to maintain weight. However, proper diet and exercise will not be suitable and effective for everyone. Many obese people report that they are unable to see the visible result seven though they try the diet and exercise based on their trainer advice.",
+  publishedOn: "2022-02-21T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEIGHT LOSS SURGERY"
----
-
-# Weight Loss Surgery – Transform Yourself To A Slim Person Easily
+export default (props) => <BlogPost post={article} {...props} />;
 
 Obese is a common problem which affects many people in this world. For these obese people, the common diet and exercise will not be enough to lose weight. Most of the time, obese people get more health issues which are related to obesity. That is why it is always advised to maintain weight. However, proper diet and exercise will not be suitable and effective for everyone. Many obese people report that they are unable to see the visible result seven though they try the diet and exercise based on their trainer advice.
+
+<Image src={postImage} alt={article.title} />
 
 Thus, the final decision taken by the people to lose weight is weight loss surgery. However, it is not an easy decision taken by individuals. If you are severely affected by overweight, then you must find out the way to reduce the weight immediately. If you think that you don’t have enough money for the surgery, then you can get it from TLC since we help the obese people to transform themselves by providing the loan amount required for the surgery.
 

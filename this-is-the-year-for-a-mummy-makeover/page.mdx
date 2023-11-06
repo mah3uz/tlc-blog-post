@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Mummy-Makeover.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'this is the year for a mummy makeover',
-  description: 'description',
-  publishedOn: '2021-04-23T13:28:20-0400',
+  title: "this is the year for a mummy makeover",
+  description:
+    "Sagging or deflated breasts? Flabby, loose tummy and skin? Pregnancy and having children are wonderous experiences, but they can leave you feeling a little less than gorgeous in the aftermath. We women often sacrifice our appearance to create these beautiful little beings, but there comes a time where we come out of the baby haze and start to want our bodies back. Mummy Makeover is the term given to any group of surgical procedures for mothers to regain their bodies after pregnancy, childbirth and breastfeeding. Specialist Plastic Surgeon [Dr Ross Farhadieh](http://www.panthea.com.au/mr-ross-farhadieh/) performs many mummy makeovers through his practice Panthea Clinics located in Sydney and Canberra and talks to us about why you might be thinking “This is the year for my mummy makeover”.",
+  publishedOn: "2021-04-23T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# This is the year for a Mummy Makeover
+export default (props) => <BlogPost post={article} {...props} />;
 
 Sagging or deflated breasts? Flabby, loose tummy and skin? Pregnancy and having children are wonderous experiences, but they can leave you feeling a little less than gorgeous in the aftermath. We women often sacrifice our appearance to create these beautiful little beings, but there comes a time where we come out of the baby haze and start to want our bodies back. Mummy Makeover is the term given to any group of surgical procedures for mothers to regain their bodies after pregnancy, childbirth and breastfeeding. Specialist Plastic Surgeon [Dr Ross Farhadieh](http://www.panthea.com.au/mr-ross-farhadieh/) performs many mummy makeovers through his practice Panthea Clinics located in Sydney and Canberra and talks to us about why you might be thinking “This is the year for my mummy makeover”.
+
+<Image src={postImage} alt={article.title} />
 
 ## “I want my body back” – when should you consider a mummy makeover?
 

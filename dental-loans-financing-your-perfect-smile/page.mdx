@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Dental-Loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental loans financing your perfect smile',
-  description: 'description',
-  publishedOn: '2022-05-31T13:28:21-0400',
+  title: "Dental Loans: Financing Your Perfect Smile with TLC Finance",
+  description:
+    "A beautiful smile is often considered a key factor in boosting self-confidence and leaving a lasting impression. However, dental treatments can be expensive, making it difficult for individuals to achieve their desired oral health goals. Fortunately, dental loans can provide the financial support needed to afford necessary dental procedures and improve overall oral well-being. In this article, we will explore how TLC Finance can help you obtain the dental loan you need to achieve your perfect smile.",
+  publishedOn: "2022-05-31T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Dental Loans: Financing Your Perfect Smile with TLC Finance
+export default (props) => <BlogPost post={article} {...props} />;
 
 A beautiful smile is often considered a key factor in boosting self-confidence and leaving a lasting impression. However, dental treatments can be expensive, making it difficult for individuals to achieve their desired oral health goals. Fortunately, dental loans can provide the financial support needed to afford necessary dental procedures and improve overall oral well-being. In this article, we will explore how TLC Finance can help you obtain the dental loan you need to achieve your perfect smile.
+
+<Image src={postImage} alt={article.title} />
 
 ## Understanding Dental Loans:
 

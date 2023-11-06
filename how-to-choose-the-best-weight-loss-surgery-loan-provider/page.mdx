@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./WeightLoss-Surgery-1.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'how to choose the best weight loss surgery loan provider',
-  description: 'description',
-  publishedOn: '2021-03-05T13:28:20-0400',
+  title: "how to choose the best weight loss surgery loan provider",
+  description:
+    "Are you tired of struggling to lose weight on your own? Have you considered weight loss surgery but can’t afford the upfront costs? Don’t worry, because there are loan providers that specialize in financing these procedures. But with so many options available, how do you choose the best one? In this blog post, we’ll provide helpful tips and insights on how to select a trustworthy and affordable weight loss surgery loan provider. Let’s get started!",
+  publishedOn: "2021-03-05T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "WEIGHT LOSS SURGERY"
----
-
-# How to Choose the Best Weight Loss Surgery Loan Provider
+export default (props) => <BlogPost post={article} {...props} />;
 
 Are you tired of struggling to lose weight on your own? Have you considered weight loss surgery but can’t afford the upfront costs? Don’t worry, because there are loan providers that specialize in financing these procedures. But with so many options available, how do you choose the best one? In this blog post, we’ll provide helpful tips and insights on how to select a trustworthy and affordable weight loss surgery loan provider. Let’s get started!
+
+<Image src={postImage} alt={article.title} />
 
 ## How to Compare Weight Loss Surgery Loan Providers
 

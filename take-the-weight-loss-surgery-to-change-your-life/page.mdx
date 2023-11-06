@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./weight-loss-surgery-loan.jpeg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'take the weight loss surgery to change your life',
-  description: 'description',
-  publishedOn: '2022-01-12T13:28:20-0400',
+  title:
+    "Losing In Your Weight Loss Battle? Take The Weight Loss Surgery To Change Your Life",
+  description:
+    "According to the latest data from the National Health and Nutrition Examination Survey (NHANES), 1 in 3 adults are considered obese and about 1 in 6 children and adolescents (usually aged between 2 – 19 years) were considered to have obesity. The number of people who are suffering from obesity is also increasing nowadays.",
+  publishedOn: "2022-01-12T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "bariatric surgery loan, weight loss surgery",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "BARIATRIC SURGERY LOAN, WEIGHT LOSS SURGERY"
----
-
-# Losing In Your Weight Loss Battle? Take The Weight Loss Surgery To Change Your Life
+export default (props) => <BlogPost post={article} {...props} />;
 
 According to the latest data from the National Health and Nutrition Examination Survey (NHANES), 1 in 3 adults are considered obese and about 1 in 6 children and adolescents (usually aged between 2 – 19 years) were considered to have obesity. The number of people who are suffering from obesity is also increasing nowadays.
+
+<Image src={postImage} alt={article.title} />
 
 Sometimes, the diet and regular exercise may not help you get the expected result. Hence, at these times all you need is to look for weight loss surgery. Bariatric surgery is the best choice that is widely accepted all over the world for weight loss and the treatment of many other obesity-related conditions.
 

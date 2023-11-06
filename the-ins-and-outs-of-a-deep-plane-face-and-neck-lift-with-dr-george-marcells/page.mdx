@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Face-and-Neck-Lift.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'the ins and outs of a deep plane face and neck lift with dr george marcells',
-  description: 'description',
-  publishedOn: '2022-01-04T13:28:20-0400',
+  title:
+    "the ins and outs of a deep plane face and neck lift with dr george marcells",
+  description:
+    "Often referred to as “turkey neck”, the technical term for a neck lift is platysmaplasty, which originates from the name for the muscles on each side of the neck that extend from the should all the way up to the corner of your mouth. As we age these muscles loosen and combined with excess skin and fat that also tends to store around the neck and jowls area, especially after weight fluctuations, it can contribute to saggy skin and a double chin resulting in an ageing appearance that won’t fix itself not matter how much diet and exercise we do. We had a chat with [Dr. George Marcells](https://www.plasticsurgeryhub.com.au/psh-directory/cosmetic-practitioners-clinics/dr-george-marcells/), one of Sydney’s most popular Facial plastic surgeons about why he prefers the Deep Plane Face and Neck (DPFN) lift which also extends to incorporate the browline.",
+  publishedOn: "2022-01-04T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# The Ins and Outs of a Deep Plane Face and Neck Lift with Dr George Marcells
+export default (props) => <BlogPost post={article} {...props} />;
 
 Often referred to as “turkey neck”, the technical term for a neck lift is platysmaplasty, which originates from the name for the muscles on each side of the neck that extend from the should all the way up to the corner of your mouth. As we age these muscles loosen and combined with excess skin and fat that also tends to store around the neck and jowls area, especially after weight fluctuations, it can contribute to saggy skin and a double chin resulting in an ageing appearance that won’t fix itself not matter how much diet and exercise we do. We had a chat with [Dr. George Marcells](https://www.plasticsurgeryhub.com.au/psh-directory/cosmetic-practitioners-clinics/dr-george-marcells/), one of Sydney’s most popular Facial plastic surgeons about why he prefers the Deep Plane Face and Neck (DPFN) lift which also extends to incorporate the browline.
+
+<Image src={postImage} alt={article.title} />
 
 ## How do you know you’re a good candidate for the Deep Plane Face and Neck Lift?
 

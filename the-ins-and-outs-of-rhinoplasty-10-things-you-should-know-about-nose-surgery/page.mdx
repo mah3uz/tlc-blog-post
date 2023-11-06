@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./The-Ins-and-Outs-of-Rhinoplasty.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'the ins and outs of rhinoplasty 10 things you should know about nose surgery',
-  description: 'description',
-  publishedOn: '2020-12-19T13:28:20-0400',
+  title:
+    "the ins and outs of rhinoplasty 10 things you should know about nose surgery",
+  description:
+    "While nose surgery is one of the more popular cosmetic and plastic surgery procedures, it is also the trickiest to get right. It has the largest number of revision surgeries out of any other plastic surgery. Rhinoplasty is an art form in itself and is important to get right not just because of aesthetic reasons but because of the functional aspect too – breathing is kind of important, right?! [Dr George Marcells](https://www.plasticsurgeryhub.com.au/psh-directory/cosmetic-practitioners-clinics/dr-george-marcells/) is considered a rhinoplasty master internationally by his colleagues and is the surgeon other surgeons go to. He helped us with this list of the ins and outs of [rhinoplasty](https://www.plasticsurgeryhub.com.au/procedure/nose-job-surgery-rhinoplasty/) – things you should know about nose surgery.",
+  publishedOn: "2020-12-19T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# The Ins and Outs of Rhinoplasty – 10 things you should know about nose surgery
+export default (props) => <BlogPost post={article} {...props} />;
 
 While nose surgery is one of the more popular cosmetic and plastic surgery procedures, it is also the trickiest to get right. It has the largest number of revision surgeries out of any other plastic surgery. Rhinoplasty is an art form in itself and is important to get right not just because of aesthetic reasons but because of the functional aspect too – breathing is kind of important, right?! [Dr George Marcells](https://www.plasticsurgeryhub.com.au/psh-directory/cosmetic-practitioners-clinics/dr-george-marcells/) is considered a rhinoplasty master internationally by his colleagues and is the surgeon other surgeons go to. He helped us with this list of the ins and outs of [rhinoplasty](https://www.plasticsurgeryhub.com.au/procedure/nose-job-surgery-rhinoplasty/) – things you should know about nose surgery.
+
+<Image src={postImage} alt={article.title} />
 
 **1. Rhinoplasty is one of the oldest forms of plastic surgery**
 

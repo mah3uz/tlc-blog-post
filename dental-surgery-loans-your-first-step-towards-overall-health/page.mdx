@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Untitled-design-9.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental surgery loans your first step towards overall health',
-  description: 'description',
-  publishedOn: '2021-06-28T13:28:21-0400',
+  title: "dental surgery loans your first step towards overall health",
+  description:
+    "Ignoring oral health issues or tooth loss is a serious problem since it can be a grave mistake as the teeth connect with other organs in the body through nerves. Generally, tooth loss is a serious issue since it will cause speaking and mastication. However, it is lesser-known by the people that loss of teeth and oral tissues will cause many other health issues in the body. Since it is studied that oral issues can cause health issues, it is important to address the issues in the earlier stage so that you can lead a healthy life.=",
+  publishedOn: "2021-06-28T13:28:21-0400",
   image: postImage,
-  category: 'medical',
+  category: "dental surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL SURGERY LOAN"
----
-
-# Dental Surgery Loans – Your First Step Towards Overall Health
+export default (props) => <BlogPost post={article} {...props} />;
 
 Ignoring oral health issues or tooth loss is a serious problem since it can be a grave mistake as the teeth connect with other organs in the body through nerves. Generally, tooth loss is a serious issue since it will cause speaking and mastication. However, it is lesser-known by the people that loss of teeth and oral tissues will cause many other health issues in the body. Since it is studied that oral issues can cause health issues, it is important to address the issues in the earlier stage so that you can lead a healthy life.
+
+<Image src={postImage} alt={article.title} />
 
 Most of the time people ignore health issues due to high treatment fees. Most of the time people will not have enough amount for their treatment. But, if this is the main reason for you to avoid dental checkups and treatment, then don’t repeat it again. Nowadays, it is easier to get dental surgery loans which can be used as a financial source for your treatment.
 

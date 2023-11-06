@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Dental-surgery-loans.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'dental surgery loans financial support for oral surgery procedures',
-  description: 'description',
-  publishedOn: '2021-01-18T13:28:20-0400',
+  title: "Dental Surgery Loans: Financial Support for Oral Surgery Procedures",
+  description:
+    "When it comes to dental health, oral surgery is sometimes necessary to address complex dental conditions. However, the cost of oral surgery procedures can be a significant financial burden for many individuals. Fortunately, dental surgery loans offer a viable solution, providing financial support specifically tailored for oral surgery expenses. In this article, we will explore the benefits of dental surgery loans and how they can help individuals obtain the necessary funds for oral surgery procedures.",
+  publishedOn: "2021-01-18T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "DENTAL LOAN"
----
-
-# Dental Surgery Loans: Financial Support for Oral Surgery Procedures
+export default (props) => <BlogPost post={article} {...props} />;
 
 When it comes to dental health, oral surgery is sometimes necessary to address complex dental conditions. However, the cost of oral surgery procedures can be a significant financial burden for many individuals. Fortunately, dental surgery loans offer a viable solution, providing financial support specifically tailored for oral surgery expenses. In this article, we will explore the benefits of dental surgery loans and how they can help individuals obtain the necessary funds for oral surgery procedures.
+
+<Image src={postImage} alt={article.title} />
 
 Dental surgery loans are specialized loans designed to offer financial assistance to individuals undergoing oral surgery procedures. These loans are specifically structured to cover various expenses related to oral surgery, including surgical fees, anesthesia costs, pre-and post-operative care, medications, and any additional treatments required. By offering dedicated financial support, dental surgery loans ensure that individuals can access the necessary funds without compromising their dental health.
 

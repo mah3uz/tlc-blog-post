@@ -1,33 +1,29 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./orthodontic-surgery-loan.jpeg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'top issues for which you may need orthodontic surgery loan',
-  description: 'description',
-  publishedOn: '2022-05-16T13:28:20-0400',
+  title:
+    "Top Issues For Which You May Need An Orthodontic Surgery Loan From TLC",
+  description:
+    "With the advancement in medical science today, anyone can get treatment for various oral health issues. For a long time, teeth misalignment has been one of the most crucial dental issues. It is said that misaligned teeth cause various health issues. it will make it hard to chew the food properly and will also link to digestive and gut health issues.",
+  publishedOn: "2022-05-16T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "uncategorized",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "UNCATEGORIZED"
----
-
-# Top Issues For Which You May Need An Orthodontic Surgery Loan From TLC
+export default (props) => <BlogPost post={article} {...props} />;
 
 With the advancement in medical science today, anyone can get treatment for various oral health issues. For a long time, teeth misalignment has been one of the most crucial dental issues. It is said that misaligned teeth cause various health issues. it will make it hard to chew the food properly and will also link to digestive and gut health issues.
+
+<Image src={postImage} alt={article.title} />
 
 At these times, all you need is to reach out to the orthodontic professional. People often get confused between the dentist and orthodontist. So, who is an orthodontist? A dentist is the one who helps you with dental issues such as cavities, teeth brightening, toothache, and so on. But the orthodontist has a different role. It sets them apart from the general dentist.
 

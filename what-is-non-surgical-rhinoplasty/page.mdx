@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Non-Surgical-Rhinoplasty.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'what is non surgical rhinoplasty',
-  description: 'description',
-  publishedOn: '2021-07-17T13:28:20-0400',
+  title: "what is non surgical rhinoplasty",
+  description:
+    "More of us are more unhappy about the shape and size of our nose than anything else on our bodies, if you consider that rhinoplasty is the most common plastic surgery procedure. With all the new products and techniques on the market, it is now possible to have a rhinoplasty without surgery! Non-surgical rhinoplasty is one of the most popular treatments at Avenue Skin Care in Melbourne and they are getting some amazing results that they were happy to share with us. They were also happy to chat with us and answer our question, What is Non Surgical Rhinoplasty?",
+  publishedOn: "2021-07-17T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# What is Non-Surgical Rhinoplasty
+export default (props) => <BlogPost post={article} {...props} />;
 
 More of us are more unhappy about the shape and size of our nose than anything else on our bodies, if you consider that rhinoplasty is the most common plastic surgery procedure. With all the new products and techniques on the market, it is now possible to have a rhinoplasty without surgery! Non-surgical rhinoplasty is one of the most popular treatments at Avenue Skin Care in Melbourne and they are getting some amazing results that they were happy to share with us. They were also happy to chat with us and answer our question, What is Non Surgical Rhinoplasty?
+
+<Image src={postImage} alt={article.title} />
 
 ### How is a rhinoplasty a rhinoplasty without surgery?
 

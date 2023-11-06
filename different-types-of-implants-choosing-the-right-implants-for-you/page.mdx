@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./Different-Types-of-Implants.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'different types of implants choosing the right implants for you',
-  description: 'description',
-  publishedOn: '2020-09-17T13:28:20-0400',
+  title: "different types of implants choosing the right implants for you",
+  description:
+    "Choosing your implants is an important part of planning your breast augmentation. But which ones will you decide on? [Dr Mark Hanikeri](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-mark-hanikeri/), Specialist Plastic Surgeon from Perth, helps us take a look at the different types of implants and how to identify which ones are right for you.",
+  publishedOn: "2020-09-17T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Different Types of Implants – Choosing the right implants for you
+export default (props) => <BlogPost post={article} {...props} />;
 
 Choosing your implants is an important part of planning your breast augmentation. But which ones will you decide on? [Dr Mark Hanikeri](https://www.plasticsurgeryhub.com.au/psh-directory/plastic-surgeons/mr-mark-hanikeri/), Specialist Plastic Surgeon from Perth, helps us take a look at the different types of implants and how to identify which ones are right for you.
+
+<Image src={postImage} alt={article.title} />
 
 What are the different types of breast implants?
 

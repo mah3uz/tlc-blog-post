@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./plastic_surgery_loans-1.jpg";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'getting plastic surgery loans for cosmetic surgery',
-  description: 'description',
-  publishedOn: '2021-03-16T13:28:20-0400',
+  title: "getting plastic surgery loans for cosmetic surgery",
+  description:
+    "It is not easy to take the plunge and have cosmetic surgery & plastic surgery loans. In addition to the typical doubts that people have due to the risks that can be taken, another very important factor that brings us many headaches when it comes to improving our physical appearance is money.",
+  publishedOn: "2021-03-16T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "cosmetic surgery loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "COSMETIC SURGERY LOAN"
----
-
-# Getting Plastic Surgery Loans For Cosmetic Surgery
+export default (props) => <BlogPost post={article} {...props} />;
 
 It is not easy to take the plunge and have cosmetic surgery & plastic surgery loans. In addition to the typical doubts that people have due to the risks that can be taken, another very important factor that brings us many headaches when it comes to improving our physical appearance is money.
+
+<Image src={postImage} alt={article.title} />
 
 And it is that [cosmetic surgery](https://medical.tlc.com.au/cosmetic-surgery/) involves a large outlay of money that many times we do not have available at the moment so we have decided to take the big step.
 

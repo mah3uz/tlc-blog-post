@@ -1,33 +1,28 @@
-import Image from 'next/image'
-import postImage from './postImage.jpg'
-import BlogPost from '@/components/BlogPost'
-import {users} from '@/utils/constant'
+import Image from "next/image";
+import postImage from "./cosmetic-surgery-loan.png";
+import BlogPost from "@/components/BlogPost";
+import { users } from "@/utils/constant";
 
 export const article = {
-  title: 'cosmetic surgery loan necessity',
-  description: 'description',
-  publishedOn: '2021-10-21T13:28:20-0400',
+  title: "Know All The Financing Options To Get A Cosmetic Surgery Loan",
+  description:
+    "Some of them feel bad about their appearance or with their structural defects. These defects can be due to birth or accidents or injuries. To restore the body structure all one need is the reconstructive surgery commonly known as the cosmetic surgery. These surgeries are commonly done to correct the disfigurement and restore the appearance of the person. But these surgeries are costlier. So the common search among the people is what are the options through which one can avail the cosmetic surgery loan?",
+  publishedOn: "2021-10-21T13:28:20-0400",
   image: postImage,
-  category: 'medical',
+  category: "medical loan",
   author: users.tim,
-}
+};
 
 export const metadata = {
   title: article.title,
   description: article.description,
-}
+};
 
-export default (props) => <BlogPost post={article} {...props} />
-
-<Image src={postImage} alt={article.title} />
-
----
-category: "MEDICAL LOAN"
----
-
-# Know All The Financing Options To Get A Cosmetic Surgery Loan
+export default (props) => <BlogPost post={article} {...props} />;
 
 Some of them feel bad about their appearance or with their structural defects. These defects can be due to birth or accidents or injuries. To restore the body structure all one need is the reconstructive surgery commonly known as the cosmetic surgery. These surgeries are commonly done to correct the disfigurement and restore the appearance of the person. But these surgeries are costlier. So the common search among the people is what are the options through which one can avail the cosmetic surgery loan?
+
+<Image src={postImage} alt={article.title} />
 
 People opt for taking loan because the cost required for these surgeries are generally not covered under insurance. It will be covered only when a specific insurance policy is taken. That is why taking the cosmetic surgery loan is chosen by many. This surgery is mainly for the people who wish to minimize the impact of their wounds or defects in the body which is not cured by any other means.
 
